@@ -1,0 +1,21 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
+# your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+app-emulation/aqemu:kvm - Add support kernel virtual mashine
+app-emulation/aqemu:spice - Build witch SPICEd qemu
+media-libs/acestream-x264:10bit - Set output bit depth to 10, this may not be compatible with all decoders
+media-libs/acestream-x264:interlaced - enable interlaced encoding support, this can decrease encoding speed by up to 2%
+media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
+media-video/acestream-player-data:dirac - Enable Dirac video support (an advanced royalty-free video compression format) via the reference library: dirac
+media-video/acestream-player-data:libproxy - Use net-libs/libproxy for getting the HTTP/HTTPS/SOCKS proxy configuration
+media-video/acestream-player-data:linguas_ach - unknown
+media-video/acestream-player-data:linguas_cgg - unknown
+media-video/acestream-player-data:linguas_ckb - unknown
+media-video/acestream-player-data:linguas_co - unknown
+media-video/acestream-player-data:linguas_ff - unknown
+media-video/acestream-player-data:linguas_fur - unknown
+media-video/acestream-player-data:linguas_tet - unknown
+media-video/acestream-player-data:vaapi - Enables VAAPI (Video Acceleration API) for hardware decoding
+media-video/acestream-player-data:vcdx - Enables VCD with navigation via libvcdinfo (depends on cdio)
+x11-drivers/xf86-video-ati-dri3:glamor - Enable glamor support, it can change performace depends on card.

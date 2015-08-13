@@ -1,0 +1,125 @@
+app-admin/cpu-g 0.9.0: Displays information about your CPU, RAM, Motherboard and more
+app-admin/eselect-opencl 0.0.2: Utility to change the OpenCL interface being used
+app-antivirus/clamav-unofficial-sigs 3.7.2: Downloads and installs third-party clamav signatures
+app-antivirus/clamtk 4.45: A frontend for ClamAV using Gtk2-perl
+app-antivirus/malmon 0.3: Malware Monitor
+app-benchmarks/phoronix-test-suite 5.0.1 5.4.0: Phoronix's comprehensive, cross-platform testing and benchmark suite
+app-benchmarks/systester 1.1.0: Test your system's stability and performance by calculating millions of digits of Pi.
+app-cdr/ddflash 0: Конзолен интерфейс с прогрес индикатор към програма dd за записване на boot live flash
+app-cdr/mdf2iso 0.3.0-r1: Alcohol 120% bin image to ISO image file converter
+app-emulation/aqemu 9999: Graphical interface for QEMU and KVM emulators. Using Qt4.
+app-emulation/virtualbox 5.0.0_rc1: Family of powerful x86 virtualization products for enterprise as well as home use
+app-emulation/virtualbox-additions 5.0.0_beta2 5.0.0_rc1: CD image containing guest additions for VirtualBox
+app-emulation/virtualbox-bin 5.0.0.99573_beta2: Family of powerful x86 virtualization products for enterprise as well as home use
+app-emulation/virtualbox-extpack-oracle 5.0.0.99573_beta2 5.0.0.100731_rc1: PUEL extensions for VirtualBox
+app-emulation/virtualbox-guest-additions 5.0.0_beta2 5.0.0_rc1: VirtualBox kernel modules and user-space tools for Gentoo guests
+app-emulation/virtualbox-modules 5.0.0_beta2 5.0.0_rc1: Kernel Modules for Virtualbox
+app-paludis/paludis-scripts 9999: Scripts for paludis, the other package mangler
+app-paludis/palumaj 9999: Tool to keep your Gentoo/GNU/Linux up to date using cave
+app-paludis/plop 0.2.3: A nice paludis.log parser (patched genlop)
+app-portage/paludis-deltup 0: Deltup service integration for Paludis PM
+app-portage/showbuild 0.6-r1: Script to follow build.log of running ebuilds
+app-portage/showbuild 0.9: Script to follow log of running portage builds
+app-portage/trickyfetch 7.1: Plugin for FETCHCOMMAND to help organize and cleanup your DISTDIR
+app-portage/update 9999: A most excellent portage wrapper
+app-shells/command-not-found 0.4.5: If a command is not found (bash/zsh), search ARCH database for packages with similar commands
+app-shells/zsh-syntax-highlighting 0.2.1: Fish shell like syntax highlighting for zsh
+app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
+dev-libs/acestream-libappindicator 12.10.0: A library to allow applications to export a menu into the Unity Menu bar
+dev-libs/acestream-libebml 1.2.2: Extensible binary format library (kinda like XML) for acestream
+dev-libs/acestream-libindicator 12.10.1: A set of symbols and convience functions that all indicators would like to use
+dev-libs/acestream-python-appindicator 12.10.0-r1: A library to allow applications to export a menu into the Unity Menu bar
+dev-libs/keybinder 0.2.2: A library for registering global keyboard shortcuts
+dev-libs/libchardet 1.0.4: Mozilla's Universal Charset Detector C/C++ API
+dev-lua/lrexlib 2.4.0: Binding of three regular expression libraries (POSIX, PCRE and Oniguruma) to Lua
+dev-lua/luaposix 5.1.8: POSIX bindings for Lua
+dev-python/python-ethtool 0.3: Python bindings for the ethtool kernel interface
+dev-python/python-slip 0.2.9: The Simple Library for Python packages
+gnome-extra/cardapio 9999: A lean application menu and launcher.
+gnome-extra/gis-weather 0.7.5: 
+gnome-extra/gnome-globalmenu 9999: Global menubar applet for Gnome2.
+gnome-extra/gpaste 2.9-r1: Clipboard management system
+gnome-extra/nemo-extensions 2.2.4 2.4.5: extensions for cinnamon's file-manager nemo
+kde-misc/veromix 0.17.0: Plasmoid mixer for the Pulseaudio sound server
+mail-client/geary 0.10.0: A lightweight, easy-to-use, feature-rich email client
+mate-extra/caja-extensions 1.8.0: Several Caja extensions
+media-gfx/photoqt 9999: Simple but powerful Qt5-based image viewer
+media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC streams
+media-libs/libdvbpsi 1.0.0: library for MPEG TS/DVB PSI tables decoding and generation
+media-libs/libpng 1.6.6-r99: Portable Network Graphics library
+media-libs/libsdl 1.2.15-r99: Simple Direct Media Layer
+media-libs/mesa 9999: OpenGL-like graphic library for Linux 3D Version
+media-plugins/audacious-plugins 3.3.2: Audacious Player - With optional pulse surround channel map patch
+media-plugins/gst-plugins-vaapi 0.5.3: Hardware accelerated video decoding through VA-API plugin
+media-plugins/live 2015.05.03: Source-code libraries for standards-based RTP/RTCP/RTSP multimedia streaming, suitable for embedded and/or low-cost streaming applications
+media-sound/audio-convert 0.3.1.1: Convert wav, ogg, mp3, mpc, flac, ape, aac or wma files into wav, ogg, mp3, mpc, flac, ape or aac files
+media-sound/deadbeef 0.6.1: foobar2k-like music player
+media-sound/foobnix 2.6.10: Good music and video player
+media-sound/gnormalize 0.63-r1: Audio converter/ripper featuring normalization and metadata editing
+media-sound/grip 3.3.1-r99: GTK+ based Audio CD Player/Ripper
+media-sound/mppenc 1.16: musepack audio encoder
+media-sound/pavucontrol 2.0.20141217: Pulseaudio Volume Control, GTK based mixer for Pulseaudio
+media-sound/pnmixer 9999: PNMixer is a fork of OBMixer
+media-sound/vkaudiosaver 1.5: 
+media-tv/gsopcast 9999: a gtk front-end of p2p TV sopcast
+media-tv/tvtime 1.0.2_p20110131-r3: High quality television application for use with video capture cards
+media-video/acestream-ffmpeg 1.2.12: Complete solution to record, convert and stream audio and video. Includes libavcodec
+media-video/acestream-player 3.0.2: ACE Stream HD multimedia player based on VLC
+media-video/acestream-player-data 3.0.2: ACE Stream player libraries files
+media-video/acestream-player-ubuntu 2.1.6: ACE Stream HD multimedia player based on VLC
+media-video/bomi 9999: Powerful and easy-to-use multimedia player
+media-video/gmediafinder 9999: Software to search/play stream and/or download files form youtube, youporn and some mp3 searchengines
+media-video/umplayer 0.95: UMPlayer is cross-platform and installer packages are available for the Windows, Mac and GNU / Linux operating systems. It is completely free to use and distribute so feel free to share UMPlayer with all your friends.
+media-video/umplayer 9999: UMPlayer is the multimedia player that fills all your needs
+media-video/winff 1.5.2: Graphical video and audio batch converter using ffmpeg or avconv
+net-im/jitsi-bin 2.5 2.8: Secure IM communicator that supports SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
+net-im/skype_oss_wrapper 9999: 
+net-im/viber 9999-r9999: Free calls, text and picture sharing with anyone, anywhere!
+net-libs/miniupnpc 1.9: UPnP client library and a simple UPnP client
+net-misc/megasync 1.0.37: A Qt-based program for syncing your MEGA account in your PC. This is the official app.
+net-misc/upnp-router-control 0.2: Control UPnP of a router
+net-p2p/acestream-engine 2.1.6-r2 3.0.5: ACE Stream Engine
+net-p2p/acestream-engine-ubuntu 2.1.6-r2 3.0.5: ACE Stream Engine
+net-p2p/flush 0.9.11 0.9.12: A GTK-based BitTorrent client by Dmitry Konishchev
+net-p2p/sopcast-bin 3.2.6: SopCast free P2P Internet TV binary
+net-p2p/sopcast-player 0.7.4-r1: Плейър за p2p онлайн телевизия чрез sopcast приставка.
+net-wireless/gnome-bluetooth 3.10.0: Bluetooth graphical utilities integrated with GNOME
+sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
+sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
+sys-apps/inxi 9999: A full featured system information script
+sys-apps/inxi 9999-r1: Програма за извличане на подробна информация за системата.
+sys-apps/openrc-wrapper 1.6: Use openrc init scripts with systemd or other init systems
+sys-apps/portage 2.2.9-r1: Portage is the package management and distribution system for Gentoo
+sys-apps/readahead-royale 0.1: royale readahead after http://forums.gentoo.org/viewtopic-t-478491-start-0.html
+sys-apps/uksmstat 9999: Small tool to show UKSM statistics.
+sys-apps/ureadahead 0.100.0: Ureadahead - Read files in advance during boot
+sys-firmware/ipxe 1.0.0_p20120905-r1: Open source network boot (PXE) firmware
+sys-kernel/liquorix-sources 4.0.5_p3: The Liquorix Kernel Sources v3.x
+sys-kernel/ubuntu-sources 3.16.7_p33_p44 3.19.3_p20_p20: Ubuntu patched kernel sources
+sys-process/ulatencyd 0.5.0: Daemon that controls how the Linux kernel will spend it's resources on the running processes
+virtual/linux-sources 3: Virtual for Linux kernel sources
+virtual/opencl-sdk 1.1: Virtual for nv/ati opencl SDK
+virtual/udev 208-r99: Virtual to select between sys-fs/udev and sys-fs/eudev
+www-client/firefox 38.0.5 39.0 40.0_beta1: Firefox Web Browser
+www-client/firefox-bin 38.0_beta1: Firefox Web Browser
+www-client/maxthon 1.0.3.10 1.0.5.1: Maxthon for Linux
+www-client/yandex-browser-beta 15.6.2311.3894_p1: Yandex Browser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+www-plugins/acestream-plugin 3.0.2: ACE Stream multimedia plugin for web browsers
+www-plugins/acestream-plugin-ubuntu 2.1.6: ACE Stream multimedia plugin for web browsers
+www-plugins/freshplayerplugin 9999: Chromium Flash wrapper for Mozilla Firefox
+www-plugins/rosa-media-player-plugin 1.6: ROSA Media Player Plugin is designed to use with internet browsers like Firefox and Chrome/Chromium.
+x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
+x11-apps/xgamma-gui 9999: xgamma GUI program. allow user adjust color, and real-time preview etc.
+x11-drivers/ati-drivers 14.12-r4 15.1 15.5: Ati precompiled drivers for Radeon Evergreen (HD5000 Series) and newer chipsets
+x11-drivers/xf86-video-ati-dri3 9999: ATI video driver
+x11-libs/libva 1.5.0-r1: Video Acceleration (VA) API for Linux
+x11-libs/libvdpau-va-gl 0.3.4 9999: VDPAU driver with VA-API/OpenGL backend.
+x11-misc/adeskbar 0.4.3: A Quick Application Launcher
+x11-misc/caffeine 2.6.2: Manually and automatically control the desktop's idle state.
+x11-misc/calculate-usb-creator 0.1: Инструмент для создания загрузочных USB FLASH.
+x11-misc/calculate-usb-creator-bg 0.1: Инструмент за създаване на зареждащ USB FLASH.
+x11-misc/dock-applet 9999: Application dock for the MATE panel
+x11-misc/dockbarx 0.90.3 0.91.4 9999: DockBarX is a lightweight taskbar / panel replacement for Linux
+x11-misc/slim 1.3.6-r99: Simple Login Manager
+x11-plugins/purple-vk-plugin 0.9-r346: Pidgin plugin for vk.com social network
+xfce-extra/xfce4-dockbarx-plugin 0.2.1 0.3.1: Embed DockbarX in the xfce4-panel
