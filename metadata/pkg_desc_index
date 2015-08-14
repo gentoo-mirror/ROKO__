@@ -18,8 +18,7 @@ app-paludis/paludis-scripts 9999: Scripts for paludis, the other package mangler
 app-paludis/palumaj 9999: Tool to keep your Gentoo/GNU/Linux up to date using cave
 app-paludis/plop 0.2.3: A nice paludis.log parser (patched genlop)
 app-portage/paludis-deltup 0: Deltup service integration for Paludis PM
-app-portage/showbuild 0.6-r1: Script to follow build.log of running ebuilds
-app-portage/showbuild 0.9: Script to follow log of running portage builds
+app-portage/showbuild 0.6-r1 0.9: Script to follow log of running portage builds
 app-portage/trickyfetch 7.1: Plugin for FETCHCOMMAND to help organize and cleanup your DISTDIR
 app-portage/update 9999: A most excellent portage wrapper
 app-shells/command-not-found 0.4.5: If a command is not found (bash/zsh), search ARCH database for packages with similar commands
@@ -69,8 +68,7 @@ media-video/acestream-player-data 3.0.2: ACE Stream player libraries files
 media-video/acestream-player-ubuntu 2.1.6: ACE Stream HD multimedia player based on VLC
 media-video/bomi 9999: Powerful and easy-to-use multimedia player
 media-video/gmediafinder 9999: Software to search/play stream and/or download files form youtube, youporn and some mp3 searchengines
-media-video/umplayer 0.95: UMPlayer is cross-platform and installer packages are available for the Windows, Mac and GNU / Linux operating systems. It is completely free to use and distribute so feel free to share UMPlayer with all your friends.
-media-video/umplayer 9999: UMPlayer is the multimedia player that fills all your needs
+media-video/umplayer 0.95 9999: UMPlayer is the multimedia player that fills all your needs
 media-video/winff 1.5.2: Graphical video and audio batch converter using ffmpeg or avconv
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator that supports SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
 net-im/skype_oss_wrapper 9999: 
@@ -86,8 +84,7 @@ net-p2p/sopcast-player 0.7.4-r1: Плейър за p2p онлайн телеви
 net-wireless/gnome-bluetooth 3.10.0: Bluetooth graphical utilities integrated with GNOME
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
-sys-apps/inxi 9999: A full featured system information script
-sys-apps/inxi 9999-r1: Програма за извличане на подробна информация за системата.
+sys-apps/inxi 9999 9999-r1: Програма за извличане на подробна информация за системата.
 sys-apps/openrc-wrapper 1.6: Use openrc init scripts with systemd or other init systems
 sys-apps/portage 2.2.9-r1: Portage is the package management and distribution system for Gentoo
 sys-apps/readahead-royale 0.1: royale readahead after http://forums.gentoo.org/viewtopic-t-478491-start-0.html
