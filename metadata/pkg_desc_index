@@ -8,12 +8,6 @@ app-benchmarks/systester 1.1.0: Test your system's stability and performance by 
 app-cdr/ddflash 0: Конзолен интерфейс с прогрес индикатор към програма dd за записване на boot live flash
 app-cdr/mdf2iso 0.3.0-r1: Alcohol 120% bin image to ISO image file converter
 app-emulation/aqemu 9999: Graphical interface for QEMU and KVM emulators. Using Qt4.
-app-emulation/virtualbox 5.0.0_rc1: Family of powerful x86 virtualization products for enterprise as well as home use
-app-emulation/virtualbox-additions 5.0.0_beta2 5.0.0_rc1: CD image containing guest additions for VirtualBox
-app-emulation/virtualbox-bin 5.0.0.99573_beta2: Family of powerful x86 virtualization products for enterprise as well as home use
-app-emulation/virtualbox-extpack-oracle 5.0.0.99573_beta2 5.0.0.100731_rc1: PUEL extensions for VirtualBox
-app-emulation/virtualbox-guest-additions 5.0.0_beta2 5.0.0_rc1: VirtualBox kernel modules and user-space tools for Gentoo guests
-app-emulation/virtualbox-modules 5.0.0_beta2 5.0.0_rc1: Kernel Modules for Virtualbox
 app-paludis/paludis-scripts 9999: Scripts for paludis, the other package mangler
 app-paludis/palumaj 9999: Tool to keep your Gentoo/GNU/Linux up to date using cave
 app-paludis/plop 0.2.3: A nice paludis.log parser (patched genlop)
@@ -21,6 +15,7 @@ app-portage/paludis-deltup 0: Deltup service integration for Paludis PM
 app-portage/showbuild 0.6-r1 0.9: Script to follow log of running portage builds
 app-portage/trickyfetch 7.1: Plugin for FETCHCOMMAND to help organize and cleanup your DISTDIR
 app-portage/update 9999: A most excellent portage wrapper
+app-portage/update-notifier-tray 1.2: update-notifier like tray icon for portage
 app-shells/command-not-found 0.4.5: If a command is not found (bash/zsh), search ARCH database for packages with similar commands
 app-shells/zsh-syntax-highlighting 0.2.1: Fish shell like syntax highlighting for zsh
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
@@ -94,7 +89,6 @@ sys-firmware/ipxe 1.0.0_p20120905-r1: Open source network boot (PXE) firmware
 sys-kernel/liquorix-sources 4.0.5_p3: The Liquorix Kernel Sources v3.x
 sys-kernel/ubuntu-sources 3.16.7_p33_p44 3.19.3_p20_p20: Ubuntu patched kernel sources
 sys-process/ulatencyd 0.5.0: Daemon that controls how the Linux kernel will spend it's resources on the running processes
-virtual/linux-sources 3: Virtual for Linux kernel sources
 virtual/opencl-sdk 1.1: Virtual for nv/ati opencl SDK
 virtual/udev 208-r99: Virtual to select between sys-fs/udev and sys-fs/eudev
 www-client/firefox 38.0.5 39.0 40.0_beta1: Firefox Web Browser
