@@ -27,7 +27,6 @@ dev-libs/acestream-python-appindicator 12.10.0-r1: A library to allow applicatio
 dev-libs/keybinder 0.2.2: A library for registering global keyboard shortcuts
 dev-libs/libchardet 1.0.4: Mozilla's Universal Charset Detector C/C++ API
 dev-lua/lrexlib 2.4.0: Binding of three regular expression libraries (POSIX, PCRE and Oniguruma) to Lua
-dev-lua/luaposix 5.1.8: POSIX bindings for Lua
 dev-python/python-ethtool 0.3: Python bindings for the ethtool kernel interface
 dev-python/python-slip 0.2.9: The Simple Library for Python packages
 gnome-extra/cardapio 9999: A lean application menu and launcher.
