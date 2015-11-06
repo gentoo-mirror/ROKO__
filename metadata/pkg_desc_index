@@ -44,10 +44,29 @@ media-libs/libpng 1.6.6-r99: Portable Network Graphics library
 media-libs/libsdl 1.2.15-r99: Simple Direct Media Layer
 media-libs/mesa 9999: OpenGL-like graphic library for Linux 3D Version
 media-plugins/audacious-plugins 3.3.2: Audacious Player - With optional pulse surround channel map patch
+media-plugins/deadbeef-archive-reader 20140219 99999999: DeaDBeeF vfs archive reader plugin with gzip, 7z and rar support
+media-plugins/deadbeef-bookmark-manager 20140514 99999999: DeaDBeeF bookmark manager plugin
+media-plugins/deadbeef-bs2b 20110319 99999999: DeaDBeeF bs2b dsp plugin
+media-plugins/deadbeef-decast 20150201: DeaDBeeF podcast subscription plugin
+media-plugins/deadbeef-fb 20141028 99999999: DeaDBeeF filebrowser plugin
+media-plugins/deadbeef-gnome-mmkeys 20131012 99999999: DeaDBeeF gnome (via dbus) multimedia keys plugin
+media-plugins/deadbeef-infobar 1.4 9999: DeaDBeeF infobar plugin that shows lyrics and artist's biography for the current track
+media-plugins/deadbeef-jack 20110321 99999999: DeaDBeeF jack output plugin
+media-plugins/deadbeef-librarybrowser 20141201 99999999: DeaDBeeF filebrowser plugin that resemble foobar2k music library
+media-plugins/deadbeef-mpris 1.8 99999999: DeaDBeeF MPRIS plugin
+media-plugins/deadbeef-musical-spectrum 20150124 99999999: DeaDBeeF musical spectrum plugin
+media-plugins/deadbeef-opus 0.6 99999999: DeaDBeeF ogg opus decoder plugin
+media-plugins/deadbeef-plugins-meta 1: Meta package for DeaDBeeF player third party plugins
+media-plugins/deadbeef-replaygain-control 20140802 99999999: DeaDBeeF replay gain control plugin
+media-plugins/deadbeef-spectrogram 20150110 99999999: DeaDBeeF spectrogram plugin
+media-plugins/deadbeef-stereo-widener 20110319 99999999: DeaDBeeF simple stereo widener plugin
+media-plugins/deadbeef-vk 0.2.2 9999: DeaDBeeF plugin for listening music from vkontakte.com
+media-plugins/deadbeef-vu-meter 20140914 99999999: DeaDBeeF vu meter plugin
+media-plugins/deadbeef-waveform-seekbar 0.5 9999: DeaDBeeF waveform seekbar plugin
 media-plugins/gst-plugins-vaapi 0.5.3: Hardware accelerated video decoding through VA-API plugin
 media-plugins/live 2015.05.03: Source-code libraries for standards-based RTP/RTCP/RTSP multimedia streaming, suitable for embedded and/or low-cost streaming applications
 media-sound/audio-convert 0.3.1.1: Convert wav, ogg, mp3, mpc, flac, ape, aac or wma files into wav, ogg, mp3, mpc, flac, ape or aac files
-media-sound/deadbeef 0.6.1: foobar2k-like music player
+media-sound/deadbeef 0.6.1 0.6.2: foobar2k-like music player
 media-sound/foobnix 2.6.10: Good music and video player
 media-sound/gnormalize 0.63-r1: Audio converter/ripper featuring normalization and metadata editing
 media-sound/grip 3.3.1-r99: GTK+ based Audio CD Player/Ripper
@@ -109,7 +128,7 @@ x11-misc/adeskbar 0.4.3: A Quick Application Launcher
 x11-misc/caffeine 2.6.2: Manually and automatically control the desktop's idle state.
 x11-misc/calculate-usb-creator 0.1: Инструмент для создания загрузочных USB FLASH.
 x11-misc/calculate-usb-creator-bg 0.1: Инструмент за създаване на зареждащ USB FLASH.
-x11-misc/dock-applet 9999: Application dock for the MATE panel
+x11-misc/dock-applet 0.64 9999: Application dock for the MATE panel
 x11-misc/dockbarx 0.90.3 0.91.4 9999: DockBarX is a lightweight taskbar / panel replacement for Linux
 x11-misc/slim 1.3.6-r99: Simple Login Manager
 x11-plugins/purple-vk-plugin 0.9-r346: Pidgin plugin for vk.com social network
