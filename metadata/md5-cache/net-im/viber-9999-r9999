@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Free calls, text and picture sharing with anyone, anywhere!
+EAPI=5
+HOMEPAGE=http://www.viber.com
+KEYWORDS=amd64
+RESTRICT=strip
+SLOT=0
+SRC_URI=http://download.cdn.viber.com/cdn/desktop/Linux/viber.deb
+_eclass_exported_funcs=src_unpack:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=e1fd97db9177c7233b149fb7ff9f7aa1

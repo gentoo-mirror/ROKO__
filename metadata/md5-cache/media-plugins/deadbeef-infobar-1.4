@@ -1,0 +1,16 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=dev-libs/libxml2:2 x11-libs/gdk-pixbuf:2[jpeg] media-sound/deadbeef:0[curl] media-sound/deadbeef:0 gtk2? ( media-sound/deadbeef:0[gtk2] ) gtk3? ( media-sound/deadbeef:0[gtk3] )
+DESCRIPTION=DeaDBeeF infobar plugin for DeadBeeF that shows lyrics and artist's biography for the current track
+EAPI=5
+HOMEPAGE=https://bitbucket.org/dsimbiriatin/deadbeef-infobar
+IUSE=+gtk2 gtk3
+KEYWORDS=~*
+LICENSE=GPL-2
+RDEPEND=dev-libs/libxml2:2 x11-libs/gdk-pixbuf:2[jpeg] media-sound/deadbeef:0[curl] media-sound/deadbeef:0 gtk2? ( media-sound/deadbeef:0[gtk2] ) gtk3? ( media-sound/deadbeef:0[gtk3] )
+REQUIRED_USE=|| ( gtk2 gtk3 )
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://bitbucket.org/dsimbiriatin/deadbeef-infobar/downloads/deadbeef-infobar-1.4.tar.gz
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:deadbeef-plugins
+_eclasses_=deadbeef-plugins	5b20c71759a8715ad73146268a59e3dd	eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=2ebcaedb3b4ce6e880eabffc54c3788f

@@ -1,0 +1,14 @@
+DEFINED_PHASES=install prepare
+DEPEND=media-sound/deadbeef:0
+DESCRIPTION=DeaDBeeF simple stereo widener plugin
+EAPI=5
+HOMEPAGE=https://gitorious.org/deadbeef-sm-plugins/stereo-widener
+KEYWORDS=~*
+LICENSE=MIT
+RDEPEND=media-sound/deadbeef:0
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://gitorious.org/deadbeef-sm-plugins/stereo-widener/archive/d3990d772b02cdc6206f067748f5d1f9650616fb.tar.gz -> deadbeef-stereo-widener-20110319.tar.gz
+_eclass_exported_funcs=src_prepare:- src_install:deadbeef-plugins
+_eclasses_=deadbeef-plugins	5b20c71759a8715ad73146268a59e3dd	eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=e0bcf5985630fa5ff5c78b73a17cf825

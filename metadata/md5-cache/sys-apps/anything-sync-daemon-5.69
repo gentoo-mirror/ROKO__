@@ -1,0 +1,14 @@
+DEFINED_PHASES=install unpack
+DEPEND=virtual/pkgconfig
+DESCRIPTION=Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
+EAPI=5
+HOMEPAGE=https://wiki.archlinux.org/index.php/Anything-sync-daemon
+IUSE=systemd
+KEYWORDS=amd64 x86
+LICENSE=GPL-2 GPL-3
+RDEPEND=app-shells/bash net-misc/rsync virtual/cron systemd? ( sys-apps/systemd )
+SLOT=0
+SRC_URI=http://repo-ck.com/source/anything-sync-daemon/anything-sync-daemon-5.69.tar.xz
+_eclass_exported_funcs=src_unpack:vcs-snapshot src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	systemd	6b4f0cefa642270eded7e6ca816fd181	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	vcs-snapshot	b45be87e7012be0af8424e8a5644da1d
+_md5_=e8272c4783aef29b1dddaad2c8a939f6

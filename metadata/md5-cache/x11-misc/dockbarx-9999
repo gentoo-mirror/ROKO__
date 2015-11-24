@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install postinst postrm prepare setup unpack
+DEPEND=dev-python/pygobject dev-python/pygtk dev-python/gconf-python dev-python/pillow dev-python/libwnck-python dev-python/gnome-applets-python dev-libs/keybinder[python] dev-python/pyxdg dev-python/python-xlib =x11-libs/libwnck-2.31.0 =gnome-base/gnome-menus-2.30.5-r1 =gnome-base/gnome-panel-2.32.1-r3 dockmanager? ( x11-misc/dockmanager ) dev-vcs/git >=sys-apps/sed-4 dev-lang/python
+DESCRIPTION=DockBarX is a lightweight taskbar / panel replacement for Linux
+EAPI=5
+HOMEPAGE=https://github.com/M7S/dockbarx
+IUSE=dockmanager
+LICENSE=GPL3
+RDEPEND=dev-python/pygobject dev-python/pygtk dev-python/gconf-python dev-python/pillow dev-python/libwnck-python dev-python/gnome-applets-python dev-libs/keybinder[python] dev-python/pyxdg dev-python/python-xlib =x11-libs/libwnck-2.31.0 =gnome-base/gnome-menus-2.30.5-r1 =gnome-base/gnome-panel-2.32.1-r3 dockmanager? ( x11-misc/dockmanager ) dev-lang/python
+RESTRICT=mirror
+SLOT=0
+_eclass_exported_funcs=pkg_postrm:- pkg_postinst:- pkg_setup:- src_unpack:git-2 src_prepare:distutils src_compile:distutils src_install:distutils
+_eclasses_=distutils	ad9e4720eb3e69090dd968b152fc611b	eutils	f20548a2f7b0128068388cd2ec26708a	git-2	df00117322129fb906bb0a53c3d6a020	gnome2-utils	588052cacdf74572e68bdfeaece20534	multilib	3972ca401cf7dbb430df9995f5d8d580	python	0c2c16ea4f9074d3248bd4365d03890c	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=76b10d6d068ece8b55bd9ef66fa7ac52

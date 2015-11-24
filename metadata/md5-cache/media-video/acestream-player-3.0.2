@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare
+DEPEND=media-video/acestream-player-data net-p2p/acestream-engine
+DESCRIPTION=ACE Stream HD multimedia player based on VLC
+EAPI=5
+HOMEPAGE=http://torrentstream.org/
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2 LGPL-2
+RDEPEND=media-video/acestream-player-data net-p2p/acestream-engine
+SLOT=0
+SRC_URI=x86? ( http://repo.acestream.org/ubuntu/pool/main/a/acestream-player/acestream-player_3.0.2-1trusty1_i386.deb ) amd64? ( http://repo.acestream.org/ubuntu/pool/main/a/acestream-player/acestream-player_3.0.2-1trusty1_amd64.deb )
+_eclass_exported_funcs=src_prepare:- src_install:-
+_md5_=fb68f65a694b00529d8080174976b47b

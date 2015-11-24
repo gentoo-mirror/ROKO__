@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install prepare setup unpack
+DEPEND=media-libs/libpng media-libs/mesa[gles2?] X? ( x11-libs/libX11 ) wayland? ( >=dev-libs/wayland-1.2 ) virtual/pkgconfig dev-lang/python !dev-lang/python[-threads] >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Opengl test suite
+EAPI=5
+HOMEPAGE=https://launchpad.net/glmark2
+IUSE=drm gles2 +opengl wayland X python_targets_python2_7
+LICENSE=GPL-3
+RDEPEND=media-libs/libpng media-libs/mesa[gles2?] X? ( x11-libs/libX11 ) wayland? ( >=dev-libs/wayland-1.2 )
+REQUIRED_USE=|| ( opengl gles2 ) || ( drm wayland X )
+SLOT=0
+_eclass_exported_funcs=pkg_setup:python-single-r1 src_unpack:git-r3 src_prepare:- src_configure:- src_compile:waf-utils src_install:waf-utils
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	git-r3	b00a846f415f26e5b66e5c44c7dc87dc	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	python-single-r1	f0877a50e1277a64cd4fe5855250102b	python-utils-r1	7d52f592fc09a002ea150d69507b5bad	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	waf-utils	ad1dd5b59c523843eebd3a9934c509ca
+_md5_=ce8c938aa11e2a9bcc6beee3e9f1fa96
