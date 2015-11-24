@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure install unpack
+DEPEND=x11-libs/gtk+:2 dev-util/pkgconfig
+DESCRIPTION=A heavily modified version of the Aurora engine
+EAPI=2
+HOMEPAGE=http://gnome-look.org/content/show.php/Equinox+GTK+Engine?content=121881
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=x11-libs/gtk+:2
+SLOT=0
+SRC_URI=http://gnome-look.org/CONTENT/content-files/121881-equinox-1.50.tar.gz -> gtk-engines-equinox-1.50.tar.gz
+_eclass_exported_funcs=src_unpack:- src_configure:- src_install:-
+_md5_=4b48292048665a03d7d0b5ea39d999e7

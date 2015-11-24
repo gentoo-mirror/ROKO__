@@ -1,0 +1,13 @@
+DEFINED_PHASES=configure install unpack
+DEPEND=x11-libs/gtk+:2 icons? ( x11-themes/faenza-icon-theme ) dev-util/pkgconfig
+DESCRIPTION=A heavily modified version of the Aurora engine
+EAPI=2
+HOMEPAGE=http://gnome-look.org/content/show.php/Equinox+GTK+Engine?content=121881
+IUSE=+icons
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=x11-libs/gtk+:2 icons? ( x11-themes/faenza-icon-theme )
+SLOT=0
+SRC_URI=http://gnome-look.org/CONTENT/content-files/121881-equinox-1.30.tar.bz2 -> gtk-engines-equinox-1.30.tar.bz2
+_eclass_exported_funcs=src_unpack:- src_configure:- src_install:-
+_md5_=58f67b816fac0271c9a7af84e2eea15f

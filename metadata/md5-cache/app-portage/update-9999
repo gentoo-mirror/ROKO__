@@ -1,0 +1,13 @@
+DEFINED_PHASES=install unpack
+DEPEND=dev-vcs/git
+DESCRIPTION=A most excellent portage wrapper
+EAPI=0
+HOMEPAGE=http://weaver.gentooexperimental.org/update.html
+KEYWORDS=~x86 ~amd64
+LICENSE=CCPL-Attribution-ShareAlike-NonCommercial-3.0
+RDEPEND=>app-shells/bash-3.1 sys-apps/ed dev-util/dialog app-portage/portage-utils app-portage/gentoolkit net-misc/curl
+RESTRICT=mirror
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_install:-
+_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
+_md5_=8fef7d9a13a309e32f8b44033a48b42c
