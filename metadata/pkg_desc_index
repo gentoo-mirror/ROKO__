@@ -4,7 +4,7 @@ app-antivirus/clamav-unofficial-sigs 3.7.2: Downloads and installs third-party c
 app-antivirus/clamtk 4.45: A frontend for ClamAV using Gtk2-perl
 app-antivirus/malmon 0.3: Malware Monitor
 app-benchmarks/glmark2 2014.03 9999: Opengl test suite
-app-benchmarks/phoronix-test-suite 5.0.1 5.4.0: Phoronix's comprehensive, cross-platform testing and benchmark suite
+app-benchmarks/phoronix-test-suite 5.0.1 5.4.0 5.8.1 6.0.0_pre4: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-benchmarks/systester 1.1.0: Test your system's stability and performance by calculating millions of digits of Pi.
 app-cdr/ddflash 0: Конзолен интерфейс с прогрес индикатор към програма dd за записване на boot live flash
 app-cdr/mdf2iso 0.3.0-r1: Alcohol 120% bin image to ISO image file converter
@@ -33,7 +33,8 @@ gnome-extra/cardapio 9999: A lean application menu and launcher.
 gnome-extra/gis-weather 0.7.5: 
 gnome-extra/gnome-globalmenu 9999: Global menubar applet for Gnome2.
 gnome-extra/gpaste 2.9-r1: Clipboard management system
-gnome-extra/nemo-extensions 2.2.4 2.4.5: extensions for cinnamon's file-manager nemo
+gnome-extra/nemo-extensions 2.2.4 2.4.5 2.6.2 2.8.0: extensions for cinnamon's file-manager nemo
+kde-apps/kde-wallpapers 15.08.3-r1: KDE wallpapers
 kde-misc/veromix 0.17.0: Plasmoid mixer for the Pulseaudio sound server
 mail-client/geary 0.10.0: A lightweight, easy-to-use, feature-rich email client
 mate-extra/caja-extensions 1.8.0: Several Caja extensions
@@ -105,7 +106,7 @@ sys-apps/readahead-royale 0.1: royale readahead after http://forums.gentoo.org/v
 sys-apps/uksmstat 9999: Small tool to show UKSM statistics.
 sys-apps/ureadahead 0.100.0: Ureadahead - Read files in advance during boot
 sys-firmware/ipxe 1.0.0_p20120905-r1: Open source network boot (PXE) firmware
-sys-kernel/liquorix-sources 4.0.5_p3: The Liquorix Kernel Sources v3.x
+sys-kernel/liquorix-sources 4.3.0_p1: The Liquorix Kernel Sources v3.x
 sys-kernel/ubuntu-sources 3.16.7_p33_p44 3.19.3_p20_p20: Ubuntu patched kernel sources
 sys-process/ulatencyd 0.5.0: Daemon that controls how the Linux kernel will spend it's resources on the running processes
 virtual/opencl-sdk 1.1: Virtual for nv/ati opencl SDK
@@ -120,7 +121,7 @@ www-plugins/freshplayerplugin 9999: Chromium Flash wrapper for Mozilla Firefox
 www-plugins/rosa-media-player-plugin 1.6: ROSA Media Player Plugin is designed to use with internet browsers like Firefox and Chrome/Chromium.
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-apps/xgamma-gui 9999: xgamma GUI program. allow user adjust color, and real-time preview etc.
-x11-drivers/ati-drivers 14.12-r4 15.1 15.5: Ati precompiled drivers for Radeon Evergreen (HD5000 Series) and newer chipsets
+x11-drivers/ati-drivers 15.11: Ati precompiled drivers for Radeon (HD7700+ HD8500+ Series) and newer chipsets
 x11-drivers/xf86-video-ati-dri3 9999: ATI video driver
 x11-libs/libva 1.5.0-r1: Video Acceleration (VA) API for Linux
 x11-libs/libvdpau-va-gl 0.3.4 9999: VDPAU driver with VA-API/OpenGL backend.
