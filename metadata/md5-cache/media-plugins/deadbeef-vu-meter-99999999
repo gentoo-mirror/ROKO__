@@ -10,5 +10,5 @@ REQUIRED_USE=|| ( gtk2 gtk3 )
 RESTRICT=mirror
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_compile:- src_install:deadbeef-plugins
-_eclasses_=deadbeef-plugins	5b20c71759a8715ad73146268a59e3dd	eutils	f20548a2f7b0128068388cd2ec26708a	git-r3	e6443022d06c4de81a14e017bdfcc306	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=deadbeef-plugins	5b20c71759a8715ad73146268a59e3dd	eutils	d9bd2ddd85a58e470b49ca997e255a4c	git-r3	e6443022d06c4de81a14e017bdfcc306	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=f3c3eced394d114e64286c0f90c87a12
