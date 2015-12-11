@@ -3,7 +3,6 @@ app-admin/eselect-opencl 0.0.2: Utility to change the OpenCL interface being use
 app-antivirus/clamav-unofficial-sigs 3.7.2: Downloads and installs third-party clamav signatures
 app-antivirus/clamtk 4.45: A frontend for ClamAV using Gtk2-perl
 app-antivirus/malmon 0.3: Malware Monitor
-app-benchmarks/glmark2 2014.03 9999: Opengl test suite
 app-benchmarks/phoronix-test-suite 5.0.1 5.4.0 5.8.1 6.0.0_pre4: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-benchmarks/systester 1.1.0: Test your system's stability and performance by calculating millions of digits of Pi.
 app-cdr/ddflash 0: Конзолен интерфейс с прогрес индикатор към програма dd за записване на boot live flash
@@ -35,7 +34,6 @@ gnome-extra/gnome-globalmenu 9999: Global menubar applet for Gnome2.
 gnome-extra/gpaste 2.9-r1: Clipboard management system
 gnome-extra/nemo-extensions 2.2.4 2.4.5 2.6.2 2.8.0: extensions for cinnamon's file-manager nemo
 kde-apps/kde-wallpapers 15.08.3-r1: KDE wallpapers
-kde-misc/veromix 0.17.0: Plasmoid mixer for the Pulseaudio sound server
 mail-client/geary 0.10.0: A lightweight, easy-to-use, feature-rich email client
 mate-extra/caja-extensions 1.8.0: Several Caja extensions
 media-gfx/photoqt 9999: Simple but powerful Qt5-based image viewer
