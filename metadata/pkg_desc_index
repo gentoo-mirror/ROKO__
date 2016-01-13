@@ -29,6 +29,7 @@ dev-libs/libchardet 1.0.4: Mozilla's Universal Charset Detector C/C++ API
 dev-lua/lrexlib 2.4.0: Binding of three regular expression libraries (POSIX, PCRE and Oniguruma) to Lua
 dev-python/python-ethtool 0.3: Python bindings for the ethtool kernel interface
 dev-python/python-slip 0.2.9: The Simple Library for Python packages
+gnome-extra/budgie-desktop 10.2.2 9999: Lightweight GNOME 3-based Desktop Environment used by Solus Project
 gnome-extra/cardapio 9999: A lean application menu and launcher.
 gnome-extra/gis-weather 0.7.5: 
 gnome-extra/gnome-globalmenu 9999: Global menubar applet for Gnome2.
@@ -74,6 +75,7 @@ media-sound/grip 3.3.1-r99: GTK+ based Audio CD Player/Ripper
 media-sound/mppenc 1.16: musepack audio encoder
 media-sound/pavucontrol 2.0.20141217: Pulseaudio Volume Control, GTK based mixer for Pulseaudio
 media-sound/pnmixer 9999: PNMixer is a fork of OBMixer
+media-sound/pulseaudio-dlna 0.4.7: A lightweight streaming server which brings DLNA / UPNP and Chromecast support to PulseAudio and Linux
 media-sound/vkaudiosaver 1.5: 
 media-tv/gsopcast 9999: a gtk front-end of p2p TV sopcast
 media-tv/tvtime 1.0.2_p20110131-r3: High quality television application for use with video capture cards
