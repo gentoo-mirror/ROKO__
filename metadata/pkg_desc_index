@@ -45,7 +45,7 @@ media-libs/libdvbpsi 1.0.0: library for MPEG TS/DVB PSI tables decoding and gene
 media-libs/libpng 1.6.6-r99: Portable Network Graphics library
 media-libs/libsdl 1.2.15-r99: Simple Direct Media Layer
 media-libs/mesa 9999: OpenGL-like graphic library for Linux 3D Version
-media-plugins/audacious-plugins 3.3.2: Audacious Player - With optional pulse surround channel map patch
+media-plugins/audacious-plugins 3.7.1: Plugins for Audacious music player
 media-plugins/deadbeef-archive-reader 20140219 99999999: DeaDBeeF vfs archive reader plugin with gzip, 7z and rar support
 media-plugins/deadbeef-bookmark-manager 20140514 99999999: DeaDBeeF bookmark manager plugin
 media-plugins/deadbeef-bs2b 20110319 99999999: DeaDBeeF bs2b dsp plugin
@@ -67,6 +67,7 @@ media-plugins/deadbeef-vu-meter 20140914 99999999: DeaDBeeF vu meter plugin
 media-plugins/deadbeef-waveform-seekbar 0.5 9999: DeaDBeeF waveform seekbar plugin
 media-plugins/gst-plugins-vaapi 0.5.3: Hardware accelerated video decoding through VA-API plugin
 media-plugins/live 2015.05.03: Source-code libraries for standards-based RTP/RTCP/RTSP multimedia streaming, suitable for embedded and/or low-cost streaming applications
+media-sound/audacious 3.7.1: A lightweight and versatile audio player
 media-sound/audio-convert 0.3.1.1: Convert wav, ogg, mp3, mpc, flac, ape, aac or wma files into wav, ogg, mp3, mpc, flac, ape or aac files
 media-sound/deadbeef 0.6.1 0.6.2: foobar2k-like music player
 media-sound/foobnix 2.6.10: Good music and video player
