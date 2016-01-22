@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=dev-libs/glib dev-libs/libconfig dev-libs/libevent[threads] dev-libs/uriparser media-libs/alsa-lib media-libs/freetype media-libs/mesa[egl,gles2] x11-libs/cairo x11-libs/gtk+:2 x11-libs/libX11 x11-libs/libXinerama x11-libs/pango || ( www-plugins/chrome-binary-plugins[flash] www-client/google-chrome !www-client/google-chrome-beta !www-client/google-chrome-unstable !www-plugins/chrome-binary-plugins-beta !www-plugins/chrome-binary-plugins-unstable )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:cmake-utils src_configure:cmake-utils src_compile:cmake-utils src_test:cmake-utils src_install:-
-_eclasses_=cmake-utils	b657a2689df4f46725711250cf9c8a32	eutils	7332d4dd366dcd51c0014dde21f21897	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=cmake-utils	b657a2689df4f46725711250cf9c8a32	eutils	8982475656ba7ade9b3201397efbd612	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=300f336169e3471a3f7d2b0d22d5078a
