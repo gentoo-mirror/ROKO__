@@ -37,4 +37,3 @@ media-video/acestream-player-data:linguas_tet - unknown
 media-video/acestream-player-data:vaapi - Enables VAAPI (Video Acceleration API) for hardware decoding
 media-video/acestream-player-data:vcdx - Enables VCD with navigation via libvcdinfo (depends on cdio)
 x11-drivers/xf86-video-ati-dri3:glamor - Enable glamor support, it can change performace depends on card.
-x11-themes/gtk-engines-equinox:icons - Install the icon theme meant to be used with Equinox by default

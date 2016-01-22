@@ -34,7 +34,17 @@ gnome-extra/cardapio 9999: A lean application menu and launcher.
 gnome-extra/gis-weather 0.7.5: 
 gnome-extra/gnome-globalmenu 9999: Global menubar applet for Gnome2.
 gnome-extra/gpaste 2.9-r1: Clipboard management system
-gnome-extra/nemo-extensions 2.2.4 2.4.5 2.6.2 2.8.0: extensions for cinnamon's file-manager nemo
+gnome-extra/nemo-audio-tab 2.8.0: View audio tag information from the file manager's properties tab
+gnome-extra/nemo-emblems 2.6.0 2.8.0: Change your folder and file emblems
+gnome-extra/nemo-fileroller 2.6.0 2.8.0: File Roller integration for Nemo
+gnome-extra/nemo-gtkhash 2.6.0 2.8.0: nemo extension for computing checksums and more using gtkhash
+gnome-extra/nemo-image-converter 2.6.0 2.8.0: nemo extension to mass resize or rotate images
+gnome-extra/nemo-preview 2.6.0 2.8.0: nemo-preview is a quick previewer for nemo
+gnome-extra/nemo-python 2.6.0 2.8.0: Python binding for Nemo components
+gnome-extra/nemo-repairer 2.6.0 2.8.0: Nemo extension for filename encoding repair
+gnome-extra/nemo-seahorse 2.6.0 2.8.0: seahorse plugins and utilities for encryption
+gnome-extra/nemo-share 2.6.0 2.8.0: Nemo extension to share folder using Samba
+gnome-extra/nemo-terminal 2.6.0 2.8.0: Nemo extension to enable an embedded terminal
 kde-apps/kde-wallpapers 15.08.3-r1: KDE wallpapers
 kde-misc/veromix 0.17.0: Plasmoid mixer for the Pulseaudio sound server
 mail-client/geary 0.10.0: A lightweight, easy-to-use, feature-rich email client
@@ -117,7 +127,7 @@ virtual/udev 208-r99: Virtual to select between sys-fs/udev and sys-fs/eudev
 www-client/firefox 38.0.5 39.0 40.0_beta1: Firefox Web Browser
 www-client/firefox-bin 38.0_beta1: Firefox Web Browser
 www-client/maxthon 1.0.3.10 1.0.5.1: Maxthon for Linux
-www-client/yandex-browser-beta 15.6.2311.3894_p1: Yandex Browser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+www-client/yandex-browser-beta 15.6.2311.3894_p1 16.2.0.1818_p1: Yandex Browser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 www-plugins/acestream-plugin 3.0.2: ACE Stream multimedia plugin for web browsers
 www-plugins/acestream-plugin-ubuntu 2.1.6: ACE Stream multimedia plugin for web browsers
 www-plugins/freshplayerplugin 9999: Chromium Flash wrapper for Mozilla Firefox
@@ -143,12 +153,19 @@ x11-themes/arc-theme 9999 20150922 20151002: A flat theme with transparent eleme
 x11-themes/equinox-themes 1.50: Five GTK and Metacity themes to use with Equinox GTK engine
 x11-themes/faba 9999: Faba is a sexy and modern icon theme with Tango influences.
 x11-themes/faba-mono 9999: Faba is a sexy and modern icon theme with Tango influences. This a monochrome variant of this theme, used for panel icons.
-x11-themes/gtk-engines-equinox 1.30 1.50 1.50-r1 1.50-r2: A heavily modified version of the Aurora engine
 x11-themes/menda-circle-icon-theme 9999 20150528: Menda Circle Icon Theme
 x11-themes/menda-square-icon-theme 9999 20141219: Menda Square Icon Theme
 x11-themes/menda-themes 9999 20150103: Manjaro's official Gtk2, Gtk3, Metacity, Xfwm, Openbox, Cinnamon and GNOME Shell themes
 x11-themes/moka 9999: Moka is a stylized Linux desktop icon set, and the titular icon theme of the Moka Project. They are designed to be clear, simple and consistent.
 x11-themes/next-aurora 15.10: The Ubuntu 15.10 (Wily Werewolf) theme
 x11-themes/numix-frost-themes 1.9.4 1.9.4-r1 2.5.2: Official Numix GTK Theme - Antergos edition
+x11-themes/orchis-gtk-theme 3.0.22: GTK Theme of the Moka Project
+x11-themes/orion 1.5: Theme for GTK 2, GTK 3, Metacity, Openbox and Xfwm4
+x11-themes/ozon-gtk-theme 9999 20150324: Ozon OS gtk theme
+x11-themes/ozon-icon-theme 0.3 9999: Official icon theme from Ozon OS.
+x11-themes/ozon-icon-theme-folders 9999 20150301: Additional Folder Colors for the default Ozon Icon Theme.
+x11-themes/ozon-shell-theme 0.3 9999: Ozon Gnome shell theme
+x11-themes/paper-gtk-theme 9999 20151217: the Paper gtk theme by snwh
+x11-themes/paper-icon-theme 9999 20151211: the Paper theme official icons.
 x11-themes/ultra-flat-gtk 1.2: A slightly modified version of the famous Numix theme, with no border, flat rounded window buttons and grey selection colour
 xfce-extra/xfce4-dockbarx-plugin 0.2.1 0.3.1: Embed DockbarX in the xfce4-panel
