@@ -2,38 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-emulation/aqemu:kvm - Add support kernel virtual mashine
-app-emulation/aqemu:spice - Build witch SPICEd qemu
-media-libs/acestream-x264:10bit - Set output bit depth to 10, this may not be compatible with all decoders
-media-libs/acestream-x264:interlaced - enable interlaced encoding support, this can decrease encoding speed by up to 2%
-media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
-media-plugins/deadbeef-plugins-meta:archive - Reading media files from archived files
-media-plugins/deadbeef-plugins-meta:bookmark-manager - Resume playing files (after closing player) from the last timestamp
-media-plugins/deadbeef-plugins-meta:bs2b - bs2b dsp support. Useful for headphones
-media-plugins/deadbeef-plugins-meta:decast - Subscription for the podcasts
-media-plugins/deadbeef-plugins-meta:filebrowser - File browser plugin
-media-plugins/deadbeef-plugins-meta:gnome-mmkeys - Gnome multimedia keys support
-media-plugins/deadbeef-plugins-meta:infobar - Download and show lyrics
-media-plugins/deadbeef-plugins-meta:jack - Jack audio support
-media-plugins/deadbeef-plugins-meta:librarybrowser - File browser plugin that resemble foobar2k music library
-media-plugins/deadbeef-plugins-meta:mpris - MPRIS support
-media-plugins/deadbeef-plugins-meta:musical-spectrum - Draws musical spectrum for current track
-media-plugins/deadbeef-plugins-meta:opus - Ogg opus decoder support
-media-plugins/deadbeef-plugins-meta:replaygain-control - Advanced control of replaygain
-media-plugins/deadbeef-plugins-meta:spectrogram - Draws spectrogram for current track
-media-plugins/deadbeef-plugins-meta:stereo-widener - Widens stereo
-media-plugins/deadbeef-plugins-meta:vk - Play music from vk.com social network
-media-plugins/deadbeef-plugins-meta:vu-meter - Draws vu meter for current track
-media-plugins/deadbeef-plugins-meta:waveform-seekbar - Draws waveform seekbar for current track
-media-video/acestream-player-data:dirac - Enable Dirac video support (an advanced royalty-free video compression format) via the reference library: dirac
-media-video/acestream-player-data:libproxy - Use net-libs/libproxy for getting the HTTP/HTTPS/SOCKS proxy configuration
-media-video/acestream-player-data:linguas_ach - unknown
-media-video/acestream-player-data:linguas_cgg - unknown
-media-video/acestream-player-data:linguas_ckb - unknown
-media-video/acestream-player-data:linguas_co - unknown
-media-video/acestream-player-data:linguas_ff - unknown
-media-video/acestream-player-data:linguas_fur - unknown
-media-video/acestream-player-data:linguas_tet - unknown
-media-video/acestream-player-data:vaapi - Enables VAAPI (Video Acceleration API) for hardware decoding
-media-video/acestream-player-data:vcdx - Enables VCD with navigation via libvcdinfo (depends on cdio)
-x11-drivers/xf86-video-ati-dri3:glamor - Enable glamor support, it can change performace depends on card.
