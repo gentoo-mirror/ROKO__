@@ -1,0 +1,13 @@
+DEFINED_PHASES=install
+DEPEND=>=x11-themes/gtk-engines-equinox-1.50 virtual/pkgconfig
+DESCRIPTION=Five GTK and Metacity themes to use with Equinox GTK engine
+EAPI=2
+HOMEPAGE=http://gnome-look.org/content/show.php?content=140449
+IUSE=+icons
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=>=x11-themes/gtk-engines-equinox-1.50
+SLOT=0
+SRC_URI=http://gnome-look.org/CONTENT/content-files/140449-equinox-themes-1.50.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=1a58d90c9ff183ffde519988dacb5fc5

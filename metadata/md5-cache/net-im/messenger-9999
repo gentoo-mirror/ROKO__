@@ -1,0 +1,7 @@
+DEFINED_PHASES=install prepare
+EAPI=5
+HOMEPAGE=http://messengerfordesktop.com/
+SLOT=0
+SRC_URI=https://github.com/Aluxian/Facebook-Messenger-Desktop/releases/download/v1.4.3/Messenger_linux64.deb
+_eclass_exported_funcs=src_prepare:- src_install:-
+_md5_=7569507904f484bdf20d2110e0807f1b

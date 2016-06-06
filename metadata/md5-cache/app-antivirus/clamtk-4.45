@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=dev-lang/perl:=[-build(-)]
+DESCRIPTION=A frontend for ClamAV using Gtk2-perl
+EAPI=5
+HOMEPAGE=http://clamtk.sourceforge.net/
+IUSE=nls linguas_af linguas_ar linguas_ast linguas_bg linguas_bs linguas_ca linguas_cs linguas_da linguas_de linguas_el_GR linguas_en_GB linguas_es linguas_eu linguas_fi linguas_fo linguas_fr linguas_gl linguas_he linguas_hr linguas_hu linguas_id linguas_it linguas_ja linguas_ko linguas_lt linguas_mr linguas_ms linguas_nb linguas_nl linguas_nn linguas_pl linguas_pt_BR linguas_pt linguas_ro linguas_ru linguas_sk linguas_sl linguas_sv linguas_te linguas_th linguas_tr linguas_ug linguas_uk linguas_uz linguas_zh_CN linguas_zh_TW
+KEYWORDS=~amd64 ~x86
+LICENSE=Artistic GPL-2
+RDEPEND=>=dev-perl/gtk2-perl-1.140 dev-perl/libwww-perl dev-perl/Date-Calc dev-util/desktop-file-utils >=app-antivirus/clamav-0.95 nls? ( dev-perl/Locale-gettext ) virtual/udev dev-lang/perl:=[-build(-)]
+SLOT=0
+SRC_URI=mirror://sourceforge/clamtk/clamtk-4.45.tar.gz
+_eclass_exported_funcs=src_unpack:- src_prepare:perl-module src_configure:perl-module src_compile:perl-module src_test:perl-module src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	multiprocessing	e32940a7b2a9992ad217eccddb84d548	perl-functions	aac50de73be0a80ebe780e0b20850130	perl-module	c584f9e0fe426f3dcc2c46c6f7cb95ce	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	unpacker	79f7c61dc45eb850319a8c576ebc7b8d
+_md5_=e3951712a0ac6ae6b765c6bd558c5678

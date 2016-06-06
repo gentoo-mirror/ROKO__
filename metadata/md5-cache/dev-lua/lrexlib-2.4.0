@@ -1,0 +1,13 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Binding of three regular expression libraries (POSIX, PCRE and Oniguruma) to Lua
+EAPI=0
+HOMEPAGE=http://luaforge.net/projects/lrexlib/
+IUSE=doc oniguruma pcre
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=app-arch/unzip
+SLOT=0
+SRC_URI=http://luaforge.net/frs/download.php/3599/lrexlib-2.4.0.zip
+_eclass_exported_funcs=src_unpack:- src_install:-
+_eclasses_=lua	ad91ece45ac2a9fcc5cb9f287a4ca2dc	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=daba586f8677e1d97c7fd6fec00caad4
