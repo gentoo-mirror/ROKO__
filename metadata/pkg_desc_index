@@ -48,7 +48,6 @@ gnome-extra/nemo-repairer 2.6.0 2.8.0: Nemo extension for filename encoding repa
 gnome-extra/nemo-seahorse 2.6.0 2.8.0: seahorse plugins and utilities for encryption
 gnome-extra/nemo-share 2.6.0 2.8.0: Nemo extension to share folder using Samba
 gnome-extra/nemo-terminal 2.6.0 2.8.0: Nemo extension to enable an embedded terminal
-kde-misc/veromix 0.17.0: Plasmoid mixer for the Pulseaudio sound server
 mail-client/geary 0.10.0: A lightweight, easy-to-use, feature-rich email client
 mate-extra/caja-extensions 1.8.0: Several Caja extensions
 media-gfx/photoqt 9999: Simple but powerful Qt5-based image viewer
