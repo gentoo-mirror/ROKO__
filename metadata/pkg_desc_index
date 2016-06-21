@@ -138,15 +138,13 @@ www-plugins/freshplayerplugin 9999: Chromium Flash wrapper for Mozilla Firefox
 www-plugins/rosa-media-player-plugin 1.6: ROSA Media Player Plugin is designed to use with internet browsers like Firefox and Chrome/Chromium.
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-apps/xgamma-gui 9999: xgamma GUI program. allow user adjust color, and real-time preview etc.
-x11-drivers/ati-drivers 15.11: Ati precompiled drivers for Radeon (HD7700+ HD8500+ Series) and newer chipsets
-x11-drivers/xf86-video-ati-dri3 9999: ATI video driver
 x11-libs/libva 1.5.0-r1: Video Acceleration (VA) API for Linux
 x11-libs/libvdpau-va-gl 0.3.4 9999: VDPAU driver with VA-API/OpenGL backend.
 x11-misc/adeskbar 0.4.3: A Quick Application Launcher
 x11-misc/caffeine 2.6.2: Manually and automatically control the desktop's idle state.
 x11-misc/calculate-usb-creator 0.1: Инструмент для создания загрузочных USB FLASH.
 x11-misc/calculate-usb-creator-bg 0.1: Инструмент за създаване на зареждащ USB FLASH.
-x11-misc/dock-applet 9999: Application dock for the MATE panel
+x11-misc/dock-applet 0.71 9999: Application dock for the MATE panel
 x11-misc/dockbarx 0.90.3 0.91.4 9999: DockBarX is a lightweight taskbar / panel replacement for Linux
 x11-misc/slim 1.3.6-r99: Simple Login Manager
 x11-misc/yd-tools 1.2.2: Panel indicator for YandexDisk CLI client for Linux
