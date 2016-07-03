@@ -106,6 +106,7 @@ net-im/messenger 9999:
 net-im/skype_oss_wrapper 9999: 
 net-im/telegram 0.9.40 0.9.51: Official cross-platorm desktop client for Telegram
 net-im/viber 9999-r9999: Free calls, text and picture sharing with anyone, anywhere!
+net-irc/hexchat 2.12.1: Graphical IRC client based on XChat
 net-libs/miniupnpc 1.9: UPnP client library and a simple UPnP client
 net-misc/drive 0.3.4: Google Drive client for the commandline
 net-misc/megasync 1.0.37 16.04: The official QT-Based mega.co.nz client for sync your MEGA account
