@@ -8,8 +8,11 @@ app-benchmarks/phoronix-test-suite 5.0.1 5.4.0 5.8.1 6.0.0_pre4: Phoronix's comp
 app-benchmarks/systester 1.1.0: Test your system's stability and performance by calculating millions of digits of Pi.
 app-cdr/ddflash 0: Конзолен интерфейс с прогрес индикатор към програма dd за записване на boot live flash
 app-cdr/mdf2iso 0.3.0-r1: Alcohol 120% bin image to ISO image file converter
-app-emulation/virtualbox-bin 5.1.0.107840_beta2: Family of powerful x86 virtualization products for enterprise as well as home use
-app-emulation/virtualbox-modules 5.1.0_beta2: Kernel Modules for Virtualbox
+app-emulation/virtualbox 5.1.0_rc1: Family of powerful x86 virtualization products for enterprise and home use
+app-emulation/virtualbox-additions 5.1.0_rc1: CD image containing guest additions for VirtualBox
+app-emulation/virtualbox-bin 5.1.0.107840_beta2 5.1.0.108607_rc1: Family of powerful x86 virtualization products for enterprise as well as home use
+app-emulation/virtualbox-extpack-oracle 5.1.0.108607_rc1: PUEL extensions for VirtualBox
+app-emulation/virtualbox-modules 5.1.0_beta2 5.1.0_rc1: Kernel Modules for Virtualbox
 app-paludis/paludis-scripts 9999: Scripts for paludis, the other package mangler
 app-paludis/palumaj 9999: Tool to keep your Gentoo/GNU/Linux up to date using cave
 app-paludis/plop 0.2.3: A nice paludis.log parser (patched genlop)
@@ -135,6 +138,7 @@ sys-kernel/pf-sources 4.4_p4: Linux kernel fork with new features, including the
 sys-process/ulatencyd 0.5.0: Daemon that controls how the Linux kernel will spend it's resources on the running processes
 virtual/opencl-sdk 1.1: Virtual for nv/ati opencl SDK
 virtual/udev 208-r99: Virtual to select between sys-fs/udev and sys-fs/eudev
+www-client/ice 9999: Tool to create Chromium/Chrome/Firefox WebApps in Peppermint OS.
 www-client/yandex-browser-beta 15.6.2311.3894_p1 16.2.0.1818_p1 16.4.0.6115_p1: Browser that combines a minimal design with sophisticated technology.
 www-plugins/acestream-plugin 3.0.2: ACE Stream multimedia plugin for web browsers
 www-plugins/acestream-plugin-ubuntu 2.1.6: ACE Stream multimedia plugin for web browsers
