@@ -147,7 +147,6 @@ www-plugins/freshplayerplugin 9999: Chromium Flash wrapper for Mozilla Firefox
 www-plugins/rosa-media-player-plugin 1.6: ROSA Media Player Plugin is designed to use with internet browsers like Firefox and Chrome/Chromium.
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-apps/xgamma-gui 9999: xgamma GUI program. allow user adjust color, and real-time preview etc.
-x11-drivers/amdgpu-pro-dkms 16.30.3.306809: AMD GPU-Pro kernel module for Radeon Evergreen (HD5000 Series) and newer chipsets
 x11-libs/libva 1.5.0-r1: Video Acceleration (VA) API for Linux
 x11-libs/libvdpau-va-gl 0.3.4 9999: VDPAU driver with VA-API/OpenGL backend.
 x11-misc/adeskbar 0.4.3: A Quick Application Launcher
