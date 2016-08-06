@@ -9,5 +9,5 @@ RDEPEND=>app-shells/bash-3.1 sys-apps/ed dev-util/dialog app-portage/portage-uti
 RESTRICT=mirror
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_install:-
-_eclasses_=git-2	672c3929a162f221a53b4ccb4d25d8a2
+_eclasses_=git-2	7af5d170bfc02983b4bcd3167dc5edd4
 _md5_=8fef7d9a13a309e32f8b44033a48b42c
