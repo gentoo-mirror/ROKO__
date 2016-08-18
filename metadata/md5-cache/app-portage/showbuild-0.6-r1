@@ -7,5 +7,5 @@ LICENSE=GPL-2
 RDEPEND=prefix? ( || ( <sys-apps/util-linux-2.18 sys-apps/tailf ) ) !prefix? ( sys-apps/util-linux ) app-shells/bash
 SLOT=0
 _eclass_exported_funcs=src_prepare:- src_install:-
-_eclasses_=prefix	e41dbc7154fb2749724e2adedfdf71df
+_eclasses_=prefix	99dcca42e6528d8fe3c214bf5731aaf2
 _md5_=1789b79acd6f8b3eb60ee79db5ebd8e4
