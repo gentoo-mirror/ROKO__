@@ -10,5 +10,5 @@ RESTRICT=mirror test
 SLOT=0
 SRC_URI=https://github.com/telegramdesktop/tdesktop/archive/v0.9.40.tar.gz -> telegram-0.9.40.tar.gz
 _eclass_exported_funcs=pkg_pretend:check-reqs pkg_postinst:- pkg_setup:check-reqs src_prepare:- src_configure:- src_compile:- src_install:-
-_eclasses_=check-reqs	aee25bdf4e2f459af86d17f7c41dcdf6	eutils	b83a2420b796f7c6eff682679d08fe25	fdo-mime	92d07846ea8ea54172f8c0112a47ae3d	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	multilib	d062ae4ba2fc40a19c11de2ad89b6616	qmake-utils	0a242e7177789b0028b4045f336dd4db	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=check-reqs	aee25bdf4e2f459af86d17f7c41dcdf6	eutils	b83a2420b796f7c6eff682679d08fe25	fdo-mime	92d07846ea8ea54172f8c0112a47ae3d	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	multilib	165fc17c38d1b11dac2008280dab6e80	qmake-utils	0a242e7177789b0028b4045f336dd4db	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
 _md5_=aecfd922bd7169b819bfed8a1ad81d0d
