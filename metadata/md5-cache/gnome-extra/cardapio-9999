@@ -10,5 +10,5 @@ RDEPEND=dev-python/pygtk x11-misc/xdg-user-dirs-gtk dev-libs/keybinder[python] g
 REQUIRED_USE=all? ( gnomepanel docky awn gnomeshell ) all? ( !stand-alone ) stand-alone? ( !gnomepanel !docky !awn !gnomeshell ) || ( stand-alone gnomepanel docky awn gnomeshell )
 SLOT=0
 _eclass_exported_funcs=src_unpack:bzr src_prepare:bzr src_install:-
-_eclasses_=bzr	745bed5705ae699c707ba26ca9e8929a	eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=bzr	745bed5705ae699c707ba26ca9e8929a	eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=a518f92efd3f59b4bb61deba002bc363

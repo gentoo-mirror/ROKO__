@@ -9,5 +9,5 @@ RDEPEND=>=dev-libs/dbus-glib-0.98 >=dev-libs/glib-2.26 >=dev-libs/libdbusmenu-12
 SLOT=3
 SRC_URI=amd64? ( https://launchpad.net/ubuntu/+source/libappindicator/12.10.0-0ubuntu1/+build/3649098/+files/libappindicator1_12.10.0-0ubuntu1_amd64.deb ) x86? ( https://launchpad.net/ubuntu/+source/libappindicator/12.10.0-0ubuntu1/+build/3649098/+files/libappindicator1_12.10.0-0ubuntu1_i386.deb )
 _eclass_exported_funcs=src_prepare:- src_install:-
-_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=2816ec8ff75cbdeb7d16aa2bd2f80aed
