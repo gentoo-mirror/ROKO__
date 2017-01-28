@@ -143,7 +143,6 @@ sys-kernel/dkms 2.2.0.3: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 4.4.1_p1-r1 4.4.3_p2: The Liquorix Kernel Sources v4.x
 sys-kernel/pf-sources 4.4_p4: Linux kernel fork with new features, including the -ck patchset (BFS), BFQ, TuxOnIce and UKSM
 sys-kernel/vanilla-sources 4.7.0: Full sources for the Linux kernel
-sys-process/ulatencyd 0.5.0: Daemon that controls how the Linux kernel will spend it's resources on the running processes
 virtual/opencl-sdk 1.1: Virtual for nv/ati opencl SDK
 virtual/udev 208-r99: Virtual to select between sys-fs/udev and sys-fs/eudev
 www-client/ice 9999: Tool to create Chromium/Chrome/Firefox WebApps in Peppermint OS.
