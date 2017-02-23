@@ -31,9 +31,6 @@ dev-libs/acestream-python-appindicator 12.10.0-r1: A library to allow applicatio
 dev-libs/keybinder 0.2.2: A library for registering global keyboard shortcuts
 dev-libs/libchardet 1.0.4: Mozilla's Universal Charset Detector C/C++ API
 dev-lua/lrexlib 2.4.0: Binding of three regular expression libraries (POSIX, PCRE and Oniguruma) to Lua
-dev-python/m2crypto 0.21.1: 
-dev-python/python-ethtool 0.3: Python bindings for the ethtool kernel interface
-dev-python/python-slip 0.2.9: The Simple Library for Python packages
 dev-qt/qt-telegram-static 5.5.1_p20160406 5.6.0_p20160510: Patched Qt for net-im/telegram
 gnome-base/gnome-extra-apps 3.18.0-r3: Sub-meta package for the applications of GNOME 3
 gnome-extra/budgie-desktop 10.2.2 9999: Lightweight GNOME 3-based Desktop Environment used by Solus Project
@@ -86,7 +83,6 @@ media-sound/alsa-driver 1.0.25_pre: Advanced Linux Sound Architecture kernel mod
 media-sound/audacious 3.7.1: A lightweight and versatile audio player
 media-sound/audio-convert 0.3.1.1: Convert wav, ogg, mp3, mpc, flac, ape, aac or wma files into wav, ogg, mp3, mpc, flac, ape or aac files
 media-sound/deadbeef 0.6.1 0.6.2: foobar2k-like music player
-media-sound/foobnix 2.6.10: Good music and video player
 media-sound/gnormalize 0.63-r1: Audio converter/ripper featuring normalization and metadata editing
 media-sound/grip 3.3.1-r99: GTK+ based Audio CD Player/Ripper
 media-sound/mppenc 1.16: musepack audio encoder
@@ -125,9 +121,6 @@ net-misc/seafile-client 5.1.0: Cloud file syncing software
 net-misc/upnp-router-control 0.2: Control UPnP of a router
 net-p2p/acestream-engine 2.1.6-r2 3.0.5: ACE Stream Engine
 net-p2p/acestream-engine-ubuntu 2.1.6-r2 3.0.5: ACE Stream Engine
-net-p2p/flush 0.9.11 0.9.12: A GTK-based BitTorrent client by Dmitry Konishchev
-net-p2p/sopcast-bin 3.2.6: SopCast free P2P Internet TV binary
-net-p2p/sopcast-player 0.7.4-r1: Плейър за p2p онлайн телевизия чрез sopcast приставка.
 net-wireless/gnome-bluetooth 3.10.0: Bluetooth graphical utilities integrated with GNOME
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
