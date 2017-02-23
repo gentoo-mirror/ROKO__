@@ -1,15 +1,15 @@
-DEFINED_PHASES=compile install postinst postrm prepare setup
-DEPEND=dev-python/pygobject dev-python/pygtk dev-python/gconf-python =dev-python/pillow-2.9.0 dev-python/libwnck-python dev-libs/keybinder[python] dev-python/pyxdg dev-python/python-xlib =x11-libs/libwnck-2.31.0 dockmanager? ( x11-misc/dockmanager ) >=sys-apps/sed-4 dev-lang/python
+DEFINED_PHASES=postinst postrm setup
+DEPEND=dev-python/pygobject dev-python/pygtk dev-python/gconf-python =dev-python/pillow-2.9.0 dev-python/libwnck-python dev-libs/keybinder[python] dev-python/pyxdg dev-python/python-xlib =x11-libs/libwnck-2.31.0 dockmanager? ( x11-misc/dockmanager ) >=sys-apps/sed-4
 DESCRIPTION=DockBarX is a lightweight taskbar / panel replacement for Linux
 EAPI=5
 HOMEPAGE=https://github.com/M7S/dockbarx
 IUSE=dockmanager
 KEYWORDS=x86 amd64
 LICENSE=GPL3
-RDEPEND=dev-python/pygobject dev-python/pygtk dev-python/gconf-python =dev-python/pillow-2.9.0 dev-python/libwnck-python dev-libs/keybinder[python] dev-python/pyxdg dev-python/python-xlib =x11-libs/libwnck-2.31.0 dockmanager? ( x11-misc/dockmanager ) dev-lang/python
+RDEPEND=dev-python/pygobject dev-python/pygtk dev-python/gconf-python =dev-python/pillow-2.9.0 dev-python/libwnck-python dev-libs/keybinder[python] dev-python/pyxdg dev-python/python-xlib =x11-libs/libwnck-2.31.0 dockmanager? ( x11-misc/dockmanager )
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/M7S/dockbarx/archive/0.91.4.tar.gz
-_eclass_exported_funcs=pkg_postrm:- pkg_postinst:- pkg_setup:- src_prepare:distutils src_compile:distutils src_install:distutils
-_eclasses_=distutils	4854d07a21a43c0d63fce28fff665e0b	eutils	708f85bc1bf00876604e223fb56e062a	gnome2-utils	c6dcdf3a2c22b578b16adb945dc85c35	multilib	165fc17c38d1b11dac2008280dab6e80	python	8b7143ec94293338ed5da8a7ef97cfdb	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	xdg-utils	e2b2bd56125ce8cf59ce30c642b59d48
-_md5_=e554ef5e2c824f8c2d610001ac389a80
+_eclass_exported_funcs=pkg_postrm:- pkg_postinst:- pkg_setup:-
+_eclasses_=eutils	708f85bc1bf00876604e223fb56e062a	gnome2-utils	c6dcdf3a2c22b578b16adb945dc85c35	multilib	165fc17c38d1b11dac2008280dab6e80	python	8b7143ec94293338ed5da8a7ef97cfdb	toolchain-funcs	1b1da0c45c555989dc5d832b54880783	xdg-utils	e2b2bd56125ce8cf59ce30c642b59d48
+_md5_=7b12ef8acd3a40f73991f2340da97f7f
