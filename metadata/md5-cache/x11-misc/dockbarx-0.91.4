@@ -1,0 +1,15 @@
+DEFINED_PHASES=postinst postrm setup
+DEPEND=dev-python/pygobject dev-python/pygtk dev-python/gconf-python =dev-python/pillow-2.9.0 dev-python/libwnck-python dev-libs/keybinder[python] dev-python/pyxdg dev-python/python-xlib =x11-libs/libwnck-2.31.0 dockmanager? ( x11-misc/dockmanager ) >=sys-apps/sed-4
+DESCRIPTION=DockBarX is a lightweight taskbar / panel replacement for Linux
+EAPI=5
+HOMEPAGE=https://github.com/M7S/dockbarx
+IUSE=dockmanager
+KEYWORDS=x86 amd64
+LICENSE=GPL3
+RDEPEND=dev-python/pygobject dev-python/pygtk dev-python/gconf-python =dev-python/pillow-2.9.0 dev-python/libwnck-python dev-libs/keybinder[python] dev-python/pyxdg dev-python/python-xlib =x11-libs/libwnck-2.31.0 dockmanager? ( x11-misc/dockmanager )
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/M7S/dockbarx/archive/0.91.4.tar.gz
+_eclass_exported_funcs=pkg_postrm:- pkg_postinst:- pkg_setup:-
+_eclasses_=epatch	122e1264e67c4f59a1482f2095e0b35d	estack	5ac2a138d0b33354b764d84f9e835db8	eutils	1ef31aee2bd63ffbfcae8a1843c9208d	gnome2-utils	6d2af8c7ab84825693c3f065a37b923c	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	0236be304ee52e7f179ed2f337075515	python	fe3db8b0a37827d2e6e0a458f39e6c11	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	xdg-utils	b9389dfad0ee8f8e0b2a41b79fcf7120
+_md5_=7b12ef8acd3a40f73991f2340da97f7f
