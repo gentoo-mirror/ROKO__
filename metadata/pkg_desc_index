@@ -136,7 +136,6 @@ sys-kernel/vanilla-sources 4.7.0: Full sources for the Linux kernel
 virtual/opencl-sdk 1.1: Virtual for nv/ati opencl SDK
 virtual/udev 208-r99: Virtual to select between sys-fs/udev and sys-fs/eudev
 www-client/ice 9999: Tool to create Chromium/Chrome/Firefox WebApps in Peppermint OS.
-www-client/yandex-browser-beta 15.6.2311.3894_p1 16.2.0.1818_p1 16.4.0.6115_p1: Browser that combines a minimal design with sophisticated technology.
 www-plugins/acestream-plugin 3.0.2: ACE Stream multimedia plugin for web browsers
 www-plugins/acestream-plugin-ubuntu 2.1.6: ACE Stream multimedia plugin for web browsers
 www-plugins/freshplayerplugin 9999: Chromium Flash wrapper for Mozilla Firefox
