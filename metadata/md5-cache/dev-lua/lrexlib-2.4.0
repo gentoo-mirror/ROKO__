@@ -9,5 +9,5 @@ RDEPEND=app-arch/unzip
 SLOT=0
 SRC_URI=http://luaforge.net/frs/download.php/3599/lrexlib-2.4.0.zip
 _eclass_exported_funcs=src_unpack:- src_install:-
-_eclasses_=lua	ad91ece45ac2a9fcc5cb9f287a4ca2dc	multilib	0236be304ee52e7f179ed2f337075515	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
+_eclasses_=lua	ad91ece45ac2a9fcc5cb9f287a4ca2dc	multilib	97f470f374f2e94ccab04a2fb21d811e	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
 _md5_=daba586f8677e1d97c7fd6fec00caad4
