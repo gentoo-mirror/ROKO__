@@ -21,7 +21,8 @@ app-portage/trickyfetch 7.1: Plugin for FETCHCOMMAND to help organize and cleanu
 app-portage/update 9999: A most excellent portage wrapper
 app-portage/update-notifier-tray 1.2: update-notifier like tray icon for portage
 app-shells/command-not-found 0.4.5: If a command is not found (bash/zsh), search ARCH database for packages with similar commands
-app-shells/zsh-syntax-highlighting 0.2.1: Fish shell like syntax highlighting for zsh
+app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
+app-shells/zsh-syntax-highlighting 0.2.1 0.5.0: Fish shell like syntax highlighting for zsh
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
 dev-libs/acestream-libappindicator 12.10.0: A library to allow applications to export a menu into the Unity Menu bar
 dev-libs/acestream-libebml 1.2.2: Extensible binary format library (kinda like XML) for acestream
