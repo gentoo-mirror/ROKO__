@@ -16,11 +16,13 @@ app-paludis/paludis-scripts 9999: Scripts for paludis, the other package mangler
 app-paludis/palumaj 9999: Tool to keep your Gentoo/GNU/Linux up to date using cave
 app-paludis/plop 0.2.3: A nice paludis.log parser (patched genlop)
 app-portage/paludis-deltup 0: Deltup service integration for Paludis PM
+app-portage/portage-tui 0.3: Portage terminal user interface.
 app-portage/showbuild 0.6-r1 0.9: Script to follow log of running portage builds
 app-portage/trickyfetch 7.1: Plugin for FETCHCOMMAND to help organize and cleanup your DISTDIR
 app-portage/update 9999: A most excellent portage wrapper
 app-portage/update-notifier-tray 1.2: update-notifier like tray icon for portage
 app-shells/command-not-found 0.4.5: If a command is not found (bash/zsh), search ARCH database for packages with similar commands
+app-shells/zsh-autosuggestions 9999: Fish shell like fast/unobtrusive autosuggestions for zsh
 app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 app-shells/zsh-syntax-highlighting 0.2.1 0.5.0: Fish shell like syntax highlighting for zsh
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
@@ -55,7 +57,6 @@ media-libs/acestream-x264 0.0.20110831: A free library for encoding X264/AVC str
 media-libs/libdvbpsi 1.0.0: library for MPEG TS/DVB PSI tables decoding and generation
 media-libs/libpng 1.6.6-r99: Portable Network Graphics library
 media-libs/libsdl 1.2.15-r99: Simple Direct Media Layer
-media-libs/mesa 9999: OpenGL-like graphic library for Linux 3D Version
 media-plugins/gst-plugins-vaapi 0.5.3: Hardware accelerated video decoding through VA-API plugin
 media-plugins/live 2015.05.03: Source-code libraries for standards-based RTP/RTCP/RTSP multimedia streaming, suitable for embedded and/or low-cost streaming applications
 media-sound/alsa-driver 1.0.25_pre: Advanced Linux Sound Architecture kernel modules
