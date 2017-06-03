@@ -1,0 +1,16 @@
+DEFINED_PHASES=compile configure install postinst postrm prepare pretend setup test unpack
+DEPEND=>=dev-libs/libpcre-8.35[pcre16] >=sys-libs/zlib-1.2.5 virtual/libiconv dev-libs/glib:2 >=sys-apps/dbus-1.4.20 media-libs/fontconfig >=media-libs/freetype-2.5.5:2 >=media-libs/harfbuzz-0.9.40:= >=sys-libs/zlib-1.2.5 gtkstyle? ( x11-libs/gtk+:2 x11-libs/pango !!x11-libs/cairo[qt4] ) virtual/jpeg:0 media-libs/libpng:0= tslib? ( x11-libs/tslib ) x11-libs/libICE x11-libs/libSM x11-libs/libX11 >=x11-libs/libXi-1.7.4 x11-libs/libXrender >=x11-libs/libxcb-1.10:=[xkb] >=x11-libs/libxkbcommon-0.4.1[X] x11-libs/xcb-util-image x11-libs/xcb-util-keysyms x11-libs/xcb-util-renderutil x11-libs/xcb-util-wm systemd? ( sys-apps/systemd ) media-libs/jasper media-libs/libmng media-libs/libwebp media-libs/tiff:0 dev-libs/openssl:0[bindist=] >=sys-libs/zlib-1.2.5 libproxy? ( net-libs/libproxy ) dev-qt/qtcore:5 dev-qt/qtdbus:5 dev-qt/qtwidgets:5 virtual/pkgconfig dev-lang/perl virtual/pkgconfig
+DESCRIPTION=Patched Qt for net-im/telegram
+EAPI=6
+HOMEPAGE=https://github.com/telegramdesktop/tdesktop
+IUSE=bindist gtkstyle libproxy systemd tslib debug test
+KEYWORDS=~amd64
+LICENSE=|| ( LGPL-2.1 LGPL-3 ) FDL-1.3
+PDEPEND=>=net-im/telegram-0.9.40
+RDEPEND=>=dev-libs/libpcre-8.35[pcre16] >=sys-libs/zlib-1.2.5 virtual/libiconv dev-libs/glib:2 >=sys-apps/dbus-1.4.20 media-libs/fontconfig >=media-libs/freetype-2.5.5:2 >=media-libs/harfbuzz-0.9.40:= >=sys-libs/zlib-1.2.5 gtkstyle? ( x11-libs/gtk+:2 x11-libs/pango !!x11-libs/cairo[qt4] ) virtual/jpeg:0 media-libs/libpng:0= tslib? ( x11-libs/tslib ) x11-libs/libICE x11-libs/libSM x11-libs/libX11 >=x11-libs/libXi-1.7.4 x11-libs/libXrender >=x11-libs/libxcb-1.10:=[xkb] >=x11-libs/libxkbcommon-0.4.1[X] x11-libs/xcb-util-image x11-libs/xcb-util-keysyms x11-libs/xcb-util-renderutil x11-libs/xcb-util-wm systemd? ( sys-apps/systemd ) media-libs/jasper media-libs/libmng media-libs/libwebp media-libs/tiff:0 dev-libs/openssl:0[bindist=] >=sys-libs/zlib-1.2.5 libproxy? ( net-libs/libproxy ) dev-qt/qtcore:5 dev-qt/qtdbus:5 dev-qt/qtwidgets:5 dev-qt/qtchooser
+RESTRICT=strip test
+SLOT=0
+SRC_URI=https://download.qt-project.org/official_releases/qt/5.5/5.5.1/submodules/qtbase-opensource-src-5.5.1.tar.xz https://download.qt-project.org/official_releases/qt/5.5/5.5.1/submodules/qtimageformats-opensource-src-5.5.1.tar.xz https://github.com/telegramdesktop/tdesktop/raw/master@{2016-04-06}/Telegram/_qtbase_5_5_1_patch.diff -> qt-telegram-static-5.5.1_p20160406-qtbase.patch
+_eclass_exported_funcs=pkg_pretend:check-reqs pkg_postrm:qt5-build pkg_postinst:qt5-build pkg_setup:check-reqs src_unpack:- src_prepare:- src_configure:- src_compile:- src_test:qt5-build src_install:-
+_eclasses_=check-reqs	bd050ce908e4637604ee604ed4b78e8f	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	990448b067cb3cfe1443bc25fb57239c	qt5-build	16cbfb66f69906d4f3683bd191939f0f	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0	virtualx	171580f737f5aaf18fcb456548588066
+_md5_=e3a996d21e4a8c4847f891424094520d
