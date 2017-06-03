@@ -1,9 +1,0 @@
-DEFINED_PHASES=install prepare
-DEPEND=dev-libs/atk x11-libs/cairo net-print/cups sys-apps/dbus dev-libs/expat gnome-base/gconf gnome-base/libgnome-keyring
-EAPI=5
-KEYWORDS=~amd64
-RDEPEND=dev-libs/atk x11-libs/cairo net-print/cups sys-apps/dbus dev-libs/expat gnome-base/gconf gnome-base/libgnome-keyring
-SLOT=0
-SRC_URI=https://go.skype.com/skypeforlinux-64-alpha.deb
-_eclass_exported_funcs=src_prepare:- src_install:-
-_md5_=c0a88a1932f969217a855274d6a2fa7c

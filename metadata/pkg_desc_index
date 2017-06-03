@@ -83,11 +83,8 @@ media-video/transmageddon 1.5: Video transcoder using GStreamer
 media-video/umplayer 0.95 9999: UMPlayer is the multimedia player that fills all your needs
 media-video/winff 1.5.2: Graphical video and audio batch converter using ffmpeg or avconv
 net-im/jitsi-bin 2.5 2.8: Secure IM communicator that supports SIP, XMPP/Jabber, AIM/ICQ, Windows Live, Yahoo
-net-im/messenger 9999: 
-net-im/skype_oss_wrapper 9999: 
-net-im/skypeforlinux 9999: 
-net-im/telegram 0.9.40 0.9.51: Official cross-platorm desktop client for Telegram
-net-im/viber 9999-r9999: Free calls, text and picture sharing with anyone, anywhere!
+net-im/messenger-for-desktop-bin 1.4.3: A simple & beautiful app for Facebook Messenger.
+net-im/skypeforlinux 5.3.0.1: P2P Internet Telephony (VoiceIP) client
 net-irc/hexchat 2.12.1: Graphical IRC client based on XChat
 net-libs/libsearpc 3.0: RPC library for Seafile
 net-libs/miniupnpc 1.9: UPnP client library and a simple UPnP client

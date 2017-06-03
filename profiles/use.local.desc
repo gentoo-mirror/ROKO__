@@ -16,3 +16,4 @@ media-video/acestream-player-data:linguas_fur - unknown
 media-video/acestream-player-data:linguas_tet - unknown
 media-video/acestream-player-data:vaapi - Enables VAAPI (Video Acceleration API) for hardware decoding
 media-video/acestream-player-data:vcdx - Enables VCD with navigation via libvcdinfo (depends on cdio)
+net-im/skypeforlinux:pax_kernel - Triggers a paxmarking of the main skype binary
