@@ -1,0 +1,11 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=gnome-base/gnome-shell-3.12 gnome-extra/gnome-shell-extensions >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Ozon Gnome shell theme
+EAPI=5
+HOMEPAGE=https://github.com/ozonos/ozon-shell-theme
+LICENSE=GPL-3.0+
+RDEPEND=>=gnome-base/gnome-shell-3.12 gnome-extra/gnome-shell-extensions
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_install:-
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
+_md5_=524b79d6d27b655b8f57b7460f0f1312
