@@ -7,5 +7,5 @@ LICENSE=GPL-3
 RDEPEND=>=gnome-base/gnome-shell-3.12 gnome-extra/gnome-shell-extensions x11-libs/gdk-pixbuf
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_install:-
-_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
+_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=450280097327a5f662c6a52f778f5c15
