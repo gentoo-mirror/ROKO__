@@ -6,6 +6,5 @@ KEYWORDS=amd64 x86 ~amd64-linux ~x86-linux ~x86-macos
 LICENSE=GPL-2
 RDEPEND=prefix? ( || ( <sys-apps/util-linux-2.18 sys-apps/tailf ) ) !prefix? ( sys-apps/util-linux ) app-shells/bash
 SLOT=0
-_eclass_exported_funcs=src_prepare:- src_install:-
-_eclasses_=prefix	df8265631f8bf5f5df387e9b987121f9
+_eclasses_=prefix	7b6fb2fc216b101b5d97d171925a847c
 _md5_=1789b79acd6f8b3eb60ee79db5ebd8e4
