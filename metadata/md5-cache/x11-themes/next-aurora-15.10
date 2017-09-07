@@ -8,5 +8,4 @@ LICENSE=LGPL-3.0
 RDEPEND=x11-libs/gdk-pixbuf x11-themes/gtk-engines
 SLOT=0
 SRC_URI=http://gnome-look.org/CONTENT/content-files/173859-Next-Aurora.tar.gz -> next-aurora-15.10.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=aa74a248c9e0b93cb4e479252d0f6ee5

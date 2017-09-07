@@ -5,6 +5,5 @@ EAPI=5
 HOMEPAGE=https://github.com/ozonos/ozon-icon-theme-folders
 LICENSE=GPL-3.0
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=3b539df3455058a0ab87f8df81b22d6c

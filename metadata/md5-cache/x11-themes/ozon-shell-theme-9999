@@ -6,6 +6,5 @@ HOMEPAGE=https://github.com/ozonos/ozon-shell-theme
 LICENSE=GPL-3.0+
 RDEPEND=>=gnome-base/gnome-shell-3.12 gnome-extra/gnome-shell-extensions
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=524b79d6d27b655b8f57b7460f0f1312

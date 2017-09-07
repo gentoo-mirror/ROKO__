@@ -5,5 +5,4 @@ EAPI=3
 KEYWORDS=~amd64 ~x86
 RDEPEND=sys-apps/pv sys-apps/coreutils
 SLOT=0
-_eclass_exported_funcs=src_install:-
 _md5_=98a7d441d5a3165b26059ae81ff95dbd

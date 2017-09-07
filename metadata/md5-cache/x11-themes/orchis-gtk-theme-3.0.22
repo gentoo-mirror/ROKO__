@@ -7,5 +7,4 @@ LICENSE=GPL-3
 RDEPEND=x11-themes/gtk-engines-murrine
 SLOT=0
 SRC_URI=https://github.com/moka-project/orchis-gtk-theme/archive/v3.0.22.tar.gz -> orchis-gtk-theme-3.0.22.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=5adc4040ad04baca76e03ce63d698d3d

@@ -7,6 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 RDEPEND=sys-apps/paludis[ruby-bindings]
 SLOT=0
-_eclass_exported_funcs=src_unpack:- src_install:-
 _eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
 _md5_=c6e242b2e01094ac78c36c09874c6fc4

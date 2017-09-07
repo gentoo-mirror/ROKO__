@@ -9,5 +9,4 @@ LICENSE=GPL-2
 RDEPEND=sys-libs/gpm qt4? ( dev-qt/qtgui )
 SLOT=0
 SRC_URI=mirror://sourceforge/systester/systester-1.1.0-src.tar.bz2
-_eclass_exported_funcs=src_configure:- src_compile:- src_install:-
 _md5_=bf6b3f536983ba1e337a2656a87fefe9
