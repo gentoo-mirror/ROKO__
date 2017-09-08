@@ -8,5 +8,5 @@ LICENSE=GPL3
 RDEPEND=dev-python/pygobject dev-python/pygtk dev-python/gconf-python dev-python/pillow dev-python/libwnck-python dev-python/gnome-applets-python dev-libs/keybinder[python] dev-python/pyxdg dev-python/python-xlib =x11-libs/libwnck-2.31.0 =gnome-base/gnome-menus-2.30.5-r1 =gnome-base/gnome-panel-2.32.1-r3 dockmanager? ( x11-misc/dockmanager )
 RESTRICT=mirror
 SLOT=0
-_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	git-2	195a672bfaf52d868442171c9469bbb6	gnome2-utils	8a5e0bf2b8031478ecfeaec753ef4560	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	python	fe3db8b0a37827d2e6e0a458f39e6c11	toolchain-funcs	185a06792159ca143528e7010368e8af	xdg-utils	f2c8335407f0b935b0a96d4adf23ef25
+_eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	git-2	195a672bfaf52d868442171c9469bbb6	gnome2-utils	4d211d7614f303710fca59db6ec12c88	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	python	fe3db8b0a37827d2e6e0a458f39e6c11	toolchain-funcs	185a06792159ca143528e7010368e8af	xdg-utils	f2c8335407f0b935b0a96d4adf23ef25
 _md5_=772823018533c0705b4582117d8e8eae
