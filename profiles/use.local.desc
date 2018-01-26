@@ -5,3 +5,7 @@
 media-libs/acestream-x264:10bit - Set output bit depth to 10, this may not be compatible with all decoders
 media-libs/acestream-x264:interlaced - enable interlaced encoding support, this can decrease encoding speed by up to 2%
 media-libs/acestream-x264:pic - disable optimized assembly code that is not PIC friendly
+media-plugins/deadbeef-ffmpeg:bindist - Enforces license compatibility constraints via REQUIRED_USE.
+media-plugins/deadbeef-ffmpeg:cpudetection - Enables runtime CPU detection (useful for bindist, compatibility on other CPUs)
+media-plugins/deadbeef-ffmpeg:hardcoded-tables - Use pre-calculated tables rather than calculating them on the fly.
+media-plugins/deadbeef-ffmpeg:pic - Force shared libraries to be built as PIC (this is slower)

@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install
+DEPEND=virtual/pkgconfig
+DESCRIPTION=Daemon for radeon-profile GUI
+EAPI=6
+HOMEPAGE=https://github.com/marazmista/radeon-profile-daemon
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=x11-apps/radeon-profile
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/marazmista/radeon-profile-daemon/archive/20170620.tar.gz -> radeon-profile-daemon-20170620.tar.gz
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	990448b067cb3cfe1443bc25fb57239c	systemd	8f5286f89e265842f5b5189666eae88b	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
+_md5_=4089f12baaa373fe4230cac5a6015db6

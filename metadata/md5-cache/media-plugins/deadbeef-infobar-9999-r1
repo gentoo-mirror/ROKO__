@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=|| ( <media-sound/deadbeef-0.6[curl] <media-sound/deadbeef-0.6[cover] <media-sound/deadbeef-0.6[lastfm] ) gtk2? ( <media-sound/deadbeef-0.6[gtk2] ) gtk3? ( <media-sound/deadbeef-0.6[gtk3] ) dev-libs/libxml2 dev-vcs/mercurial
+DESCRIPTION=Infobar plugin for DeadBeeF showing lyrics.
+EAPI=4
+HOMEPAGE=https://bitbucket.org/dsimbiriatin/deadbeef-infobar/wiki/Home
+IUSE=gtk2 gtk3
+LICENSE=GPL-2
+RDEPEND=|| ( <media-sound/deadbeef-0.6[curl] <media-sound/deadbeef-0.6[cover] <media-sound/deadbeef-0.6[lastfm] ) gtk2? ( <media-sound/deadbeef-0.6[gtk2] ) gtk3? ( <media-sound/deadbeef-0.6[gtk3] ) dev-libs/libxml2
+REQUIRED_USE=|| ( gtk2 gtk3 )
+SLOT=0
+_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e7258392d5eda499c1cfa94db650b61	ltprune	2770eed66a9b8ef944714cd0e968182e	mercurial	0bdc9ce12272665fa3749c8408b4d389	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9
+_md5_=df806b31bdaab50a7e075d5d5e65a1d7
