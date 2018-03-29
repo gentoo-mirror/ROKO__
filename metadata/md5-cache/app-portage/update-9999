@@ -8,5 +8,5 @@ LICENSE=CCPL-Attribution-ShareAlike-NonCommercial-3.0
 RDEPEND=>app-shells/bash-3.1 sys-apps/ed dev-util/dialog app-portage/portage-utils app-portage/gentoolkit net-misc/curl
 RESTRICT=mirror
 SLOT=0
-_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
+_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03
 _md5_=8fef7d9a13a309e32f8b44033a48b42c
