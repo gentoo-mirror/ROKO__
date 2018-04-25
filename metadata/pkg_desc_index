@@ -21,7 +21,6 @@ media-sound/mppenc 1.16: musepack audio encoder
 media-tv/tvtime 1.0.2_p20110131-r3: High quality television application for use with video capture cards
 media-video/acestream-ffmpeg 1.2.12: Complete solution to record, convert and stream audio and video. Includes libavcodec
 net-libs/miniupnpc 1.9: UPnP client library and a simple UPnP client
-net-misc/drive 0.3.4: Google Drive client for the commandline
 net-p2p/acestream-engine 3.0.5: ACE Stream Engine
 net-wireless/gnome-bluetooth 3.10.0: Bluetooth graphical utilities integrated with GNOME
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system

@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=x11-libs/gtk+:2 >=dev-perl/gtk2-perl-1.040 aac? ( media-libs/faac media-libs/faad2 ) cddb? ( dev-perl/CDDB_get media-sound/cdcd || ( media-sound/cdparanoia virtual/cdrtools ) ) flac? ( media-libs/flac !vorbis? ( media-sound/flac123 ) ) mp3? ( media-sound/lame dev-perl/MP3-Info || ( media-sound/madplay media-sound/mpg321 media-sound/mpg123 ) ) musepack? ( media-sound/musepack-tools ) normalize? ( media-sound/wavegain ) vorbis? ( media-sound/vorbis-tools )
 SLOT=0
 SRC_URI=mirror://sourceforge/gnormalize/gnormalize-0.63.tar.gz
-_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	63392afb034aad67f17fa129019eb4d9	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
+_eclasses_=desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	9a5f039771f143195164a15a4faa41a1	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	63392afb034aad67f17fa129019eb4d9	ltprune	607e058da37aa6dabfa408b7d61da72e	multilib	97f470f374f2e94ccab04a2fb21d811e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
 _md5_=ba24c45cda6cd528f7d3066cc70226da
