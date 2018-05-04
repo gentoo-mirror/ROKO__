@@ -9,5 +9,5 @@ LICENSE=GPL-3
 RDEPEND=dev-python/pygtk x11-misc/xdg-user-dirs-gtk dev-libs/keybinder[python] gnome-base/gnome-menus[python] dev-python/gnome-applets-python gnomepanel? ( gnome-base/gnome-control-center ) docky? ( gnome-extra/docky ) awn? ( gnome-extra/avant-window-navigator ) gnomeshell? ( gnome-base/gnome-shell )
 REQUIRED_USE=all? ( gnomepanel docky awn gnomeshell ) all? ( !stand-alone ) stand-alone? ( !gnomepanel !docky !awn !gnomeshell ) || ( stand-alone gnomepanel docky awn gnomeshell )
 SLOT=0
-_eclasses_=bzr	fdfb7f923d3d9bc0881ff88e9b62fb30
+_eclasses_=bzr	0e678d10de31ee3560398501e5212d25
 _md5_=a518f92efd3f59b4bb61deba002bc363
