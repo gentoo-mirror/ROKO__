@@ -11,5 +11,5 @@ REQUIRED_USE=|| ( abi_x86_32 abi_x86_64 )
 RESTRICT=fetch strip
 SLOT=1
 SRC_URI=https://www2.ati.com/drivers/linux/ubuntu/amdgpu-pro-17.50-511655.tar.xz
-_eclasses_=multibuild	72647e255187a1fadc81097b3657e5c3	multilib	97f470f374f2e94ccab04a2fb21d811e	multilib-build	8ffb5e2112a70fef5f37fcacad308726	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9	unpacker	79f7c61dc45eb850319a8c576ebc7b8d
+_eclasses_=multibuild	72647e255187a1fadc81097b3657e5c3	multilib	97f470f374f2e94ccab04a2fb21d811e	multilib-build	8ffb5e2112a70fef5f37fcacad308726	toolchain-funcs	fa02994d0beba88681127d93da4411ec	unpacker	79f7c61dc45eb850319a8c576ebc7b8d
 _md5_=b314b53ed061bf2ba24451f45e192827
