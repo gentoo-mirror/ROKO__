@@ -1,4 +1,4 @@
-DEFINED_PHASES=install postinst prepare prerm unpack
+DEFINED_PHASES=install nofetch postinst prepare prerm unpack
 DEPEND=>=sys-kernel/linux-firmware-20161205
 DESCRIPTION=New generation AMD closed-source drivers for Southern Islands (HD7730 Series) and newer chipsets
 EAPI=6
