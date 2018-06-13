@@ -1,5 +1,5 @@
 DEFINED_PHASES=install unpack
-DEPEND=>=x11-libs/gtk+-3.14 x11-themes/gtk-engines-murrine >=dev-ruby/sass-3.2 >=dev-vcs/git-1.8.2.1
+DEPEND=>=x11-libs/gtk+-3.14 x11-themes/gtk-engines-murrine >=dev-ruby/sass-3.2 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Ozon OS gtk theme
 EAPI=5
 HOMEPAGE=https://github.com/ozonos/ozon-gtk-theme
@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-3.0+
 RDEPEND=>=x11-libs/gtk+-3.14 x11-themes/gtk-engines-murrine >=dev-ruby/sass-3.2
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=aeec47210969277efaa509a14b2e1ff2
