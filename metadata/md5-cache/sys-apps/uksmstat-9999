@@ -6,5 +6,5 @@ HOMEPAGE=http://github.com/pfactum/uksmstat
 KEYWORDS=~x86 ~amd64
 LICENSE=GPL-3
 SLOT=0
-_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03
+_eclasses_=git-2	249c1a0962573f4ce2c28f0d5b6b35d4
 _md5_=591b6f991827d3644894e6802b5a89f3
