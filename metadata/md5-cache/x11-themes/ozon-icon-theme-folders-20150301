@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/ozonos/ozon-icon-theme-folders
 KEYWORDS=~amd64 ~arm ~x86
 LICENSE=GPL-3.0
 SLOT=0
-_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
 _md5_=5841cdda63af1a97fd418b99bb11f574
