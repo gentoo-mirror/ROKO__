@@ -1,9 +1,0 @@
-DEFINED_PHASES=install unpack
-DEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DESCRIPTION=Additional Folder Colors for the default Ozon Icon Theme.
-EAPI=5
-HOMEPAGE=https://github.com/ozonos/ozon-icon-theme-folders
-LICENSE=GPL-3.0
-SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=3b539df3455058a0ab87f8df81b22d6c
