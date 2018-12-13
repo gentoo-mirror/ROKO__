@@ -1,7 +1,9 @@
 app-antivirus/clamav-unofficial-sigs 3.7.2: Downloads and installs third-party clamav signatures
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
+dev-libs/girara 0.3.1: UI library that focuses on simplicity and minimalism
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
+sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-misc/dockbarx 0.91.4: DockBarX is a lightweight taskbar / panel replacement for Linux
 xfce-extra/xfce4-dockbarx-plugin 0.2.1 0.3.1: Embed DockbarX in the xfce4-panel
