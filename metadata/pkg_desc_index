@@ -2,6 +2,7 @@ app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-shells/zsh 5.6.2: UNIX Shell similar to the Korn shell
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
+sys-boot/etcher 1.4.4 1.4.9: Flash OS images to SD cards & USB drives, safely and easily.
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-misc/dockbarx 0.91.4: DockBarX is a lightweight taskbar / panel replacement for Linux
