@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst preinst unpack
+DESCRIPTION=SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
+EAPI=6
+HOMEPAGE=https://ocz.com/us/download/ssd-utility
+IUSE=+policykit
+KEYWORDS=-* ~amd64 ~x86
+LICENSE=all-rights-reserved
+RDEPEND=policykit? ( sys-auth/polkit ) app-arch/bzip2 >=dev-libs/libbsd-0.8.6 sys-libs/glibc:2.2 sys-libs/zlib media-libs/fontconfig media-libs/freetype media-libs/libpng >=x11-libs/libX11-1.6.5 >=x11-libs/libxcb-1.11 x11-libs/libXrender x11-libs/libXext x11-libs/libXau x11-libs/libXdmcp dev-libs/expat
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://fichiers.touslesdrivers.com/55230/SSDUtility_2.3.2963_Linux.zip
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	6e6c2737b59a4b982de6fb3ecefd87f8	gnome2-utils	532371cfcba45b2ab0d2950547c97d95	ltprune	2729691420b6deeda2a90b1f1183fb55	multilib	b2f01ad412baf81650c23fcf0975fa33	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	b45201c4e6c096b98e250336954e64b9	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf	xdg-utils	14d00d009167652b1fa363e55effe213
+_md5_=f23baa1db7d4a70ffbb4e1f9de687cbb
