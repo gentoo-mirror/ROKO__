@@ -1,3 +1,4 @@
+app-emulation/snapd 2.38: Service and tools for management of snap packages
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-shells/zsh 5.6.2: UNIX Shell similar to the Korn shell
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
