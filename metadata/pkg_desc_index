@@ -2,6 +2,7 @@ app-emulation/snapd 2.38: Service and tools for management of snap packages
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-shells/zsh 5.6.2: UNIX Shell similar to the Korn shell
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
+dev-lang/ruby 2.1.7: An object-oriented scripting language
 gnome-base/gnome-core-libs 3.24.2: Sub-meta package for the core libraries of GNOME 3
 media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
 net-im/viber 7.0.0.1035-r1: Free calls, text and picture sharing with anyone, anywhere!
