@@ -5,10 +5,10 @@ EAPI=6
 
 EGIT_REPO_URI="https://github.com/MageSlayer/paludis-gentoo-patches.git"
 EGIT_BRANCH="eapi7"
-PYTHON_COMPAT=( python3_6 )
-RUBY_VER=2.6
+PYTHON_COMPAT=( python2_7 )
+RUBY_VER=2.4
 
-inherit bash-completion-r1 cmake-utils git-r3 python-single-r1 user
+inherit bash-completion-r1 cmake-utils git-r3 python-single-r1 user eutils
 
 DESCRIPTION="paludis, the other package mangler"
 HOMEPAGE="http://paludis.exherbo.org/"
