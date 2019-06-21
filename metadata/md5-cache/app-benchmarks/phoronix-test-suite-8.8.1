@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst prepare
+DESCRIPTION=Phoronix's comprehensive, cross-platform testing and benchmark suite
+EAPI=7
+HOMEPAGE=http://www.phoronix-test-suite.com
+IUSE=sdl
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=app-arch/p7zip media-libs/libpng >=dev-lang/php-5.3:=[cli,curl,gd,json,posix,pcntl,sockets,ssl,truetype,xml,zip,zlib] dev-php/fpdf www-servers/apache x11-base/xorg-server sdl? ( media-libs/libsdl media-libs/sdl-net media-libs/sdl-image media-libs/libsdl2 media-libs/sdl2-net media-libs/sdl2-image media-libs/sdl2-mixer )
+SLOT=0
+SRC_URI=https://github.com/phoronix-test-suite/phoronix-test-suite/archive/v8.8.1.tar.gz -> phoronix-test-suite-8.8.1.tar.gz
+_eclasses_=bash-completion-r1	47a7402d95930413ce25ba8d857339bb	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529	xdg-utils-r1	ff7ea654fb65bc2ffc9117e16e98601a
+_md5_=4d8488730a7897cf57207da322dbc51c
