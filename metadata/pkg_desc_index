@@ -8,4 +8,3 @@ net-im/viber 7.0.0.1035-r1: Free calls, text and picture sharing with anyone, an
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
-xfce-extra/xfce4-dockbarx-plugin 0.2.1 0.3.1: Embed DockbarX in the xfce4-panel
