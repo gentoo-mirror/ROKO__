@@ -87,6 +87,8 @@ media-libs/mesa:vulkan - Enable Vulkan drivers
 media-libs/mesa:wayland - Enable support for dev-libs/wayland
 media-libs/mesa:xa - Enable the XA (X Acceleration) API for Gallium3D.
 media-libs/mesa:xvmc - Enable the XvMC acceleration interface for the Gallium3D Video Layer.
+net-im/viber-bin:apulse - Use PulseAudio emulation for ALSA
+net-im/viber-bin:pax_kernel - Triggers a paxmarking of the binary
 sys-apps/paludis:pbins - Enable binary package support. Adds dependency upon app-arch/libarchive
 sys-apps/paludis:pink - Use a less boring colourscheme than the default
 sys-apps/paludis:search-index - Enable cave search --index. Requires dev-db/sqlite.

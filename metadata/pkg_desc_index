@@ -39,9 +39,9 @@ media-libs/mesa 9999: OpenGL-like graphic library for Linux
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-video/gmediafinder 9999: Software to search/play stream and/or download files form youtube, youporn and some mp3 searchengines
 net-im/messengerfordesktop-bin 2.0.9: Beautiful desktop client for Facebook Messenger. Chat without being distracted by your feed or notifications.
-net-im/telegram 1.7.14: Official desktop client for Telegram (binary package)
+net-im/telegram 1.7.14 1.8.2: Official desktop client for Telegram (binary package)
 net-im/telegram-desktop-bin 1.5.7_beta 1.5.8: Official desktop client for Telegram (binary package)
-net-im/viber 7.0.0.1035-r1: Free calls, text and picture sharing with anyone, anywhere!
+net-im/viber-bin 10.3.0.37: Free text and calls
 net-misc/cloudcross 1.4.1_rc1: Multi-cloud client for OneDrive, Yandex disk, Google Drive, Dropbox and Mail.ru
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/yadisk-direct 0.0.6: Get real direct links usable with tools like curl or wget for files stored in Yandex.Disk
@@ -54,7 +54,7 @@ sys-apps/inxi 3.0.26_p1 9999: Perl script that collects and displays system info
 sys-apps/paludis 9999: paludis, the other package mangler
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
 sys-boot/etcher 1.4.4 1.4.9: Flash OS images to SD cards & USB drives, safely and easily.
-sys-kernel/debian-sources 4.19.37 5.2.7: Debian Sources (and optional binary kernel)
+sys-kernel/debian-sources 5.2.7_p1: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 4.19.8_p1 5.0.17_p1: The Liquorix Kernel Sources v5.x
 sys-kernel/zen-sources 5.2.9999: The Zen Kernel Live Sources
@@ -72,6 +72,6 @@ x11-misc/caffeine 2.6.2: Manually and automatically control the desktop's idle s
 x11-misc/dock-applet 0.71 9999: Application dock for the MATE panel
 x11-misc/dockbarx 0.91.4 9999: DockBarX is a lightweight taskbar / panel replacement for Linux
 x11-misc/emojione-picker 0.1: Emoji picker based on icons by Emojione
-x11-misc/mate-dock-applet 0.87: Application dock for the MATE panel
+x11-misc/mate-dock-applet 0.87 0.89: Application dock for the MATE panel
 x11-misc/yd-tools 1.10.6-r2: Panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
