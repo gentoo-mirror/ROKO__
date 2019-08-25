@@ -36,6 +36,7 @@ media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline
 media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
 media-libs/libpng 1.6.36: Portable Network Graphics library
 media-libs/mesa 9999: OpenGL-like graphic library for Linux
+media-sound/deadbeef 1.8.0-r1: foobar2k-like music player
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-video/gmediafinder 9999: Software to search/play stream and/or download files form youtube, youporn and some mp3 searchengines
 net-im/messengerfordesktop-bin 2.0.9: Beautiful desktop client for Facebook Messenger. Chat without being distracted by your feed or notifications.
