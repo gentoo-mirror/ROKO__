@@ -2,20 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-emulation/virtualbox:dtrace - Install dtrace Extension Pack
-app-emulation/virtualbox:headless - Build without any graphic frontend
-app-emulation/virtualbox:lvm - Build VBoxVolInfo that needs devicemapper from sys-fs/lvm2.
-app-emulation/virtualbox:pax_kernel - Apply patch needed for pax enabled kernels.
-app-emulation/virtualbox:sdk - Enable building of SDK
-app-emulation/virtualbox:udev - Controls installation of special USB udev rules.
-app-emulation/virtualbox:vboxwebsrv - Build and install the VirtualBox webservice
-app-emulation/virtualbox-bin:additions - Install Guest System Tools ISO
-app-emulation/virtualbox-bin:chm - Install kchmviewer binary to enable online help (in MS CHM format)
-app-emulation/virtualbox-bin:headless - Install without any graphic frontend
-app-emulation/virtualbox-bin:rdesktop-vrdp - Install the rdesktop client integration
-app-emulation/virtualbox-bin:sdk - Enable building of SDK
-app-emulation/virtualbox-bin:vboxwebsrv - Install the VirtualBox webservice
-app-emulation/virtualbox-modules:pax_kernel - Apply patch needed for pax enabled kernels
 app-misc/powerline:awesome - Install awesome (window manager) support files
 app-misc/powerline:bash - Install bash support files
 app-misc/powerline:busybox - Install BusyBox ash support files
@@ -32,6 +18,11 @@ app-misc/powerline:rc - Install rc shell support files
 app-misc/powerline:tmux - Install tmux support files
 app-misc/powerline:vim - Install vim support files
 app-misc/powerline:zsh - Install zsh support files
+dev-lang/rust-bin:clippy - Install clippy component
+dev-lang/rust-bin:rustfmt - Install rustfmt component
+dev-libs/nss:cacert - Include root/class3 certs from CAcert (http://www.cacert.org/)
+dev-libs/nss:nss-pem - Add support for libnsspem
+dev-libs/nss:utils - Install utilities included with the library
 gnome-base/gnome-control-center:colord - Support color management using x11-misc/colord
 gnome-base/gnome-control-center:gnome-online-accounts - Enable configuration panel for net-libs/gnome-online-accounts accounts
 gnome-base/gnome-control-center:i18n - Enable support for enhanced input methods through app-i18n/ibus
@@ -67,26 +58,6 @@ media-fonts/powerline-fonts:symbolneu - Install Powerline-patched Symbol Neu fon
 media-fonts/powerline-fonts:terminus_pcf - Install Powerline-patched Terminus fonts in PCF format
 media-fonts/powerline-fonts:tinos - Install Powerline-patched Tinos fonts
 media-fonts/powerline-fonts:ubuntumono - Install Powerline-patched Ubuntu Mono fonts
-media-libs/mesa:classic - Build drivers based on the classic architecture.
-media-libs/mesa:d3d9 - Enable Direct 3D9 API through Nine state tracker. Can be used together with patched wine.
-media-libs/mesa:dri3 - Enable DRI3 support.
-media-libs/mesa:egl - Enable EGL support.
-media-libs/mesa:gallium - Build drivers based on Gallium3D, the new architecture for 3D graphics drivers.
-media-libs/mesa:gbm - Enable the Graphics Buffer Manager for EGL on KMS.
-media-libs/mesa:gles1 - Enable GLESv1 support.
-media-libs/mesa:gles2 - Enable GLESv2 support.
-media-libs/mesa:llvm - Enable LLVM backend for Gallium3D.
-media-libs/mesa:opencl - Enable the Clover Gallium OpenCL state tracker.
-media-libs/mesa:osmesa - Build the Mesa library for off-screen rendering.
-media-libs/mesa:pax_kernel - Enable if the user plans to run the package under a pax enabled hardened kernel
-media-libs/mesa:pic - disable optimized assembly code that is not PIC friendly
-media-libs/mesa:unwind - Add support for stack trace unwinding and function name resolution
-media-libs/mesa:valgrind - Compile in valgrind memory hints
-media-libs/mesa:vdpau - Enable the VDPAU acceleration interface for the Gallium3D Video Layer.
-media-libs/mesa:vulkan - Enable Vulkan drivers
-media-libs/mesa:wayland - Enable support for dev-libs/wayland
-media-libs/mesa:xa - Enable the XA (X Acceleration) API for Gallium3D.
-media-libs/mesa:xvmc - Enable the XvMC acceleration interface for the Gallium3D Video Layer.
 media-sound/deadbeef:aac - Advanced Audio Coding (AAC) plugin
 media-sound/deadbeef:adplug - Adplug plugin
 media-sound/deadbeef:alac - Apple Lossless Audio Codec (ALAC) plugin
@@ -146,3 +117,24 @@ sys-apps/paludis:xml - Build xml things for metadata.xml and GLSA support (needs
 sys-apps/ssd-utility:policykit - Enable PolicyKit authentication support
 sys-kernel/debian-sources:binary - Builds and installs kernel automatically
 sys-kernel/debian-sources:rt - Applies the CONFIG_PREEMPT_RT patch series
+www-client/firefox:bindist - Disable official Firefox branding (icons, name) which are not binary-redistributable according to upstream.
+www-client/firefox:clang - Use Clang compiler instead of GCC
+www-client/firefox:custom-optimization - Build with user-specified compiler optimizations (-Os, -O0, -O1, -O2, -O3) from CFLAGS (unsupported)
+www-client/firefox:eme-free - Disable EME (DRM plugin) cabability at build time
+www-client/firefox:geckodriver - Enable WebDriver support
+www-client/firefox:gmp-autoupdate - Allow Gecko Media Plugins (binary blobs) to be automatically downloaded and kept up-to-date in user profiles
+www-client/firefox:gtk2 - Use the cairo-gtk2 rendering engine
+www-client/firefox:hwaccel - Force-enable hardware-accelerated rendering (Mozilla bug 594876)
+www-client/firefox:lto - Enable Link Time Optimization (LTO). Requires Gold linker when using GCC or LDD linker when using Clang
+www-client/firefox:pgo - Add support for profile-guided optimization using gcc-4.5, for faster binaries. This option will double the compile time.
+www-client/firefox:rust - Enable support for using rust compiler (experimental)
+www-client/firefox:screenshot - Allow to disable screenshot extension in global profile
+www-client/firefox:system-av1 - Use the system-wide media-libs/dav1d and media-libs/libaom library instead of bundled.
+www-client/firefox:system-cairo - Use the system-wide x11-libs/cairo instead of bundled.
+www-client/firefox:system-harfbuzz - Use the system-wide media-libs/harfbuzz and media-gfx/graphite2 instead of bundled.
+www-client/firefox:system-icu - Use the system-wide dev-libs/icu instead of bundled.
+www-client/firefox:system-jpeg - Use the system-wide media-libs/libjpeg-turbo instead of bundled.
+www-client/firefox:system-libevent - Use the system-wide dev-libs/libevent instead of bundled.
+www-client/firefox:system-libvpx - Use the system-wide media-libs/libvpx instead of bundled.
+www-client/firefox:system-sqlite - Use the system-wide dev-db/sqlite installation with secure-delete enabled
+www-client/firefox:system-webp - Use the system-wide media-libs/libwebp instead of bundled.

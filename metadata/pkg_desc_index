@@ -2,14 +2,7 @@ app-admin/gentoo-upgrade 9999: Automated Gentoo upgrading
 app-benchmarks/geekbench 4.3.2: A Cross-Platform Benchmark for Android, iOS, Linux, MacOS and Windows
 app-benchmarks/phoronix-test-suite 8.8.1: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-benchmarks/rt-tests 1.3: Programs that test various RT-Linux features
-app-emulation/phpvirtualbox 5.2.1: Web-based administration for VirtualBox in PHP
 app-emulation/snapd 2.37.2 2.37.4 2.38: Service and tools for management of snap packages
-app-emulation/virtualbox 6.0.4-r1 6.0.6-r1: Family of powerful x86 virtualization products for enterprise and home use
-app-emulation/virtualbox-additions 6.0.4 6.0.6: CD image containing guest additions for VirtualBox
-app-emulation/virtualbox-bin 6.0.4.128413 6.0.6.130049: Family of powerful x86 virtualization products for enterprise and home use
-app-emulation/virtualbox-extpack-oracle 6.0.4.128413 6.0.6.130049: PUEL extensions for VirtualBox
-app-emulation/virtualbox-guest-additions 6.0.4 6.0.6: VirtualBox kernel modules and user-space tools for Gentoo guests
-app-emulation/virtualbox-modules 6.0.4 6.0.6: Kernel Modules for Virtualbox
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-portage/emlop 0.3.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
@@ -21,7 +14,9 @@ app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a 
 app-shells/zsh-syntax-highlighting 0.2.1 0.5.0: Fish shell like syntax highlighting for zsh
 app-text/gist 9999: Upload code to gist.github.com
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
+dev-lang/rust-bin 1.34.2: Systems programming language from Mozilla
 dev-libs/gjs 1.50.2: Javascript bindings for GNOME
+dev-libs/nss 3.45: Mozilla's Network Security Services library that implements PKI support
 dev-perl/HTML-TreeBuilder-XPath 0.140.0-r1: Add XPath support to HTML::TreeBuilder
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
 dev-util/arch-install-scripts 20: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
@@ -35,10 +30,10 @@ media-fonts/noto-color-emoji 2015.12: Noto emoji color
 media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
 media-libs/libpng 1.6.36: Portable Network Graphics library
-media-libs/mesa 9999: OpenGL-like graphic library for Linux
 media-sound/deadbeef 1.8.0-r1: foobar2k-like music player
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-video/gmediafinder 9999: Software to search/play stream and/or download files form youtube, youporn and some mp3 searchengines
+net-im/caprine 2.37.0: Elegant Facebook Messenger desktop app
 net-im/messengerfordesktop-bin 2.0.9: Beautiful desktop client for Facebook Messenger. Chat without being distracted by your feed or notifications.
 net-im/telegram 1.7.14 1.8.2: Official desktop client for Telegram (binary package)
 net-im/telegram-desktop-bin 1.5.7_beta 1.5.8: Official desktop client for Telegram (binary package)
@@ -54,15 +49,18 @@ sys-apps/dkms-gentoo 9999: DKMS analog for gentoo
 sys-apps/inxi 3.0.26_p1 9999: Perl script that collects and displays system information.
 sys-apps/paludis 9999: paludis, the other package mangler
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
-sys-boot/etcher 1.4.4 1.4.9: Flash OS images to SD cards & USB drives, safely and easily.
-sys-kernel/debian-sources 5.2.7_p1: Debian Sources (and optional binary kernel)
+sys-boot/etcher 1.4.9 1.5.56: Flash OS images to SD cards & USB drives, safely and easily.
+sys-kernel/debian-sources 5.2.7_p1 5.3.0: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 4.19.8_p1 5.0.17_p1: The Liquorix Kernel Sources v5.x
 sys-kernel/zen-sources 5.2.9999: The Zen Kernel Live Sources
 sys-libs/libcpuid 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
+virtual/cargo 1.34.2: Package manager for Rust
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
+virtual/rust 1.34.2: Virtual for Rust language compiler
+www-client/firefox 68.0.2: Firefox Web Browser
 www-client/yandex-browser-beta 19.1.0.2494_p1-r0: The web browser from Yandex
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 x11-apps/cumulus 9999: Quickly check the weather with this stylish web app
