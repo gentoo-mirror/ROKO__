@@ -50,7 +50,7 @@ sys-apps/inxi 3.0.26_p1 9999: Perl script that collects and displays system info
 sys-apps/paludis 9999: paludis, the other package mangler
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
 sys-boot/etcher 1.4.9 1.5.56: Flash OS images to SD cards & USB drives, safely and easily.
-sys-kernel/debian-sources 5.2.7_p1 5.3.0: Debian Sources (and optional binary kernel)
+sys-kernel/debian-sources 5.2.9_p2 5.3.0: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 4.19.8_p1 5.0.17_p1: The Liquorix Kernel Sources v5.x
 sys-kernel/zen-sources 5.2.9999: The Zen Kernel Live Sources
