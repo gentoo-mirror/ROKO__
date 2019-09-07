@@ -25,7 +25,6 @@ gnome-base/gnome-core-libs 3.24.2 3.26.2 3.28.0: Sub-meta package for the core l
 gnome-base/gnome-light 3.28.0-r1: Meta package for GNOME-Light, merge this package to install
 gnome-base/nautilus 3.26.2 3.26.3.1: A file manager for the GNOME desktop
 gnome-extra/yad 0.40.0: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
-media-fonts/emojione-color-font 1.4: A color and B&W emoji SVG-in-OpenType font
 media-fonts/noto-color-emoji 2015.12: Noto emoji color
 media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
@@ -41,7 +40,7 @@ net-im/viber-bin 10.3.0.37: Free text and calls
 net-misc/cloudcross 1.4.1_rc1: Multi-cloud client for OneDrive, Yandex disk, Google Drive, Dropbox and Mail.ru
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/yadisk-direct 0.0.6: Get real direct links usable with tools like curl or wget for files stored in Yandex.Disk
-net-p2p/deluge 2.0.3 9999: BitTorrent client with a client/server model
+net-p2p/deluge 2.0.3 2.0.3-r1 9999: BitTorrent client with a client/server model
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
 sys-apps/cpu-x 9999: Gathers information on CPU, motherboard and more (like CPU-Z)
@@ -68,10 +67,8 @@ x11-apps/cumulus 9999: Quickly check the weather with this stylish web app
 x11-apps/radeon-profile 20170714: App for display info about radeon card
 x11-apps/radeon-profile-daemon 20170620: Daemon for radeon-profile GUI
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
-x11-misc/caffeine 2.6.2: Manually and automatically control the desktop's idle state.
-x11-misc/dock-applet 0.71 9999: Application dock for the MATE panel
 x11-misc/dockbarx 0.91.4 9999: DockBarX is a lightweight taskbar / panel replacement for Linux
-x11-misc/emojione-picker 0.1: Emoji picker based on icons by Emojione
+x11-misc/ekstertera 0.1.11: GUI client for Yandex.Disk
 x11-misc/mate-dock-applet 0.87 0.89: Application dock for the MATE panel
 x11-misc/yd-tools 1.10.6-r2: Panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
