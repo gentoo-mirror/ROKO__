@@ -45,7 +45,7 @@ sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and f
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
 sys-apps/cpu-x 9999: Gathers information on CPU, motherboard and more (like CPU-Z)
 sys-apps/dkms-gentoo 9999: DKMS analog for gentoo
-sys-apps/inxi 3.0.26_p1 9999: Perl script that collects and displays system information.
+sys-apps/inxi 3.0.36.1 9999: Perl script that collects and displays system information.
 sys-apps/paludis 9999: paludis, the other package mangler
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
 sys-boot/etcher 1.4.9 1.5.56: Flash OS images to SD cards & USB drives, safely and easily.
