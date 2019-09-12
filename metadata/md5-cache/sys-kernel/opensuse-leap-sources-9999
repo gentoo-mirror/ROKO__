@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install postinst postrm preinst prepare setup test unpack
+DEPEND=sys-devel/bc >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=OpenSUSE Leap Kernel Sources
+EAPI=5
+HOMEPAGE=https://www.opensuse.org/
+KEYWORDS=~amd64
+PROPERTIES=live
+RDEPEND=sys-devel/bc
+RESTRICT=binchecks strip
+SLOT=5.2.13
+_eclasses_=eapi7-ver	756b3f27d8e46131d5cf3c51bd876446	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	562b380fc59ae6a8622171d0acb777d1	kernel-2	d8ffb340027c53001eede0f9d32f3f14	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	a3a237ef6c0c58546bf23b2c382f9e56
+_md5_=4f97e53589c816e8a4c76b278cd2eeb7

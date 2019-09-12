@@ -52,10 +52,11 @@ sys-apps/paludis 9999: paludis, the other package mangler
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
 sys-boot/etcher 1.4.9 1.5.56: Flash OS images to SD cards & USB drives, safely and easily.
 sys-fs/xfsdump 9999: xfs dump/restore utilities
-sys-kernel/debian-sources 5.2.9_p2 5.3.0: Debian Sources (and optional binary kernel)
+sys-kernel/debian-sources 5.2.9 5.3.0: Debian Sources (and optional binary kernel)
 sys-kernel/debian-sources-lts 4.19.37_p6 4.19.67_p1: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 4.19.8_p1 5.0.17_p1: The Liquorix Kernel Sources v5.x
+sys-kernel/opensuse-leap-sources 9999: OpenSUSE Leap Kernel Sources
 sys-kernel/zen-sources 5.2.9999: The Zen Kernel Live Sources
 sys-libs/libcpuid 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
