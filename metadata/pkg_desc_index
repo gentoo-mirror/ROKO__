@@ -37,14 +37,13 @@ media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet ra
 media-video/gmediafinder 9999: Software to search/play stream and/or download files form youtube, youporn and some mp3 searchengines
 net-im/caprine 2.37.0: Elegant Facebook Messenger desktop app
 net-im/messengerfordesktop-bin 2.0.9: Beautiful desktop client for Facebook Messenger. Chat without being distracted by your feed or notifications.
-net-im/telegram 1.7.14 1.8.2: Official desktop client for Telegram (binary package)
-net-im/telegram-desktop-bin 1.5.7_beta 1.5.8: Official desktop client for Telegram (binary package)
+net-im/telegram 1.8.9: Official desktop client for Telegram (binary package)
 net-im/viber-bin 10.3.0.37: Free text and calls
 net-misc/cloudcross 1.4.1_rc1: Multi-cloud client for OneDrive, Yandex disk, Google Drive, Dropbox and Mail.ru
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
 net-misc/yadisk-direct 0.0.6: Get real direct links usable with tools like curl or wget for files stored in Yandex.Disk
-net-p2p/deluge 2.0.3 2.0.3-r1 9999: BitTorrent client with a client/server model
+net-p2p/deluge 2.0.3-r2 9999: BitTorrent client with a client/server model
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
 sys-apps/cpu-x 9999: Gathers information on CPU, motherboard and more (like CPU-Z)
