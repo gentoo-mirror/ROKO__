@@ -133,6 +133,7 @@ sys-apps/paludis:xml - Build xml things for metadata.xml and GLSA support (needs
 sys-apps/ssd-utility:policykit - Enable PolicyKit authentication support
 sys-kernel/debian-sources:binary - Builds and installs kernel automatically
 sys-kernel/debian-sources:rt - Applies the CONFIG_PREEMPT_RT patch series
+sys-kernel/rt-sources:deblob - Remove binary blobs from kernel sources to provide libre license compliance.
 www-client/firefox:bindist - Disable official Firefox branding (icons, name) which are not binary-redistributable according to upstream.
 www-client/firefox:clang - Use Clang compiler instead of GCC
 www-client/firefox:custom-optimization - Build with user-specified compiler optimizations (-Os, -O0, -O1, -O2, -O3) from CFLAGS (unsupported)

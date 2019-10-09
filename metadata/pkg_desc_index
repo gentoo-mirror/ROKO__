@@ -37,7 +37,7 @@ media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet ra
 media-video/gmediafinder 9999: Software to search/play stream and/or download files form youtube, youporn and some mp3 searchengines
 net-im/caprine 2.37.0: Elegant Facebook Messenger desktop app
 net-im/messengerfordesktop-bin 2.0.9: Beautiful desktop client for Facebook Messenger. Chat without being distracted by your feed or notifications.
-net-im/telegram 1.8.9: Official desktop client for Telegram (binary package)
+net-im/telegram 1.8.13: Official desktop client for Telegram (binary package)
 net-im/viber-bin 10.3.0.37: Free text and calls
 net-misc/cloudcross 1.4.1_rc1: Multi-cloud client for OneDrive, Yandex disk, Google Drive, Dropbox and Mail.ru
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
@@ -56,8 +56,9 @@ sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.2.9 5.3.0: Debian Sources (and optional binary kernel)
 sys-kernel/debian-sources-lts 4.19.67: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
-sys-kernel/liquorix-sources 4.19.8_p1 5.0.17_p1: The Liquorix Kernel Sources v5.x
+sys-kernel/liquorix-sources 4.19.8_p1 5.0.17_p1 5.2.28: The Liquorix Kernel Sources v5.x
 sys-kernel/opensuse-leap-sources 9999: OpenSUSE Leap Kernel Sources
+sys-kernel/rt-sources 5.2.17_p9: Full Linux 5.2 kernel sources with the CONFIG_PREEMPT_RT patch
 sys-kernel/zen-sources 5.2.9999: The Zen Kernel Live Sources
 sys-libs/libcpuid 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
