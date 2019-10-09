@@ -37,7 +37,7 @@ media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet ra
 media-video/gmediafinder 9999: Software to search/play stream and/or download files form youtube, youporn and some mp3 searchengines
 net-im/caprine 2.37.0: Elegant Facebook Messenger desktop app
 net-im/messengerfordesktop-bin 2.0.9: Beautiful desktop client for Facebook Messenger. Chat without being distracted by your feed or notifications.
-net-im/telegram 1.8.13: Official desktop client for Telegram (binary package)
+net-im/telegram 1.8.15: Official desktop client for Telegram (binary package)
 net-im/viber-bin 10.3.0.37: Free text and calls
 net-misc/cloudcross 1.4.1_rc1: Multi-cloud client for OneDrive, Yandex disk, Google Drive, Dropbox and Mail.ru
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
