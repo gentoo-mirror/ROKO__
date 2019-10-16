@@ -27,7 +27,6 @@ gnome-base/gnome-core-libs 3.24.2 3.26.2 3.28.0: Sub-meta package for the core l
 gnome-base/gnome-light 3.28.0-r1: Meta package for GNOME-Light, merge this package to install
 gnome-base/nautilus 3.26.2 3.26.3.1: A file manager for the GNOME desktop
 gnome-extra/yad 0.40.0: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
-kde-misc/kmozillahelper 5.0.3: Mozilla KDE Desktop Integration
 media-fonts/noto-color-emoji 2015.12: Noto emoji color
 media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
