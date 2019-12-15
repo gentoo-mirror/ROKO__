@@ -21,6 +21,7 @@ dev-libs/gjs 1.50.2: Javascript bindings for GNOME
 dev-libs/nss 3.45: Mozilla's Network Security Services library that implements PKI support
 dev-perl/HTML-TreeBuilder-XPath 0.140.0-r1: Add XPath support to HTML::TreeBuilder
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
+dev-python/spotipy 2.4.4: A thin Python-based library for the Spotify Web API
 dev-util/arch-install-scripts 20: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 gnome-base/gnome-control-center 3.30.2-r1: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-core-libs 3.24.2 3.26.2 3.28.0: Sub-meta package for the core libraries of GNOME 3
@@ -49,7 +50,7 @@ sys-apps/dkms-gentoo 9999: DKMS analog for gentoo
 sys-apps/inxi 3.0.36.1 9999: Perl script that collects and displays system information.
 sys-apps/paludis 9999: paludis, the other package mangler
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
-sys-boot/etcher 1.4.9 1.5.56: Flash OS images to SD cards & USB drives, safely and easily.
+sys-boot/etcher 1.5.56 1.5.69: Flash OS images to SD cards & USB drives, safely and easily.
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.2.9 5.3.0: Debian Sources (and optional binary kernel)
 sys-kernel/debian-sources-lts 4.19.67: Debian Sources (and optional binary kernel)
