@@ -37,7 +37,7 @@ media-sound/deadbeef 1.8.0-r1: foobar2k-like music player
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-sound/mellowplayer 3.5.9: Cloud music integration for your desktop
 media-video/gmediafinder 9999: Software to search/play stream and/or download files form youtube, youporn and some mp3 searchengines
-net-im/caprine 2.37.0 2.40.0: Elegant Facebook Messenger desktop app
+net-im/caprine 2.40.0 2.42.1: Elegant Facebook Messenger desktop app
 net-im/telegram 1.9.7: Official desktop client for Telegram (binary package)
 net-im/viber-bin 10.3.0.37: Free text and calls
 net-misc/cloudcross 1.4.1_rc1: Multi-cloud client for OneDrive, Yandex disk, Google Drive, Dropbox and Mail.ru
@@ -54,7 +54,7 @@ sys-apps/paludis 9999: paludis, the other package mangler
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
 sys-boot/etcher 1.5.56 1.5.69: Flash OS images to SD cards & USB drives, safely and easily.
 sys-fs/xfsdump 9999: xfs dump/restore utilities
-sys-kernel/debian-sources 5.2.9 5.3.0: Debian Sources (and optional binary kernel)
+sys-kernel/debian-sources 5.3.0 5.4.8: Debian Sources (and optional binary kernel)
 sys-kernel/debian-sources-lts 4.19.67: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 4.19.8_p1 5.0.17_p1 5.2.28: The Liquorix Kernel Sources v5.x
