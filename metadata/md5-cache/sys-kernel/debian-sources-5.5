@@ -1,12 +1,14 @@
 DEFINED_PHASES=compile install postinst postrm preinst prepare prerm pretend setup
-DEPEND=binary? ( >=sys-kernel/genkernel-3.4.40.7 ) btrfs? ( sys-fs/btrfs-progs ) zfs? ( sys-fs/zfs )
+DEPEND=virtual/libelf binary? ( >=sys-kernel/genkernel-3.4.40.7 ) btrfs? ( sys-fs/btrfs-progs sys-kernel/genkernel[btrfs] ) zfs? ( sys-fs/zfs ) luks? ( sys-kernel/genkernel[cryptsetup] )
 DESCRIPTION=Debian Sources (and optional binary kernel)
 EAPI=5
 HOMEPAGE=https://packages.debian.org/unstable/kernel/
-IUSE=binary ec2 sign-modules btrfs zfs
+IUSE=binary btrfs custom-cflags ec2 luks lvm sign-modules zfs
+KEYWORDS=~amd64
 LICENSE=GPL-2
+REQUIRED_USE=btrfs? ( binary ) custom-cflags? ( binary ) luks? ( binary ) lvm? ( binary ) sign-modules? ( binary ) zfs? ( binary )
 RESTRICT=binchecks strip mirror
-SLOT=debian-sources-5.3.0
-SRC_URI=http://http.debian.net/debian/pool/main/l/linux/linux_5.3~rc5.orig.tar.xz http://http.debian.net/debian/pool/main/l/linux/linux_5.3~rc5-1~exp2.debian.tar.xz
+SLOT=debian-sources-5.5
+SRC_URI=http://http.debian.net/debian/pool/main/l/linux/linux_5.5~rc5.orig.tar.xz http://http.debian.net/debian/pool/main/l/linux/linux_5.5~rc5-1~exp1.debian.tar.xz
 _eclasses_=check-reqs	5e40a693d9c828e8f3655184116e8b73	desktop	b1d22ac8bdd4679ab79c71aca235009d	epatch	a1bf4756dba418a7238f3be0cb010c54	estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	ltprune	2729691420b6deeda2a90b1f1183fb55	mount-boot	e30bb691fbb26137f3d46438542bffe4	multilib	1d91b03d42ab6308b5f4f6b598ed110e	preserve-libs	ef207dc62baddfddfd39a164d9797648	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	vcs-clean	2a0f74a496fa2b1552c4f3398258b7bf
-_md5_=3954e4d253149db77b4ab0ce5f6cacff
+_md5_=fdf43d44cc22591b3e248a0f76f10500
