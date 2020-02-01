@@ -52,7 +52,7 @@ sys-apps/dkms-gentoo 9999: DKMS analog for gentoo
 sys-apps/inxi 3.0.36.1 9999: Perl script that collects and displays system information.
 sys-apps/paludis 9999: paludis, the other package mangler
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
-sys-boot/etcher 1.5.56 1.5.69: Flash OS images to SD cards & USB drives, safely and easily.
+sys-boot/etcher 1.5.56 1.5.69 1.5.73: Flash OS images to SD cards & USB drives, safely and easily.
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.3.0 5.4.13 5.5: Debian Sources (and optional binary kernel)
 sys-kernel/debian-sources-lts 4.19.67 4.19.87: Debian Sources (and optional binary kernel)
