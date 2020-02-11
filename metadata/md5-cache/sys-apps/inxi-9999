@@ -7,5 +7,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=app-text/tree dev-lang/perl:0= dev-perl/Cpanel-JSON-XS sys-apps/pciutils sys-apps/usbutils virtual/perl-HTTP-Tiny virtual/perl-IO-Socket-IP virtual/perl-Time-HiRes
 SLOT=0
-_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33
+_eclasses_=git-r3	86a0188f2ad9eb3d65e4d031ab8a0422
 _md5_=b1d37503d4aea086e671d3b4553e27ba
