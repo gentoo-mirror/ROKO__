@@ -72,7 +72,6 @@ x11-apps/cumulus 9999: Quickly check the weather with this stylish web app
 x11-apps/radeon-profile 20170714: App for display info about radeon card
 x11-apps/radeon-profile-daemon 20170620: Daemon for radeon-profile GUI
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
-x11-misc/dockbarx 0.91.4 9999: DockBarX is a lightweight taskbar / panel replacement for Linux
 x11-misc/ekstertera 0.1.11: GUI client for Yandex.Disk
 x11-misc/mate-dock-applet 0.87 0.89: Application dock for the MATE panel
 x11-misc/yd-tools 1.10.6-r2: Panel indicator (GUI) for YandexDisk CLI client
