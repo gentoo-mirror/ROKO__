@@ -37,7 +37,6 @@ media-sound/deadbeef 1.8.0-r1: foobar2k-like music player
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-sound/mellowplayer 3.5.9 3.5.10: Cloud music integration for your desktop
 net-im/caprine 2.40.0 2.44.0: Elegant Facebook Messenger desktop app
-net-im/telegram 1.9.9: Official desktop client for Telegram (binary package)
 net-im/viber-bin 10.3.0.37: Free text and calls
 net-misc/cloudcross 1.4.1_rc1: Multi-cloud client for OneDrive, Yandex disk, Google Drive, Dropbox and Mail.ru
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
