@@ -3,6 +3,7 @@ app-backup/mkstage4 0.1-r99: A fork of Bash Utility for Creating Stage 4 Tarball
 app-benchmarks/geekbench 5.0.0: A Cross-Platform Benchmark for Android, iOS, Linux, MacOS and Windows
 app-benchmarks/phoronix-test-suite 8.8.1: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-benchmarks/rt-tests 1.3: Programs that test various RT-Linux features
+app-editors/visual-studio-code 1.45.1: Multiplatform Visual Studio Code from Microsoft
 app-emulation/snapd 2.37.2 2.37.4 2.38: Service and tools for management of snap packages
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 970: A complete, free Microsoft Office-compatible alternative office suite
@@ -16,7 +17,6 @@ app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a 
 app-shells/zsh-syntax-highlighting 0.2.1 0.5.0: Fish shell like syntax highlighting for zsh
 app-text/gist 9999: Upload code to gist.github.com
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
-dev-lang/rust-bin 1.34.2: Systems programming language from Mozilla
 dev-libs/gjs 1.50.2: Javascript bindings for GNOME
 dev-libs/nss 3.45: Mozilla's Network Security Services library that implements PKI support
 dev-perl/HTML-TreeBuilder-XPath 0.140.0-r1: Add XPath support to HTML::TreeBuilder
@@ -62,9 +62,7 @@ sys-kernel/zen-sources 5.2.9999: The Zen Kernel Live Sources
 sys-libs/libcpuid 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
-virtual/cargo 1.34.2: Package manager for Rust
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
-virtual/rust 1.34.2: Virtual for Rust language compiler
 www-client/yandex-browser-beta 19.1.0.2494_p1-r0: The web browser from Yandex
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 x11-apps/cumulus 9999: Quickly check the weather with this stylish web app
