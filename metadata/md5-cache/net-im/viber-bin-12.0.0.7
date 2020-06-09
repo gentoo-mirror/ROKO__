@@ -1,0 +1,15 @@
+BDEPEND=sys-apps/fix-gnustack
+DEFINED_PHASES=install postinst postrm prepare unpack
+DESCRIPTION=Free text and calls
+EAPI=7
+HOMEPAGE=http://www.viber.com
+IUSE=apulse +pulseaudio abi_x86_64
+KEYWORDS=-* ~amd64
+LICENSE=viber
+RDEPEND=dev-libs/expat[abi_x86_64(-)?] dev-libs/glib:2[abi_x86_64(-)?] dev-libs/nspr[abi_x86_64(-)?] dev-libs/nss[abi_x86_64(-)?] dev-libs/openssl-compat[abi_x86_64(-)?] dev-libs/wayland[abi_x86_64(-)?] media-libs/alsa-lib[abi_x86_64(-)?] media-libs/fontconfig:1.0[abi_x86_64(-)?] media-libs/freetype:2[abi_x86_64(-)?] media-libs/gst-plugins-base:1.0[abi_x86_64(-)?] media-libs/gstreamer:1.0[abi_x86_64(-)?] net-print/cups[abi_x86_64(-)?] sys-apps/dbus[abi_x86_64(-)?] sys-libs/zlib:0/1[abi_x86_64(-)?] x11-libs/libdrm[abi_x86_64(-)?] x11-libs/libICE[abi_x86_64(-)?] x11-libs/libSM[abi_x86_64(-)?] x11-libs/libX11[abi_x86_64(-)?] x11-libs/libxcb:0/1.12[abi_x86_64(-)?] x11-libs/libXcomposite[abi_x86_64(-)?] x11-libs/libXcursor[abi_x86_64(-)?] x11-libs/libXdamage[abi_x86_64(-)?] x11-libs/libXext[abi_x86_64(-)?] x11-libs/libXfixes[abi_x86_64(-)?] x11-libs/libXi[abi_x86_64(-)?] x11-libs/libXrandr[abi_x86_64(-)?] x11-libs/libXrender[abi_x86_64(-)?] x11-libs/libXScrnSaver[abi_x86_64(-)?] x11-libs/libXtst[abi_x86_64(-)?] x11-libs/xcb-util-image[abi_x86_64(-)?] x11-libs/xcb-util-keysyms[abi_x86_64(-)?] x11-libs/xcb-util-renderutil[abi_x86_64(-)?] x11-libs/xcb-util-wm[abi_x86_64(-)?] apulse? ( media-sound/apulse[abi_x86_64(-)?] ) pulseaudio? ( media-sound/pulseaudio[abi_x86_64(-)?] )
+REQUIRED_USE=^^ ( apulse pulseaudio ) || ( abi_x86_64 )
+RESTRICT=bindist mirror
+SLOT=0
+SRC_URI=http://download.cdn.viber.com/cdn/desktop/Linux/viber.deb
+_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	multibuild	40fe59465edacd730c644ec2bc197809	multilib	0914eab919f4f11dd9e0407b92af4726	multilib-build	dfda7934df092a96e439c05b4aeac519	pax-utils	a41d1fd1c111289ffa04490de6ee79d7	toolchain-funcs	d3e75048a89c0445838d2f44e5c65d97	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=8f1a7998c84dcf02fe6be5392d208fdc
