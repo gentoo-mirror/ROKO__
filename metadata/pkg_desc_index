@@ -46,6 +46,7 @@ net-misc/yadisk-direct 0.0.6: Get real direct links usable with tools like curl 
 net-p2p/deluge 2.0.3-r2 9999: BitTorrent client with a client/server model
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
+sys-apps/corectrl 1.0.7 9999: Core control application.
 sys-apps/cpu-x 9999: Gathers information on CPU, motherboard and more (like CPU-Z)
 sys-apps/dkms-gentoo 9999: DKMS analog for gentoo
 sys-apps/inxi 3.0.36.1 9999: Perl script that collects and displays system information.
@@ -74,3 +75,4 @@ x11-misc/ekstertera 0.1.11: GUI client for Yandex.Disk
 x11-misc/mate-dock-applet 0.87 0.89: Application dock for the MATE panel
 x11-misc/yd-tools 1.10.6-r2: Panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
+x11-themes/pop-gtk-theme 5.1.2: System76 Pop GTK+ Theme, based in adapta-gtk-theme
