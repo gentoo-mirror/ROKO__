@@ -36,6 +36,7 @@ media-libs/libpng 1.6.36: Portable Network Graphics library
 media-sound/deadbeef 1.8.0-r1: foobar2k-like music player
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-sound/mellowplayer 3.5.9 3.5.10: Cloud music integration for your desktop
+media-video/kazam 1.4.5: A screencasting program with design in mind
 net-im/caprine 2.47.0: Elegant Facebook Messenger desktop app
 net-im/rambox-bin 0.7.5: Free and Open Source messaging and emailing app
 net-im/viber-bin 12.0.0.7: Free text and calls
