@@ -7,7 +7,6 @@ app-editors/visual-studio-code 1.45.1: Multiplatform Visual Studio Code from Mic
 app-emulation/snapd 2.37.2 2.37.4 2.38: Service and tools for management of snap packages
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 976: A complete, free Microsoft Office-compatible alternative office suite
-app-portage/emlop 0.3.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-shells/fish 3.0.0: Friendly Interactive SHell
 app-shells/oh-my-zsh 99999999: A ready-to-use zsh configuration with plugins
