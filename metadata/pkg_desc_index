@@ -1,3 +1,4 @@
+acct-group/gamemode 0: System group: gamemode
 app-admin/gentoo-upgrade 9999: Automated Gentoo upgrading
 app-backup/mkstage4 0.1-r99: A fork of Bash Utility for Creating Stage 4 Tarballs with pbzip2 support
 app-benchmarks/geekbench 5.0.0: A Cross-Platform Benchmark for Android, iOS, Linux, MacOS and Windows
@@ -17,13 +18,16 @@ app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a 
 app-shells/zsh-syntax-highlighting 0.2.1 0.5.0: Fish shell like syntax highlighting for zsh
 app-text/gist 9999: Upload code to gist.github.com
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
+dev-db/dbeaver-bin 7.1.0: Free universal database tool and SQL client
 dev-libs/gjs 1.50.2: Javascript bindings for GNOME
+dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-libs/nss 3.45: Mozilla's Network Security Services library that implements PKI support
 dev-perl/HTML-TreeBuilder-XPath 0.140.0-r1: Add XPath support to HTML::TreeBuilder
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
 dev-python/spotipy 2.4.4: A thin Python-based library for the Spotify Web API
 dev-util/arch-install-scripts 20: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/yamllint 1.16.0: A linter for YAML files
+games-util/gamemode 9999-r1: Optimise Linux system performance on demand
 gnome-base/gnome-control-center 3.30.2-r1: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-core-libs 3.24.2 3.26.2 3.28.0: Sub-meta package for the core libraries of GNOME 3
 gnome-base/gnome-light 3.28.0-r1: Meta package for GNOME-Light, merge this package to install
@@ -50,6 +54,7 @@ sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RA
 sys-apps/corectrl 1.0.7 9999: Core control application.
 sys-apps/cpu-x 9999: Gathers information on CPU, motherboard and more (like CPU-Z)
 sys-apps/dkms-gentoo 9999: DKMS analog for gentoo
+sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-apps/inxi 3.0.36.1 9999: Perl script that collects and displays system information.
 sys-apps/paludis 9999: paludis, the other package mangler
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
@@ -58,7 +63,7 @@ sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.4.19 5.7: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 5.7.5: Liquorix sources including the Gentoo patchsets for the 5.7 kernel tree
-sys-kernel/xanmod-sources 5.7.5: A general-purpose kernel with custom settings and new features
+sys-kernel/xanmod-sources 5.4.48 5.7.6: A general-purpose kernel with custom settings and new features
 sys-libs/libcpuid 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
