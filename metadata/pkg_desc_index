@@ -18,7 +18,7 @@ app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a 
 app-shells/zsh-syntax-highlighting 0.2.1 0.5.0: Fish shell like syntax highlighting for zsh
 app-text/gist 9999: Upload code to gist.github.com
 app-text/sprunge 0.1 1.0: Програма за прилагане на текстови файлове към http://sprunge.us/
-dev-db/dbeaver-bin 7.1.0: Free universal database tool and SQL client
+dev-db/mariadb 10.5.4: An enhanced, drop-in replacement for MySQL
 dev-libs/gjs 1.50.2: Javascript bindings for GNOME
 dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-libs/nss 3.45: Mozilla's Network Security Services library that implements PKI support
@@ -62,7 +62,7 @@ sys-boot/etcher 1.5.56 1.5.69 1.5.73: Flash OS images to SD cards & USB drives, 
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.4.19 5.7: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
-sys-kernel/liquorix-sources 5.7.5: Liquorix sources including the Gentoo patchsets for the 5.7 kernel tree
+sys-kernel/liquorix-sources 5.7.6: Liquorix sources including the Gentoo patchsets for the 5.7 kernel tree
 sys-kernel/xanmod-sources 5.4.48 5.7.6: A general-purpose kernel with custom settings and new features
 sys-libs/libcpuid 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
@@ -75,8 +75,10 @@ x11-apps/cumulus 9999: Quickly check the weather with this stylish web app
 x11-apps/radeon-profile 20170714: App for display info about radeon card
 x11-apps/radeon-profile-daemon 20170620: Daemon for radeon-profile GUI
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
+x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
 x11-misc/ekstertera 0.1.11: GUI client for Yandex.Disk
 x11-misc/mate-dock-applet 0.87 0.89: Application dock for the MATE panel
+x11-misc/mate-tweak 20.04.0: Tweak tool for the MATE Desktop, a fork of mintDesktop
 x11-misc/yd-tools 1.10.6-r2: Panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2: System76 Pop GTK+ Theme, based in adapta-gtk-theme
