@@ -4,7 +4,7 @@ app-backup/mkstage4 0.1-r99: A fork of Bash Utility for Creating Stage 4 Tarball
 app-benchmarks/geekbench 5.0.0: A Cross-Platform Benchmark for Android, iOS, Linux, MacOS and Windows
 app-benchmarks/phoronix-test-suite 8.8.1: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-benchmarks/rt-tests 1.3: Programs that test various RT-Linux features
-app-editors/visual-studio-code 1.45.1: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code 1.46.1: Multiplatform Visual Studio Code from Microsoft
 app-emulation/snapd 2.37.2 2.37.4 2.38: Service and tools for management of snap packages
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 976: A complete, free Microsoft Office-compatible alternative office suite
@@ -63,7 +63,7 @@ sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.4.19 5.7: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 5.7.6: Liquorix sources including the Gentoo patchsets for the 5.7 kernel tree
-sys-kernel/xanmod-sources 5.4.50 5.7.7: A general-purpose kernel with custom settings and new features
+sys-kernel/xanmod-sources 5.4.50 5.7.9: A general-purpose kernel with custom settings and new features
 sys-libs/libcpuid 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
