@@ -4,7 +4,6 @@ app-backup/mkstage4 0.1-r99: A fork of Bash Utility for Creating Stage 4 Tarball
 app-benchmarks/geekbench 5.0.0: A Cross-Platform Benchmark for Android, iOS, Linux, MacOS and Windows
 app-benchmarks/phoronix-test-suite 8.8.1: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-benchmarks/rt-tests 1.3: Programs that test various RT-Linux features
-app-editors/visual-studio-code 1.46.1: Multiplatform Visual Studio Code from Microsoft
 app-emulation/snapd 2.37.2 2.37.4 2.38: Service and tools for management of snap packages
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 976: A complete, free Microsoft Office-compatible alternative office suite
@@ -41,6 +40,7 @@ media-sound/deadbeef 1.8.0-r1: foobar2k-like music player
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-sound/mellowplayer 3.5.9 3.5.10: Cloud music integration for your desktop
 media-video/kazam 1.4.5: A screencasting program with design in mind
+net-analyzer/nagstamon 3.5.0: systray monitor for displaying realtime status of several monitoring systems
 net-im/caprine 2.47.0: Elegant Facebook Messenger desktop app
 net-im/rambox-bin 0.7.5: Free and Open Source messaging and emailing app
 net-im/viber-bin 12.0.0.7: Free text and calls
@@ -52,7 +52,6 @@ net-p2p/deluge 2.0.3-r2 9999: BitTorrent client with a client/server model
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
 sys-apps/corectrl 1.0.7 9999: Core control application.
-sys-apps/cpu-x 9999: Gathers information on CPU, motherboard and more (like CPU-Z)
 sys-apps/dkms-gentoo 9999: DKMS analog for gentoo
 sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-apps/inxi 3.0.36.1 9999: Perl script that collects and displays system information.
@@ -65,8 +64,9 @@ sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 5.7.6: Liquorix sources including the Gentoo patchsets for the 5.7 kernel tree
 sys-kernel/xanmod-sources 5.8.5: A general-purpose kernel with custom settings and new features
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
-sys-libs/libcpuid 9999: Provides CPU identification for x86 (and x86_64)
+sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
+sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, motherboard and more
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
 www-client/slimjet 26.0.12.0: Fast,free secure and powerful web browser based on Google-Chrome.
