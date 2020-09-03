@@ -3,6 +3,7 @@
 # * generated automatically using pmaint *
 
 app-backup/mkstage4:pbzip2 - Enable parallel bzip2 support
+app-crypt/buttercup-desktop-bin:xtest - Enable support for x11-libs/libXtst
 app-misc/powerline:awesome - Install awesome (window manager) support files
 app-misc/powerline:bash - Install bash support files
 app-misc/powerline:busybox - Install BusyBox ash support files

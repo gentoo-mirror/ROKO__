@@ -2,8 +2,9 @@ acct-group/gamemode 0: System group: gamemode
 app-admin/gentoo-upgrade 9999: Automated Gentoo upgrading
 app-backup/mkstage4 0.1-r99: A fork of Bash Utility for Creating Stage 4 Tarballs with pbzip2 support
 app-benchmarks/geekbench 5.0.0: A Cross-Platform Benchmark for Android, iOS, Linux, MacOS and Windows
-app-benchmarks/phoronix-test-suite 8.8.1: Phoronix's comprehensive, cross-platform testing and benchmark suite
+app-benchmarks/phoronix-test-suite 8.8.1 9.8.0: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-benchmarks/rt-tests 1.3: Programs that test various RT-Linux features
+app-crypt/buttercup-desktop-bin 1.20.5: Cross-platform, free and open-source password manager based on NodeJS.
 app-emulation/snapd 2.37.2 2.37.4 2.38: Service and tools for management of snap packages
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 976: A complete, free Microsoft Office-compatible alternative office suite
@@ -61,7 +62,7 @@ sys-boot/etcher 1.5.56 1.5.69 1.5.73: Flash OS images to SD cards & USB drives, 
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.4.19 5.7: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
-sys-kernel/liquorix-sources 5.7.6: Liquorix sources including the Gentoo patchsets for the 5.7 kernel tree
+sys-kernel/liquorix-sources 5.8.5: Liquorix sources including the Gentoo patchsets for the 5.8 kernel tree
 sys-kernel/xanmod-sources 5.8.5: A general-purpose kernel with custom settings and new features
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
