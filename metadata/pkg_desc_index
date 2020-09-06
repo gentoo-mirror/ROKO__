@@ -62,8 +62,8 @@ sys-boot/etcher 1.5.56 1.5.69 1.5.73: Flash OS images to SD cards & USB drives, 
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.4.19 5.7: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
-sys-kernel/liquorix-sources 5.8.5: Liquorix sources including the Gentoo patchsets for the 5.8 kernel tree
-sys-kernel/xanmod-sources 5.8.5: A general-purpose kernel with custom settings and new features
+sys-kernel/liquorix-sources 5.8.6: Liquorix sources including the Gentoo patchsets for the 5.8 kernel tree
+sys-kernel/xanmod-sources 5.8.6: A general-purpose kernel with custom settings and new features
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
