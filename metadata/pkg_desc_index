@@ -33,6 +33,7 @@ gnome-base/gnome-core-libs 3.24.2 3.26.2 3.28.0: Sub-meta package for the core l
 gnome-base/gnome-light 3.28.0-r1: Meta package for GNOME-Light, merge this package to install
 gnome-base/nautilus 3.26.2 3.26.3.1: A file manager for the GNOME desktop
 gnome-extra/yad 0.40.0: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
+media-fonts/emojione-color-font 1.4: A color and B&W emoji SVG-in-OpenType font
 media-fonts/noto-color-emoji 2015.12: Noto emoji color
 media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
@@ -43,8 +44,8 @@ media-sound/mellowplayer 3.5.9 3.5.10: Cloud music integration for your desktop
 media-video/kazam 1.4.5: A screencasting program with design in mind
 net-analyzer/nagstamon 3.5.0: systray monitor for displaying realtime status of several monitoring systems
 net-im/caprine 2.47.0: Elegant Facebook Messenger desktop app
-net-im/rambox-bin 0.7.5: Free and Open Source messaging and emailing app
 net-im/viber-bin 12.0.0.7: Free text and calls
+net-im/yakyak-bin 1.5.9: Desktop chat client for Google Hangouts
 net-misc/cloudcross 1.4.1_rc1: Multi-cloud client for OneDrive, Yandex disk, Google Drive, Dropbox and Mail.ru
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
@@ -62,7 +63,7 @@ sys-boot/etcher 1.5.56 1.5.69 1.5.73: Flash OS images to SD cards & USB drives, 
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.4.19 5.7: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
-sys-kernel/liquorix-sources 5.8.6: Liquorix sources including the Gentoo patchsets for the 5.8 kernel tree
+sys-kernel/liquorix-sources 5.8.8: Liquorix sources including the Gentoo patchsets for the 5.8 kernel tree
 sys-kernel/xanmod-sources 5.8.6: A general-purpose kernel with custom settings and new features
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
