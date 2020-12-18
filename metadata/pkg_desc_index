@@ -42,6 +42,7 @@ media-fonts/nerd-fonts 2.1.0: Collection of fonts that are patched to include a 
 media-fonts/noto-color-emoji 2015.12: Noto emoji color
 media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
+media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-libs/libpng 1.6.36: Portable Network Graphics library
 media-sound/deadbeef 1.8.0-r1: foobar2k-like music player
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
@@ -69,7 +70,7 @@ sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/debian-sources 5.4.19 5.7: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 5.8.8: Liquorix sources including the Gentoo patchsets for the 5.8 kernel tree
-sys-kernel/xanmod-sources 5.8.6: A general-purpose kernel with custom settings and new features
+sys-kernel/xanmod-cacule-sources 5.10.1: Xanmod and CacULE sources including the Gentoo patchset for the 5.10 kernel tree
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
