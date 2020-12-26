@@ -53,7 +53,6 @@ net-analyzer/nagstamon 3.5.0: systray monitor for displaying realtime status of 
 net-im/caprine 2.51.2: Elegant Facebook Messenger desktop app
 net-im/viber 13.3.1.22: Free text and calls
 net-im/yakyak-bin 1.5.9: Desktop chat client for Google Hangouts
-net-misc/cloudcross 1.4.1_rc1: Multi-cloud client for OneDrive, Yandex disk, Google Drive, Dropbox and Mail.ru
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
 net-misc/yadisk-direct 0.0.6: Get real direct links usable with tools like curl or wget for files stored in Yandex.Disk
@@ -84,11 +83,8 @@ www-client/slimjet 28.0.3.0: Fast,free secure and powerful web browser based on 
 www-client/yandex-browser-beta 20.11.3.188_p1: The web browser from Yandex
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 x11-apps/cumulus 9999: Quickly check the weather with this stylish web app
-x11-apps/radeon-profile 20170714: App for display info about radeon card
-x11-apps/radeon-profile-daemon 20170620: Daemon for radeon-profile GUI
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
-x11-misc/ekstertera 0.1.11: GUI client for Yandex.Disk
 x11-misc/mate-dock-applet 0.87 0.89: Application dock for the MATE panel
 x11-misc/mate-tweak 20.04.0: Tweak tool for the MATE Desktop, a fork of mintDesktop
 x11-misc/yd-tools 1.10.6-r2 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
