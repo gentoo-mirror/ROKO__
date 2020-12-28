@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86 live
 LICENSE=Apache-2.0
 SLOT=0
 SRC_URI=https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold.ttf https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Italic.ttf https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold%20Italic.ttf
-_eclasses_=font	e052246186f22bd6a37797238374613b
+_eclasses_=font	dd073b36fe3fd8b868c23bc23209db45
 _md5_=b16eb377e1ad19d26271f21365b8c535
