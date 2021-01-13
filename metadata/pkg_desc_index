@@ -50,6 +50,7 @@ media-sound/mellowplayer 3.5.9 3.5.10: Cloud music integration for your desktop
 media-video/kazam 1.4.5: A screencasting program with design in mind
 net-analyzer/nagstamon 3.5.0: systray monitor for displaying realtime status of several monitoring systems
 net-im/caprine 2.51.2: Elegant Facebook Messenger desktop app
+net-im/jitsi-meet-bin 2.3.1: Desktop application for Jitsi Meet built with Electron
 net-im/viber 13.3.1.22: Free text and calls
 net-im/yakyak-bin 1.5.9: Desktop chat client for Google Hangouts
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
@@ -70,7 +71,7 @@ sys-kernel/buildkernel-dracut 1.0.37-r1: Build secure boot EFI kernel with LUKS,
 sys-kernel/debian-sources 5.4.19 5.7: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 5.8.8: Liquorix sources including the Gentoo patchsets for the 5.8 kernel tree
-sys-kernel/xanmod-cacule-sources 5.10.1: Xanmod and CacULE sources including the Gentoo patchset for the 5.10 kernel tree
+sys-kernel/xanmod-cacule-sources 5.10.6: Xanmod and CacULE sources including the Gentoo patchset for the 5.10 kernel tree
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
