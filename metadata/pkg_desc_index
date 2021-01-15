@@ -84,7 +84,6 @@ www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web brow
 x11-apps/cumulus 9999: Quickly check the weather with this stylish web app
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
-x11-misc/mate-tweak 20.04.0: Tweak tool for the MATE Desktop, a fork of mintDesktop
 x11-misc/yd-tools 1.10.6-r2 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2: System76 Pop GTK+ Theme, based in adapta-gtk-theme
