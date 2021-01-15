@@ -55,7 +55,6 @@ net-im/viber 13.3.1.22: Free text and calls
 net-im/yakyak-bin 1.5.9: Desktop chat client for Google Hangouts
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
-net-misc/yadisk-direct 0.0.6: Get real direct links usable with tools like curl or wget for files stored in Yandex.Disk
 net-p2p/deluge 2.0.3-r2 9999: BitTorrent client with a client/server model
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
@@ -85,7 +84,6 @@ www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web brow
 x11-apps/cumulus 9999: Quickly check the weather with this stylish web app
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
-x11-misc/mate-dock-applet 0.87 0.89: Application dock for the MATE panel
 x11-misc/mate-tweak 20.04.0: Tweak tool for the MATE Desktop, a fork of mintDesktop
 x11-misc/yd-tools 1.10.6-r2 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
