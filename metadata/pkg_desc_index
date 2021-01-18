@@ -69,7 +69,7 @@ sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/buildkernel-dracut 1.0.37-r1: Build secure boot EFI kernel with LUKS, LVM and plymouth (Dracut version)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/liquorix-sources 5.8.8: Liquorix sources including the Gentoo patchsets for the 5.8 kernel tree
-sys-kernel/xanmod-cacule-sources 5.10.6: Xanmod and CacULE sources including the Gentoo patchset for the 5.10 kernel tree
+sys-kernel/xanmod-cacule-sources 5.10.6 5.10.8: Xanmod and CacULE sources including the Gentoo patchset for the 5.10 kernel tree
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
