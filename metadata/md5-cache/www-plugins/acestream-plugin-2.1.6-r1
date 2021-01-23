@@ -9,5 +9,5 @@ RDEPEND=~media-video/acestream-player-data-2.1.6 net-p2p/acestream-engine
 RESTRICT=primaryuri
 SLOT=0
 SRC_URI=x86? ( http://repo.acestream.org/ubuntu/pool/main/a/acestream-mozilla-plugin/acestream-mozilla-plugin_2.1.6-1raring2_i386.deb http://stuff.tazhate.com/distfiles/acestream-mozilla-plugin_2.1.6-1raring2_i386.deb ) amd64? ( http://repo.acestream.org/ubuntu/pool/main/a/acestream-mozilla-plugin/acestream-mozilla-plugin_2.1.6-1raring2_amd64.deb http://stuff.tazhate.com/distfiles/acestream-mozilla-plugin_2.1.6-1raring2_amd64.deb )
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e	unpacker	79f7c61dc45eb850319a8c576ebc7b8d
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	unpacker	79f7c61dc45eb850319a8c576ebc7b8d
 _md5_=945ae8e2b8c67f8b40aee734d92e784a

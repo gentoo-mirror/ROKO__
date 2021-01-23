@@ -9,5 +9,5 @@ RDEPEND=sys-libs/libstdc++-v3 >=dev-libs/openssl-0.9 >=sys-libs/zlib-1.1.4 media
 RESTRICT=strip
 SLOT=0
 SRC_URI=amd64? ( http://www.slimjet.com/release/slimjet_amd64.deb )
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e	unpacker	79f7c61dc45eb850319a8c576ebc7b8d
+_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	unpacker	79f7c61dc45eb850319a8c576ebc7b8d
 _md5_=af2c2dfb174d940e4922bf8a20f3527c
