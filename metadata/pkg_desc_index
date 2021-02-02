@@ -61,7 +61,7 @@ sys-apps/dkms-gentoo 9999: DKMS analog for gentoo
 sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-apps/inxi 3.0.36.1 9999: Perl script that collects and displays system information.
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
-sys-boot/etcher 1.5.56 1.5.69 1.5.73: Flash OS images to SD cards & USB drives, safely and easily.
+sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115: Flash OS images to SD cards & USB drives, safely and easily.
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/buildkernel-dracut 1.0.37-r1: Build secure boot EFI kernel with LUKS, LVM and plymouth (Dracut version)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
@@ -81,3 +81,4 @@ x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with o
 x11-misc/yd-tools 1.10.6-r2 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2: System76 Pop GTK+ Theme, based in adapta-gtk-theme
+x11-wm/mutter 3.38.3-r1: GNOME 3 compositing window manager based on Clutter
