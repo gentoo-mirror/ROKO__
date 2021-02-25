@@ -126,10 +126,6 @@ net-misc/wget2:libpsl - Support for libpsl cookie checking
 net-misc/wget2:nghttp2 - HTTP/2 support using Nghttp2
 net-misc/wget2:openssl - Use libcrypto hash routines
 net-misc/wget2:plugin-support - plugin support
-sys-apps/paludis:pbins - Enable binary package support. Adds dependency upon app-arch/libarchive
-sys-apps/paludis:pink - Use a less boring colourscheme than the default
-sys-apps/paludis:search-index - Enable cave search --index. Requires dev-db/sqlite.
-sys-apps/paludis:xml - Build xml things for metadata.xml and GLSA support (needs dev-libs/libxml2).
 sys-apps/ssd-utility:policykit - Enable PolicyKit authentication support
 sys-kernel/buildkernel-dracut:plymouth - Enables support for sys-boot/plymouth in the initramfs (but does not mandate its use).
 sys-kernel/xanmod-sources:cacule - CacULE is a newer version of Cachy. The CacULE CPU scheduler is based on interactivity score mechanism. The interactivity score is inspired by the ULE scheduler (FreeBSD scheduler).
