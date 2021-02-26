@@ -72,7 +72,7 @@ sys-kernel/xanmod-sources 5.10.16 5.11.0: Full XanMod sources with cacule option
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
-sys-process/bpytop 1.0.50: Resource monitor that shows usage and stats
+sys-process/bpytop 1.0.63: Resource monitor that shows usage and stats
 sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, motherboard and more
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
