@@ -39,8 +39,6 @@ gnome-base/nautilus 3.26.2 3.26.3.1: A file manager for the GNOME desktop
 gnome-extra/yad 0.40.0: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
 media-fonts/emojione-color-font 1.4: A color and B&W emoji SVG-in-OpenType font
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
-media-fonts/noto-color-emoji 2015.12: Noto emoji color
-media-fonts/powerline-fonts 9999-r2: Monospaced fonts pre-patched with Powerline symbols
 media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-libs/libpng 1.6.36: Portable Network Graphics library
