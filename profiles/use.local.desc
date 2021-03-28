@@ -34,33 +34,6 @@ gnome-base/nautilus:packagekit - Use packagekit to search for programs to open u
 gnome-base/nautilus:previewer - Use gnome-extra/sushi to preview files from the file mananger
 gnome-base/nautilus:sendto - Enable the nautilus-sendto extension to send files to various locations/devices
 gnome-base/nautilus:tracker - Add support for app-misc/tracker search
-media-fonts/powerline-fonts:3270 - Install Powerline-patched 3270 fonts
-media-fonts/powerline-fonts:anonymouspro - Install Powerline-patched Anonymous Pro fonts
-media-fonts/powerline-fonts:arimo - Install Powerline-patched Arimo fonts
-media-fonts/powerline-fonts:cousine - Install Powerline-patched Cousine fonts
-media-fonts/powerline-fonts:dejavusansmono - Install Powerline-patched DejaVu Sans Mono fonts
-media-fonts/powerline-fonts:droidsansmono - Install Powerline-patched Droid Sans Mono fonts
-media-fonts/powerline-fonts:droidsansmonodotted - Install Powerline-patched Droid Sans Mono Dotted fonts
-media-fonts/powerline-fonts:droidsansmonoslashed - Install Powerline-patched Droid Sans Mono Slashed fonts
-media-fonts/powerline-fonts:firamono - Install Powerline-patched Fira Mono fonts
-media-fonts/powerline-fonts:gomono - Install Powerline-patched Go Mono fonts
-media-fonts/powerline-fonts:hack - Install Powerline-patched Hack fonts
-media-fonts/powerline-fonts:inconsolata - Install Powerline-patched Inconsolata fonts
-media-fonts/powerline-fonts:inconsolata-g - Install Powerline-patched Inconsolata-g fonts
-media-fonts/powerline-fonts:inconsolatadz - Install Powerline-patched Inconsolata-dz fonts
-media-fonts/powerline-fonts:liberationmono - Install Powerline-patched Liberation Mono fonts
-media-fonts/powerline-fonts:meslodotted - Install Powerline-patched Meslo Dotted fonts
-media-fonts/powerline-fonts:mesloslashed - Install Powerline-patched Meslo Slashed fonts
-media-fonts/powerline-fonts:monofur - Install Powerline-patched Monofur fonts
-media-fonts/powerline-fonts:notomono - Install Powerline-patched Noto Mono fonts
-media-fonts/powerline-fonts:novamono - Install Powerline-patched Nova Mono fonts
-media-fonts/powerline-fonts:robotomono - Install Powerline-patched Roboto Mono fonts
-media-fonts/powerline-fonts:sourcecodepro - Install Powerline-patched Source Code Pro fonts
-media-fonts/powerline-fonts:spacemono - Install Powerline-patched Space Mono fonts
-media-fonts/powerline-fonts:symbolneu - Install Powerline-patched Symbol Neu fonts
-media-fonts/powerline-fonts:terminus_pcf - Install Powerline-patched Terminus fonts in PCF format
-media-fonts/powerline-fonts:tinos - Install Powerline-patched Tinos fonts
-media-fonts/powerline-fonts:ubuntumono - Install Powerline-patched Ubuntu Mono fonts
 media-sound/deadbeef:aac - Advanced Audio Coding (AAC) plugin
 media-sound/deadbeef:adplug - Adplug plugin
 media-sound/deadbeef:alac - Apple Lossless Audio Codec (ALAC) plugin
