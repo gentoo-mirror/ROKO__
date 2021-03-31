@@ -3,6 +3,7 @@ DEFINED_PHASES=compile install unpack
 DESCRIPTION=A terminal based graphical activity monitor inspired by gtop and vtop
 EAPI=7
 HOMEPAGE=https://github.com/cjbassi/gotop
+INHERIT=golang-vcs-snapshot-r1
 IUSE=debug pie static
 KEYWORDS=~amd64 ~arm ~arm64 ~x86
 LICENSE=AGPL-3

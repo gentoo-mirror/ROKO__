@@ -3,6 +3,7 @@ DEPEND=~media-video/acestream-player-data-2.1.6 net-p2p/acestream-engine
 DESCRIPTION=ACE Stream multimedia plugin for web browsers
 EAPI=4
 HOMEPAGE=http://torrentstream.org/
+INHERIT=multilib unpacker
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2 LGPL-2
 RDEPEND=~media-video/acestream-player-data-2.1.6 net-p2p/acestream-engine

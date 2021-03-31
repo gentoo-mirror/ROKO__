@@ -2,6 +2,7 @@ DEFINED_PHASES=postinst pretend
 DESCRIPTION=Meta package for GNOME-Light, merge this package to install
 EAPI=6
 HOMEPAGE=https://www.gnome.org/
+INHERIT=versionator
 IUSE=cups +gnome-shell
 KEYWORDS=*
 LICENSE=metapackage

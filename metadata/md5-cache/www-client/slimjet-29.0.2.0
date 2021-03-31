@@ -3,6 +3,7 @@ DEPEND=app-arch/dpkg
 DESCRIPTION=Fast,free secure and powerful web browser based on Google-Chrome.
 EAPI=6
 HOMEPAGE=http://www.slimjet.com/en/dlpage.php
+INHERIT=multilib unpacker
 KEYWORDS=~amd64
 LICENSE=Freeware
 RDEPEND=sys-libs/libstdc++-v3 >=dev-libs/openssl-0.9 >=sys-libs/zlib-1.1.4 media-libs/libjpeg-turbo >=media-libs/gstreamer-0.10 media-libs/flac media-libs/harfbuzz x11-libs/libXtst dev-libs/nss dev-libs/nspr media-libs/opus app-arch/snappy app-accessibility/speech-dispatcher virtual/ttf-fonts x11-misc/xdg-utils dev-util/desktop-file-utils x11-themes/hicolor-icon-theme media-libs/libpng
