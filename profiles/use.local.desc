@@ -101,8 +101,6 @@ net-misc/wget2:openssl - Use libcrypto hash routines
 net-misc/wget2:plugin-support - plugin support
 sys-apps/ssd-utility:policykit - Enable PolicyKit authentication support
 sys-kernel/buildkernel-dracut:plymouth - Enables support for sys-boot/plymouth in the initramfs (but does not mandate its use).
-sys-kernel/xanmod-sources:cacule - CacULE is a newer version of Cachy. The CacULE CPU scheduler is based on interactivity score mechanism. The interactivity score is inspired by the ULE scheduler (FreeBSD scheduler).
-sys-kernel/xanmod-sources:experimental - adding experimental patches for CacULE.
 www-client/yandex-browser-beta:ffmpeg-codecs - Use www-plugins/yandex-browser-ffmpeg-codecs for multi-threaded ffmpeg codecs for the HTML5 <audio> and <video> tags
 x11-wm/mutter:elogind - Rely on sys-auth/elogind as logind provider for Wayland sessions
 x11-wm/mutter:screencast - Enable support for remote desktop and screen cast using media-video/pipewire
