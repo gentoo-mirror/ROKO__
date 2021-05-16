@@ -19,7 +19,6 @@ app-shells/zsh 5.6.2: UNIX Shell similar to the Korn shell
 app-shells/zsh-autosuggestions 0.5.0 0.6.4: Fish-like fast/unobtrusive autosuggestions for zsh
 app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 app-shells/zsh-powerlevel10k 1.14.3: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
-app-shells/zsh-syntax-highlighting 0.2.1 0.5.0: Fish shell like syntax highlighting for zsh
 dev-db/mariadb 10.5.4: An enhanced, drop-in replacement for MySQL
 dev-libs/gjs 1.50.2: Javascript bindings for GNOME
 dev-libs/inih 9999: Simple .INI file parser for C/C++
