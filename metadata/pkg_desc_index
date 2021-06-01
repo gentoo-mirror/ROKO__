@@ -43,7 +43,6 @@ media-sound/deadbeef 1.8.0-r1: foobar2k-like music player
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-sound/mellowplayer 3.5.9 3.5.10: Cloud music integration for your desktop
 media-video/kazam 1.4.5: A screencasting program with design in mind
-net-analyzer/nagstamon 3.5.0: systray monitor for displaying realtime status of several monitoring systems
 net-im/caprine 2.51.2 2.52.4: Elegant Facebook Messenger desktop app
 net-im/jitsi-meet-bin 2.3.1: Desktop application for Jitsi Meet built with Electron
 net-im/viber 13.3.1.22: Free text and calls
@@ -75,7 +74,6 @@ www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web brow
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
 x11-misc/ulauncher 5.10.0: Application launcher for Linux
-x11-misc/yd-tools 1.10.6-r2 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2: System76 Pop GTK+ Theme, based in adapta-gtk-theme
 x11-wm/mutter 3.38.3-r1: GNOME 3 compositing window manager based on Clutter
