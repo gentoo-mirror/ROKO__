@@ -69,7 +69,7 @@ sys-process/bpytop 1.0.63: Resource monitor that shows usage and stats
 sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, motherboard and more
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
-www-client/slimjet 29.0.2.0 30.0.4.0: Fast,free secure and powerful web browser based on Google-Chrome.
+www-client/slimjet 30.0.5.0: Fast,free secure and powerful web browser based on Google-Chrome.
 www-client/yandex-browser-beta 20.11.3.188_p1: The web browser from Yandex
 www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
 x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
