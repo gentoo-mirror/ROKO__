@@ -1,5 +1,4 @@
 acct-group/gamemode 0: System group: gamemode
-app-admin/gentoo-upgrade 9999: Automated Gentoo upgrading
 app-backup/mkstage4 0.1-r99: A fork of Bash Utility for Creating Stage 4 Tarballs with pbzip2 support
 app-benchmarks/phoronix-test-suite 9.8.0: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-crypt/buttercup-desktop-bin 1.20.5: Cross-platform, free and open-source password manager based on NodeJS.
@@ -53,7 +52,6 @@ net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
 sys-apps/corectrl 1.0.7 9999: Core control application.
-sys-apps/dkms-gentoo 9999: DKMS analog for gentoo
 sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-apps/inxi 3.0.36.1 9999: Perl script that collects and displays system information.
 sys-apps/ssd-utility 2.3.2963: SSD Utility is complementary management software designed to help you maintain, monitor and tune your OCZ SSD
@@ -70,9 +68,6 @@ sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, m
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
 www-client/slimjet 30.0.5.0: Fast,free secure and powerful web browser based on Google-Chrome.
-www-client/yandex-browser-beta 20.11.3.188_p1: The web browser from Yandex
-www-plugins/acestream-plugin 2.1.6-r1: ACE Stream multimedia plugin for web browsers
-x11-apps/radeoncontrol 0: A tool for manage radeon cards power management with opensource 'radeon' driver
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
 x11-misc/ulauncher 5.10.0: Application launcher for Linux
 x11-misc/yd-tools 1.11.0-r2: A panel indicator (GUI) for YandexDisk CLI client
