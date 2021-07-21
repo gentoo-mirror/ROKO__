@@ -59,7 +59,7 @@ sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115: Flash OS images to SD cards & USB 
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/buildkernel-dracut 1.0.37-r1: Build secure boot EFI kernel with LUKS, LVM and plymouth (Dracut version)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
-sys-kernel/xanmod-hybrid 5.13.0: Xanmod, Xanmod-CaCule, cjktty, uksm patchset for main kernel tree
+sys-kernel/xanmod-hybrid 5.13.0 5.13.3: Xanmod, Xanmod-CaCule, cjktty, uksm patchset for main kernel tree
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-libs/libseccomp 2.3.3: high level interface to Linux seccomp filter
