@@ -39,7 +39,6 @@ media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-libs/libpng 1.6.36: Portable Network Graphics library
 media-plugins/obs-linuxbrowser 0.6.1: Browser source plugin for obs-studio based on CEF.
-media-sound/deadbeef 1.8.0-r1: foobar2k-like music player
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-sound/mellowplayer 3.5.9 3.5.10: Cloud music integration for your desktop
 media-video/kazam 1.4.5: A screencasting program with design in mind
@@ -70,7 +69,6 @@ virtual/rubygems 15-r99: Virtual ebuild for rubygems
 www-client/slimjet 30.0.5.0: Fast,free secure and powerful web browser based on Google-Chrome.
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
 x11-misc/ulauncher 5.10.0: Application launcher for Linux
-x11-misc/yd-tools 1.11.0-r2: A panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2: System76 Pop GTK+ Theme, based in adapta-gtk-theme
 x11-wm/mutter 3.38.3-r1: GNOME 3 compositing window manager based on Clutter
