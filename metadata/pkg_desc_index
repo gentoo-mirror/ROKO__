@@ -66,7 +66,7 @@ sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
 sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, motherboard and more
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
-www-client/slimjet 30.0.5.0: Fast,free secure and powerful web browser based on Google-Chrome.
+www-client/slimjet 31.0.2.0: Fast,free secure and powerful web browser based on Google-Chrome.
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
 x11-misc/ulauncher 5.10.0: Application launcher for Linux
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
