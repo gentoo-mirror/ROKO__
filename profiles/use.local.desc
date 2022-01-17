@@ -51,6 +51,9 @@ net-misc/wget2:openssl - Use libcrypto hash routines
 net-misc/wget2:plugin-support - plugin support
 sys-apps/ssd-utility:policykit - Enable PolicyKit authentication support
 sys-kernel/buildkernel-dracut:plymouth - Enables support for sys-boot/plymouth in the initramfs (but does not mandate its use).
+sys-kernel/xanmod-sources:cacule - Enable the CacULE CPU scheduler as a config option - EXPERIMENTAL and DEPRECATED!
+sys-kernel/xanmod-sources:experimental - Include "experimental" genpatches
+sys-kernel/xanmod-sources:tasktype - Enable the Task Type CPU scheduler, successor to CacULE, as a config option - EXPERIMENTAL!
 x11-wm/mutter:elogind - Rely on sys-auth/elogind as logind provider for Wayland sessions
 x11-wm/mutter:screencast - Enable support for remote desktop and screen cast using media-video/pipewire
 x11-wm/mutter:sysprof - Enable profiling data capture support using dev-util/sysprof-capture
