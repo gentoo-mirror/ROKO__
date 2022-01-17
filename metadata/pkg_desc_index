@@ -29,7 +29,7 @@ dev-util/arch-install-scripts 20: Arch Linux install tools (pacstrap, genfstab, 
 dev-util/dwarves 1.17-r2: pahole (Poke-a-Hole) and other DWARF2 utilities
 dev-util/yamllint 1.26.0: A linter for YAML files
 games-util/gamemode 9999-r1: Optimise Linux system performance on demand
-games-util/mangohud 0.6.5 0.6.6: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+games-util/mangohud 0.6.5: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 gnome-base/gnome-control-center 3.30.2-r1: GNOME's main interface to configure various aspects of the desktop
 gnome-base/gnome-core-libs 3.24.2 3.26.2 3.28.0: Sub-meta package for the core libraries of GNOME 3
 gnome-base/gnome-light 3.28.0-r1: Meta package for GNOME-Light, merge this package to install
