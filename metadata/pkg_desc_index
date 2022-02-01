@@ -50,7 +50,6 @@ net-im/yakyak-bin 1.5.9: Desktop chat client for Google Hangouts
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
-sys-apps/anything-sync-daemon 5.69: Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system
 sys-apps/corectrl 1.0.7 9999: Core control application.
 sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-apps/inxi 3.0.36.1 9999: Perl script that collects and displays system information.
