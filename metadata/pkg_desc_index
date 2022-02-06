@@ -59,7 +59,7 @@ sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/buildkernel-dracut 1.0.37-r1: Build secure boot EFI kernel with LUKS, LVM and plymouth (Dracut version)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/xanmod-hybrid 5.15.11: Xanmod, Xanmod-CaCule, cjktty, patchset for main kernel tree
-sys-kernel/xanmod-sources 5.16.0: XanMod kernel sources, including the Gentoo patchset
+sys-kernel/xanmod-sources 5.16.0 5.16.3: XanMod kernel sources, including the Gentoo patchset
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
@@ -67,7 +67,7 @@ sys-process/btop 1.1.3: A monitor of resources
 sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, motherboard and more
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
-www-client/slimjet 31.0.2.0: Fast,free secure and powerful web browser based on Google-Chrome.
+www-client/slimjet 31.0.2.0 33.0.0.0: Fast,free secure and powerful web browser based on Google-Chrome.
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
 x11-misc/ulauncher 5.10.0: Application launcher for Linux
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
