@@ -49,7 +49,6 @@ net-misc/wget2:libpsl - Support for libpsl cookie checking
 net-misc/wget2:nghttp2 - HTTP/2 support using Nghttp2
 net-misc/wget2:openssl - Use libcrypto hash routines
 net-misc/wget2:plugin-support - plugin support
-sys-apps/ssd-utility:policykit - Enable PolicyKit authentication support
 sys-kernel/buildkernel-dracut:plymouth - Enables support for sys-boot/plymouth in the initramfs (but does not mandate its use).
 sys-kernel/xanmod-sources:cacule - Enable the CacULE CPU scheduler as a config option - EXPERIMENTAL and DEPRECATED!
 sys-kernel/xanmod-sources:experimental - Include "experimental" genpatches
