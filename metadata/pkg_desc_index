@@ -1,4 +1,5 @@
 acct-group/gamemode 0: System group: gamemode
+app-backup/grub-btrfs 4.10.2 4.11: Improves Grub by adding btrfs snapshots to the Grub menu.
 app-backup/mkstage4 0.1-r99: A fork of Bash Utility for Creating Stage 4 Tarballs with pbzip2 support
 app-benchmarks/phoronix-test-suite 9.8.0: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-crypt/buttercup-desktop-bin 1.20.5: Cross-platform, free and open-source password manager based on NodeJS.
