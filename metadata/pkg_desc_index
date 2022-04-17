@@ -10,6 +10,7 @@ app-crypt/certbot-nginx 1.25.0-r1: Nginx plugin for certbot (Let's Encrypt Clien
 app-editors/atom-bin 1.57.0: A hackable text editor for the 21st Century
 app-editors/visual-studio-code 1.53.2: Multiplatform Visual Studio Code from Microsoft
 app-emulation/virtualbox-modules 6.1.12-r2: Kernel Modules for Virtualbox
+app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 980: A complete, free Microsoft Office-compatible alternative office suite
 app-portage/emlop 0.3.0: A fast, accurate, ergonomic emerge.log parser
@@ -62,7 +63,7 @@ sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/buildkernel-dracut 1.0.37-r1: Build secure boot EFI kernel with LUKS, LVM and plymouth (Dracut version)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/xanmod-hybrid 5.15.11: Xanmod, Xanmod-CaCule, cjktty, patchset for main kernel tree
-sys-kernel/xanmod-sources 5.16.3 5.17.0: XanMod kernel sources, including the Gentoo patchset - LTS branch
+sys-kernel/xanmod-sources 5.17.0 5.17.3: XanMod kernel sources, including the Gentoo patchset
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
