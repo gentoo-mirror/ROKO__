@@ -58,7 +58,7 @@ net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/corectrl 1.0.7 9999: Core control application.
 sys-apps/evhz 9999: Mouse refresh rate under evdev
-sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115: Flash OS images to SD cards & USB drives, safely and easily.
+sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115 1.7.8: Flash OS images to SD cards & USB drives, safely and easily.
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/buildkernel-dracut 1.0.37-r1: Build secure boot EFI kernel with LUKS, LVM and plymouth (Dracut version)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
