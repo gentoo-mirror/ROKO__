@@ -23,9 +23,6 @@ app-misc/powerline:vim - Install vim support files
 app-misc/powerline:zsh - Install zsh support files
 app-portage/genup:buildkernel - Enable support for buildkernel (include buildkernel dependency).
 app-portage/genup:emtee - Enable support for emtee (include emtee dependency).
-dev-libs/nss:cacert - Include root/class3 certs from CAcert (http://www.cacert.org/)
-dev-libs/nss:nss-pem - Add support for libnsspem
-dev-libs/nss:utils - Install utilities included with the library
 gnome-base/gnome-control-center:colord - Support color management using x11-misc/colord
 gnome-base/gnome-control-center:gnome-online-accounts - Enable configuration panel for net-libs/gnome-online-accounts accounts
 gnome-base/gnome-control-center:i18n - Enable support for enhanced input methods through app-i18n/ibus
@@ -34,6 +31,8 @@ gnome-base/nautilus:packagekit - Use packagekit to search for programs to open u
 gnome-base/nautilus:previewer - Use gnome-extra/sushi to preview files from the file mananger
 gnome-base/nautilus:sendto - Enable the nautilus-sendto extension to send files to various locations/devices
 gnome-base/nautilus:tracker - Add support for app-misc/tracker search
+media-sound/jamesdsp:pipewire - Build with PipeWire support.
+media-sound/jamesdsp:pulseaudio - Build with PulseAudio support.
 net-misc/wget2:assert - Build with assert()s
 net-misc/wget2:compression_brotli - Brotli compression support
 net-misc/wget2:compression_bzip2 - bzip2 compression support
