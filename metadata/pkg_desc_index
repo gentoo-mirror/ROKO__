@@ -11,7 +11,7 @@ app-editors/atom-bin 1.57.0: A hackable text editor for the 21st Century
 app-editors/visual-studio-code 1.53.2: Multiplatform Visual Studio Code from Microsoft
 app-emulation/virtualbox-modules 6.1.12-r2: Kernel Modules for Virtualbox
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
-app-misc/nixnote 2.1.6 9999: Nixnote - A clone of Evernote for Linux
+app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 980: A complete, free Microsoft Office-compatible alternative office suite
 app-portage/emlop 0.3.0: A fast, accurate, ergonomic emerge.log parser
