@@ -13,7 +13,8 @@ app-emulation/virtualbox-modules 6.1.12-r2: Kernel Modules for Virtualbox
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
 app-misc/powerline 2.7: Python-based statusline/prompt utility
-app-office/freeoffice 980: A complete, free Microsoft Office-compatible alternative office suite
+app-office/freeoffice 980 2021.1042: A complete, free Microsoft Office-compatible alternative office suite
+app-office/wps-office 11.1.0.10976: WPS Office is an office productivity suite
 app-portage/emlop 0.3.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/genup 1.0.28: Update Portage tree, all installed packages, and kernel
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
@@ -42,7 +43,6 @@ gnome-base/gnome-light 3.28.0-r1: Meta package for GNOME-Light, merge this packa
 gnome-base/nautilus 3.26.2 3.26.3.1: A file manager for the GNOME desktop
 gnome-extra/yad 0.40.0: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
-media-fonts/symbolfonts 1.0: Symbol fonts used in Kingsoft office
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-libs/libpng 1.6.36: Portable Network Graphics library
 media-plugins/obs-linuxbrowser 0.6.1: Browser source plugin for obs-studio based on CEF.

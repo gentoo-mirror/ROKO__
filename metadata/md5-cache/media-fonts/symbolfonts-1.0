@@ -1,8 +1,0 @@
-DEFINED_PHASES=install
-DESCRIPTION=Symbol fonts used in Kingsoft office
-EAPI=5
-HOMEPAGE=http://wps-community.org/download/fonts/
-KEYWORDS=x86 amd64
-SLOT=0
-SRC_URI=http://wps-community.org/download/fonts/wps_symbol_fonts.zip
-_md5_=9c84827de5b3d2ad36e821cf3b019ec5
