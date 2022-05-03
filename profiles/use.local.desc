@@ -23,6 +23,13 @@ app-misc/powerline:vim - Install vim support files
 app-misc/powerline:zsh - Install zsh support files
 app-portage/genup:buildkernel - Enable support for buildkernel (include buildkernel dependency).
 app-portage/genup:emtee - Enable support for emtee (include emtee dependency).
+dev-qt/qtwebkit:geolocation - Enable physical position determination via dev-qt/qtpositioning
+dev-qt/qtwebkit:gstreamer - Enable HTML5 audio/video support via media-libs/gstreamer using SLOT 1.0
+dev-qt/qtwebkit:hyphen - Enable hyphenation support via dev-libs/hyphen
+dev-qt/qtwebkit:multimedia - Enable HTML5 audio/video support via dev-qt/qtmultimedia
+dev-qt/qtwebkit:orientation - Enable device orientation detection via dev-qt/qtsensors
+dev-qt/qtwebkit:printsupport - Enable printing via dev-qt/qtprintsupport
+dev-qt/qtwebkit:qml - Build QML/QtQuick bindings
 gnome-base/gnome-control-center:colord - Support color management using x11-misc/colord
 gnome-base/gnome-control-center:gnome-online-accounts - Enable configuration panel for net-libs/gnome-online-accounts accounts
 gnome-base/gnome-control-center:i18n - Enable support for enhanced input methods through app-i18n/ibus
@@ -48,6 +55,13 @@ net-misc/wget2:libpsl - Support for libpsl cookie checking
 net-misc/wget2:nghttp2 - HTTP/2 support using Nghttp2
 net-misc/wget2:openssl - Use libcrypto hash routines
 net-misc/wget2:plugin-support - plugin support
+net-vpn/openvpn:down-root - Enable the down-root plugin
+net-vpn/openvpn:iproute2 - Enabled iproute2 support instead of net-tools
+net-vpn/openvpn:libressl - Use OpenSSL as the backend crypto library
+net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
+net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
+net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
+net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
 sys-kernel/buildkernel-dracut:plymouth - Enables support for sys-boot/plymouth in the initramfs (but does not mandate its use).
 sys-kernel/xanmod-sources:cacule - Enable the CacULE CPU scheduler as a config option - EXPERIMENTAL and DEPRECATED!
 sys-kernel/xanmod-sources:experimental - Include "experimental" genpatches

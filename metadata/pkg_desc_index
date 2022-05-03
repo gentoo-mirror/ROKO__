@@ -11,6 +11,7 @@ app-editors/atom-bin 1.57.0: A hackable text editor for the 21st Century
 app-editors/visual-studio-code 1.53.2: Multiplatform Visual Studio Code from Microsoft
 app-emulation/virtualbox-modules 6.1.12-r2: Kernel Modules for Virtualbox
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
+app-misc/nixnote 2.1.6 9999: Nixnote - A clone of Evernote for Linux
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 980: A complete, free Microsoft Office-compatible alternative office suite
 app-portage/emlop 0.3.0: A fast, accurate, ergonomic emerge.log parser
@@ -29,6 +30,7 @@ dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-perl/HTML-TreeBuilder-XPath 0.140.0-r1: Add XPath support to HTML::TreeBuilder
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
 dev-python/spotipy 2.4.4: A thin Python-based library for the Spotify Web API
+dev-qt/qtwebkit 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 dev-util/arch-install-scripts 20: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/dwarves 1.17-r2: pahole (Poke-a-Hole) and other DWARF2 utilities
 dev-util/yamllint 1.26.0: A linter for YAML files
@@ -54,6 +56,7 @@ net-im/viber-bin 13.3.1: Free calls, text and picture sharing with anyone, anywh
 net-im/yakyak-bin 1.5.9: Desktop chat client for Google Hangouts
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
+net-vpn/openvpn 2.4.9: Robust and highly flexible tunneling application compatible with many OSes
 sys-apps/AMDOverdriveCtrl 1.2.7: This tool let's you control the frequency and fan settings of your AMD/ATI video card.
 sys-apps/corectrl 1.0.7 9999: Core control application.
 sys-apps/evhz 9999: Mouse refresh rate under evdev
@@ -62,7 +65,7 @@ sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/buildkernel-dracut 1.0.37-r1: Build secure boot EFI kernel with LUKS, LVM and plymouth (Dracut version)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/xanmod-hybrid 5.15.11: Xanmod, Xanmod-CaCule, cjktty, patchset for main kernel tree
-sys-kernel/xanmod-sources 5.17.0 5.17.3: XanMod kernel sources, including the Gentoo patchset
+sys-kernel/xanmod-sources 5.17.0 5.17.3 5.17.5: XanMod kernel sources, including the Gentoo patchset
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
