@@ -7,7 +7,7 @@ app-crypt/buttercup-desktop-bin 1.20.5: Cross-platform, free and open-source pas
 app-crypt/certbot 1.25.0-r1: Let's encrypt client to automate deployment of X.509 certificates
 app-crypt/certbot-apache 1.25.0-r1: Apache plugin for certbot (Let's Encrypt Client)
 app-crypt/certbot-nginx 1.25.0-r1: Nginx plugin for certbot (Let's Encrypt Client)
-app-editors/atom-bin 1.57.0: A hackable text editor for the 21st Century
+app-editors/atom-bin 1.60.0: A hackable text editor for the 21st Century
 app-editors/visual-studio-code 1.53.2: Multiplatform Visual Studio Code from Microsoft
 app-emulation/virtualbox-modules 6.1.12-r2: Kernel Modules for Virtualbox
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
@@ -50,7 +50,7 @@ media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet ra
 media-sound/jamesdsp 9999: Open-source sound effects for PipeWire and PulseAudio
 media-sound/mellowplayer 9999: Cloud music integration for your desktop
 media-video/kazam 1.4.5: A screencasting program with design in mind
-net-im/caprine 2.51.2 2.52.4: Elegant Facebook Messenger desktop app
+net-im/caprine 2.55.3: Elegant Facebook Messenger desktop app
 net-im/jitsi-meet-bin 2.3.1: Desktop application for Jitsi Meet built with Electron
 net-im/viber-bin 13.3.1: Free calls, text and picture sharing with anyone, anywhere!
 net-im/yakyak-bin 1.5.9: Desktop chat client for Google Hangouts
