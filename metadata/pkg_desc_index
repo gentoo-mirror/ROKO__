@@ -36,11 +36,7 @@ dev-util/arch-install-scripts 20: Arch Linux install tools (pacstrap, genfstab, 
 dev-util/dwarves 1.17-r2: pahole (Poke-a-Hole) and other DWARF2 utilities
 dev-util/yamllint 1.26.0: A linter for YAML files
 games-util/gamemode 9999-r1: Optimise Linux system performance on demand
-games-util/mangohud 0.6.5: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
-gnome-base/gnome-control-center 3.30.2-r1: GNOME's main interface to configure various aspects of the desktop
-gnome-base/gnome-core-libs 3.24.2 3.26.2 3.28.0: Sub-meta package for the core libraries of GNOME 3
-gnome-base/gnome-light 3.28.0-r1: Meta package for GNOME-Light, merge this package to install
-gnome-base/nautilus 3.26.2 3.26.3.1: A file manager for the GNOME desktop
+games-util/mangohud 0.6.7.1: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. AMDGPU testing branch
 gnome-extra/yad 0.40.0: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
@@ -72,11 +68,12 @@ sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
 sys-process/btop 1.1.3: A monitor of resources
 sys-process/cpu-x 3.2.4 9999: A Free software that gathers information on CPU, motherboard and more
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
+sys-process/nvtop 2.0.1-r1: NVIDIA GPUs htop like monitoring tool
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
 www-client/yandex-browser-beta 22.3.1.899_p1: The web browser from Yandex
 www-plugins/yandex-browser-ffmpeg-codecs-bin 100.0.4896.127: Multi-threaded ffmpeg codecs needed for the HTML5 <audio> and <video> tags
 x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
-x11-misc/ulauncher 5.10.0: Application launcher for Linux
+x11-misc/yd-tools 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2: System76 Pop GTK+ Theme, based in adapta-gtk-theme
 x11-wm/mutter 3.38.3-r1: GNOME 3 compositing window manager based on Clutter
