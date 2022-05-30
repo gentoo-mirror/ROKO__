@@ -64,6 +64,3 @@ sys-kernel/xanmod-sources:cacule - Enable the CacULE CPU scheduler as a config o
 sys-kernel/xanmod-sources:experimental - Include "experimental" genpatches
 sys-kernel/xanmod-sources:tasktype - Enable the Task Type CPU scheduler, successor to CacULE, as a config option - EXPERIMENTAL!
 www-client/yandex-browser-beta:ffmpeg-codecs - Use www-plugins/yandex-browser-ffmpeg-codecs for multi-threaded ffmpeg codecs for the HTML5 <audio> and <video> tags
-x11-wm/mutter:elogind - Rely on sys-auth/elogind as logind provider for Wayland sessions
-x11-wm/mutter:screencast - Enable support for remote desktop and screen cast using media-video/pipewire
-x11-wm/mutter:sysprof - Enable profiling data capture support using dev-util/sysprof-capture

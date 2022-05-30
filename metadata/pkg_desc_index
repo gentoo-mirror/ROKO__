@@ -45,7 +45,6 @@ media-libs/libpng 1.6.36: Portable Network Graphics library
 media-plugins/obs-linuxbrowser 0.6.1: Browser source plugin for obs-studio based on CEF.
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-sound/jamesdsp 9999: Open-source sound effects for PipeWire and PulseAudio
-media-sound/mellowplayer 9999: Cloud music integration for your desktop
 media-video/kazam 1.4.5: A screencasting program with design in mind
 net-im/caprine 2.55.3: Elegant Facebook Messenger desktop app
 net-im/jitsi-meet-bin 2.3.1: Desktop application for Jitsi Meet built with Electron
@@ -77,4 +76,3 @@ x11-libs/bamf 0.5.4-r1: BAMF Application Matching Framework
 x11-misc/yd-tools 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2: System76 Pop GTK+ Theme, based in adapta-gtk-theme
-x11-wm/mutter 3.38.3-r1: GNOME 3 compositing window manager based on Clutter
