@@ -42,6 +42,7 @@ gnome-extra/yad 0.40.0: A tool for creating graphical dialogs from shell scripts
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-libs/libpng 1.6.36: Portable Network Graphics library
+media-plugins/nvidia-vaapi-driver 0.0.6: A VA-API implemention using NVIDIA's NVDEC
 media-plugins/obs-linuxbrowser 0.6.1: Browser source plugin for obs-studio based on CEF.
 media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-sound/jamesdsp 9999: Open-source sound effects for PipeWire and PulseAudio
@@ -59,6 +60,7 @@ sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115 1.7.8: Flash OS images to SD cards & USB drives, safely and easily.
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/buildkernel-dracut 1.0.37-r1: Build secure boot EFI kernel with LUKS, LVM and plymouth (Dracut version)
+sys-kernel/debian-sources 5.18: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
 sys-kernel/xanmod-sources 5.17.5 5.17.11: XanMod kernel sources, including the Gentoo patchset
