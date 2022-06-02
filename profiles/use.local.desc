@@ -20,12 +20,6 @@ app-misc/powerline:rc - Install rc shell support files
 app-misc/powerline:tmux - Install tmux support files
 app-misc/powerline:vim - Install vim support files
 app-misc/powerline:zsh - Install zsh support files
-app-office/wps-office:cn - Use CN version of WPS Office (including WPS Cloud, WPS account login and other functions)
-app-office/wps-office:l10n_zh-HK - Chinese (Traditional, Hong Kong S.A.R.)
-app-office/wps-office:l10n_zh-MO - Chinese (Traditional, Macao S.A.R.)
-app-office/wps-office:libsystemd - Use standalone sys-libs/libsystemd package to provide libsystemd.so for working non-systemd systems.
-app-office/wps-office:mime - Use mime files provided by WPS
-app-office/wps-office:systemd - Use bundled dbus that depends on sys-apps/systemd
 app-portage/genup:buildkernel - Enable support for buildkernel (include buildkernel dependency).
 app-portage/genup:emtee - Enable support for emtee (include emtee dependency).
 dev-qt/qtwebkit:geolocation - Enable physical position determination via dev-qt/qtpositioning
