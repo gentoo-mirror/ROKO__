@@ -8,7 +8,6 @@ app-crypt/certbot 1.25.0-r1: Let's encrypt client to automate deployment of X.50
 app-crypt/certbot-apache 1.25.0-r1: Apache plugin for certbot (Let's Encrypt Client)
 app-crypt/certbot-nginx 1.25.0-r1: Nginx plugin for certbot (Let's Encrypt Client)
 app-editors/atom-bin 1.60.0: A hackable text editor for the 21st Century
-app-editors/visual-studio-code 1.53.2: Multiplatform Visual Studio Code from Microsoft
 app-emulation/proton-ge-custom-bin 7.18: A fancy custom distribution of Valves Proton with various patches
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
