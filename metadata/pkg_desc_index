@@ -46,9 +46,7 @@ media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet ra
 media-sound/jamesdsp 9999: Open-source sound effects for PipeWire and PulseAudio
 media-video/kazam 1.4.5: A screencasting program with design in mind
 net-im/caprine 2.55.3: Elegant Facebook Messenger desktop app
-net-im/jitsi-meet-bin 2.3.1: Desktop application for Jitsi Meet built with Electron
-net-im/viber-bin 13.3.1: Free calls, text and picture sharing with anyone, anywhere!
-net-im/yakyak-bin 1.5.9: Desktop chat client for Google Hangouts
+net-im/viber 16.1.0.37: Free text and calls
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
 net-vpn/openvpn 2.4.9: Robust and highly flexible tunneling application compatible with many OSes
