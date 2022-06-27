@@ -32,6 +32,14 @@ dev-qt/qtwebkit:qml - Build QML/QtQuick bindings
 media-plugins/nvidia-vaapi-driver:av1 - Enable experimental AV1 support
 media-sound/jamesdsp:pipewire - Build with PipeWire support.
 media-sound/jamesdsp:pulseaudio - Build with PulseAudio support.
+media-video/obs-studio:fdk - Enable libfdk support for AAC encoding.
+media-video/obs-studio:imagemagick - Use ImageMagick for image loading instead of FFmpeg.
+media-video/obs-studio:luajit - Build support for scripting via Luajit.
+media-video/obs-studio:nvenc - Enable NVENC encoding for nVidia video cards.
+media-video/obs-studio:python - Build support for scripting via Python 3.
+media-video/obs-studio:speex - Enable noise suppression filter support via media-libs/speexdsp.
+media-video/obs-studio:ssl - Build support for TLS/SSL connections (RTMPS) via net-libs/mbedtls.
+media-video/obs-studio:vlc - Build support for using media-video/vlc as a media source.
 net-misc/wget2:assert - Build with assert()s
 net-misc/wget2:compression_brotli - Brotli compression support
 net-misc/wget2:compression_bzip2 - bzip2 compression support
@@ -55,6 +63,11 @@ net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
 sys-kernel/buildkernel-dracut:plymouth - Enables support for sys-boot/plymouth in the initramfs (but does not mandate its use).
+sys-kernel/linux-tkg-sources:bcachefs - Add bcachefs support
+sys-kernel/linux-tkg-sources:bmq - Replace cfs by dmq/pds
+sys-kernel/linux-tkg-sources:cfs - Add several minimal improvement to cfs
+sys-kernel/linux-tkg-sources:cjktty - Add cjk support to tty
+sys-kernel/linux-tkg-sources:pds - Replace cfs by old pds
 sys-kernel/xanmod-sources:cacule - Enable the CacULE CPU scheduler as a config option - EXPERIMENTAL and DEPRECATED!
 sys-kernel/xanmod-sources:experimental - Include "experimental" genpatches
 sys-kernel/xanmod-sources:tasktype - Enable the Task Type CPU scheduler, successor to CacULE, as a config option - EXPERIMENTAL!
