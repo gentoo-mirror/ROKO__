@@ -27,14 +27,12 @@ app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a 
 app-shells/zsh-powerlevel10k 1.14.3: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
 dev-db/mariadb 10.5.4: An enhanced, drop-in replacement for MySQL
 dev-libs/inih 9999: Simple .INI file parser for C/C++
-dev-perl/HTML-TreeBuilder-XPath 0.140.0-r1: Add XPath support to HTML::TreeBuilder
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
 dev-python/spotipy 2.4.4: A thin Python-based library for the Spotify Web API
 dev-qt/qtwebkit 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 dev-util/arch-install-scripts 20: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/dwarves 1.17-r2: pahole (Poke-a-Hole) and other DWARF2 utilities
 dev-util/yamllint 1.26.0: A linter for YAML files
-games-util/gamemode 9999-r1: Optimise Linux system performance on demand
 games-util/mangohud 0.6.7.1: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. AMDGPU testing branch
 gnome-extra/yad 0.40.0: A tool for creating graphical dialogs from shell scripts. Fork of zenity.
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
@@ -42,7 +40,6 @@ media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder 
 media-libs/libpng 1.6.36: Portable Network Graphics library
 media-plugins/nvidia-vaapi-driver 0.0.6: A VA-API implemention using NVIDIA's NVDEC
 media-plugins/obs-linuxbrowser 0.6.1: Browser source plugin for obs-studio based on CEF.
-media-sound/gradio 7.1 9999: A GTK3 app for finding and listening to internet radio stations
 media-sound/jamesdsp 9999: Open-source sound effects for PipeWire and PulseAudio
 media-video/kazam 1.4.5: A screencasting program with design in mind
 media-video/obs-studio 27.0.1: Software for Recording and Streaming Live Video Content
