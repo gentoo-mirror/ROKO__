@@ -60,7 +60,7 @@ sys-kernel/debian-sources 5.18: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/linux-tkg-sources 5.15.50: the Linux Kernel with a selection of patches aiming for better desktop/gaming experience and Gentoo's genpatches
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
-sys-kernel/xanmod-sources 5.15.49 5.18.6: XanMod kernel sources, including the Gentoo patchset
+sys-kernel/xanmod-sources 5.15.49 5.15.51 5.18.6 5.18.8: XanMod kernel sources, including the Gentoo patchset
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-libs/libcpuid 0.4.1 9999: Provides CPU identification for x86 (and x86_64)
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
