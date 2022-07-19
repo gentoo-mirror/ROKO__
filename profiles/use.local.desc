@@ -20,8 +20,6 @@ app-misc/powerline:rc - Install rc shell support files
 app-misc/powerline:tmux - Install tmux support files
 app-misc/powerline:vim - Install vim support files
 app-misc/powerline:zsh - Install zsh support files
-app-portage/genup:buildkernel - Enable support for buildkernel (include buildkernel dependency).
-app-portage/genup:emtee - Enable support for emtee (include emtee dependency).
 dev-qt/qtwebkit:geolocation - Enable physical position determination via dev-qt/qtpositioning
 dev-qt/qtwebkit:gstreamer - Enable HTML5 audio/video support via media-libs/gstreamer using SLOT 1.0
 dev-qt/qtwebkit:hyphen - Enable hyphenation support via dev-libs/hyphen
@@ -62,7 +60,6 @@ net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
 net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
-sys-kernel/buildkernel-dracut:plymouth - Enables support for sys-boot/plymouth in the initramfs (but does not mandate its use).
 sys-kernel/linux-tkg-sources:bcachefs - Add bcachefs support
 sys-kernel/linux-tkg-sources:bmq - Replace cfs by dmq/pds
 sys-kernel/linux-tkg-sources:cfs - Add several minimal improvement to cfs
