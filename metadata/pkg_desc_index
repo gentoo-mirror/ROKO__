@@ -14,7 +14,7 @@ app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
 app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 980 2021.1042: A complete, free Microsoft Office-compatible alternative office suite
-app-portage/emlop 0.3.0: A fast, accurate, ergonomic emerge.log parser
+app-portage/emlop 0.5.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-shells/fish 3.0.0: Friendly Interactive SHell
 app-shells/gitstatus 1.4.3: Git status for Bash and Zsh prompt
@@ -56,7 +56,7 @@ sys-kernel/debian-sources 5.18: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/linux-tkg-sources 5.15.50: the Linux Kernel with a selection of patches aiming for better desktop/gaming experience and Gentoo's genpatches
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
-sys-kernel/xanmod-sources 5.15.49 5.15.51 5.18.6 5.18.8: XanMod kernel sources, including the Gentoo patchset
+sys-kernel/xanmod-sources 5.15.51 5.15.54 5.18.8 5.18.11: XanMod kernel sources, including the Gentoo patchset
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
