@@ -52,7 +52,7 @@ sys-apps/corectrl 1.0.7 9999: Core control application.
 sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115 1.7.8: Flash OS images to SD cards & USB drives, safely and easily.
 sys-fs/xfsdump 9999: xfs dump/restore utilities
-sys-kernel/debian-sources 5.18: Debian Sources (and optional binary kernel)
+sys-kernel/debian-sources 5.18.5: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/linux-tkg-sources 5.15.50: the Linux Kernel with a selection of patches aiming for better desktop/gaming experience and Gentoo's genpatches
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
