@@ -1,6 +1,6 @@
 BDEPEND=sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71 >=sys-devel/libtool-2.4
 DEFINED_PHASES=configure postinst postrm preinst prepare
-DEPEND=dev-libs/atk dev-libs/glib:2 dev-libs/libdbusmenu[gtk,gtk3] dev-libs/libgee sys-libs/glibc x11-libs/bamf x11-libs/cairo x11-libs/gdk-pixbuf x11-libs/gtk+:3 x11-libs/libX11 x11-libs/libXfixes x11-libs/libXi x11-libs/libwnck gnome-base/gnome-menus:3 x11-libs/pango || ( dev-lang/vala:0.56[vapigen(+)] dev-lang/vala:0.54[vapigen(+)] dev-lang/vala:0.52[vapigen(+)] dev-lang/vala:0.50[vapigen(+)] dev-lang/vala:0.48[vapigen(+)] dev-lang/vala:0.46[vapigen(+)] ) dev-util/desktop-file-utils x11-misc/shared-mime-info
+DEPEND=dev-libs/atk dev-libs/glib:2 dev-libs/libdbusmenu[gtk,gtk3] dev-libs/libgee sys-libs/glibc x11-libs/bamf x11-libs/cairo x11-libs/gdk-pixbuf x11-libs/gtk+:3 x11-libs/libX11 x11-libs/libXfixes x11-libs/libXi x11-libs/libwnck gnome-base/gnome-menus:3 x11-libs/pango || ( dev-lang/vala:0.56[vapigen(+)] dev-lang/vala:0.54[vapigen(+)] dev-lang/vala:0.52[vapigen(+)] dev-lang/vala:0.50[vapigen(+)] ) dev-util/desktop-file-utils x11-misc/shared-mime-info
 DESCRIPTION=Elegant, simple, clean dock
 EAPI=7
 HOMEPAGE=https://github.com/ricotz/plank
@@ -12,5 +12,5 @@ RDEPEND=dev-libs/atk dev-libs/glib:2 dev-libs/libdbusmenu[gtk,gtk3] dev-libs/lib
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/ricotz/plank/archive/0.11.89.tar.gz -> plank-0.11.89.tar.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	9e6965bfaa00f52cc61e0d4bc44c87b3	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	gnome2-utils	2116cec8f46f4d1b0a88c5b1f1575dd3	edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	23cb2d46c80c12aa8b25973b4cdcb257	vala	9badd41d5aab740ae5ac301c4416c5f8	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	9e6965bfaa00f52cc61e0d4bc44c87b3	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	gnome2-utils	2116cec8f46f4d1b0a88c5b1f1575dd3	edos2unix	33e347e171066657f91f8b0c72ec8773	strip-linguas	ac3ee41ee2d31d8c41a77c0838320cc7	wrapper	4a1902f969e5718126434fc35f3a0d9c	eutils	23cb2d46c80c12aa8b25973b4cdcb257	vala	1c07e7167d9ef851ad187f5f3f02d34d	xdg	6024fbc93167fad782e2032933654857
 _md5_=fb58eb3504cf6366f1aa4cb416ab38a3
