@@ -60,11 +60,7 @@ net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
 net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
-sys-kernel/linux-tkg-sources:bcachefs - Add bcachefs support
-sys-kernel/linux-tkg-sources:bmq - Replace cfs by dmq/pds
-sys-kernel/linux-tkg-sources:cfs - Add several minimal improvement to cfs
-sys-kernel/linux-tkg-sources:cjktty - Add cjk support to tty
-sys-kernel/linux-tkg-sources:pds - Replace cfs by old pds
+sys-kernel/cachyos-sources:high-hz - CONFIG_HZ=1666 patch - EXPERIMENTAL!
 sys-kernel/xanmod-sources:cacule - Enable the CacULE CPU scheduler as a config option - EXPERIMENTAL and DEPRECATED!
 sys-kernel/xanmod-sources:experimental - Include "experimental" genpatches
 sys-kernel/xanmod-sources:tasktype - Enable the Task Type CPU scheduler, successor to CacULE, as a config option - EXPERIMENTAL!
