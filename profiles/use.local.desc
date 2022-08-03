@@ -30,14 +30,6 @@ dev-qt/qtwebkit:qml - Build QML/QtQuick bindings
 media-plugins/nvidia-vaapi-driver:av1 - Enable experimental AV1 support
 media-sound/jamesdsp:pipewire - Build with PipeWire support.
 media-sound/jamesdsp:pulseaudio - Build with PulseAudio support.
-media-video/obs-studio:fdk - Enable libfdk support for AAC encoding.
-media-video/obs-studio:imagemagick - Use ImageMagick for image loading instead of FFmpeg.
-media-video/obs-studio:luajit - Build support for scripting via Luajit.
-media-video/obs-studio:nvenc - Enable NVENC encoding for nVidia video cards.
-media-video/obs-studio:python - Build support for scripting via Python 3.
-media-video/obs-studio:speex - Enable noise suppression filter support via media-libs/speexdsp.
-media-video/obs-studio:ssl - Build support for TLS/SSL connections (RTMPS) via net-libs/mbedtls.
-media-video/obs-studio:vlc - Build support for using media-video/vlc as a media source.
 net-misc/wget2:assert - Build with assert()s
 net-misc/wget2:compression_brotli - Brotli compression support
 net-misc/wget2:compression_bzip2 - bzip2 compression support

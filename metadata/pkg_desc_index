@@ -40,7 +40,6 @@ media-libs/libpng 1.6.36: Portable Network Graphics library
 media-plugins/nvidia-vaapi-driver 0.0.6: A VA-API implemention using NVIDIA's NVDEC
 media-plugins/obs-linuxbrowser 0.6.1: Browser source plugin for obs-studio based on CEF.
 media-sound/jamesdsp 9999: Open-source sound effects for PipeWire and PulseAudio
-media-video/kazam 1.4.5: A screencasting program with design in mind
 net-im/caprine 2.55.3: Elegant Facebook Messenger desktop app
 net-im/viber 16.1.0.37: Free text and calls
 net-im/whatsapp-for-linux 1.3.2: An unofficial WhatsApp desktop application for Linux
