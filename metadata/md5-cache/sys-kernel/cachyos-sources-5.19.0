@@ -5,11 +5,12 @@ DESCRIPTION=CachyOS are improved kernels that improve performance and other aspe
 EAPI=8
 HOMEPAGE=https://github.com/CachyOS/linux-cachyos
 INHERIT=kernel-2
-IUSE=bore cacule high-hz tt symlink build
+IUSE=bore high-hz tt symlink build
 KEYWORDS=~amd64
 RDEPEND=virtual/linux-sources !build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-devel/flex sys-devel/make >=sys-libs/ncurses-5.2 virtual/libelf virtual/pkgconfig )
+REQUIRED_USE=bore? ( !tt ) tt? ( high-hz !bore )
 RESTRICT=binchecks strip
 SLOT=5.19
-SRC_URI=https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.19.tar.xz https://raw.githubusercontent.com/ptr1337/kernel-patches/master/5.19/all/0001-cachyos-base-all.patch https://raw.githubusercontent.com/ptr1337/kernel-patches/master/5.19/sched/0001-bore.patch https://raw.githubusercontent.com/ptr1337/kernel-patches/master/5.19/sched/0001-cacULE-cachy.patch https://raw.githubusercontent.com/ptr1337/kernel-patches/master/5.19/sched/0001-tt-cachy.patch https://raw.githubusercontent.com/ptr1337/kernel-patches/master/5.19/misc/0001-high-hz.patch
+SRC_URI=https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.19.tar.xz https://raw.githubusercontent.com/ptr1337/kernel-patches/master/5.19/all/0001-cachyos-base-all.patch https://raw.githubusercontent.com/ptr1337/kernel-patches/master/5.19/sched/0001-bore.patch https://raw.githubusercontent.com/ptr1337/kernel-patches/master/5.19/sched/0001-tt-cachy.patch https://raw.githubusercontent.com/ptr1337/kernel-patches/master/5.19/misc/0001-high-hz.patch
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	kernel-2	7243c5ee4d1a26f42930f137a20ed659
-_md5_=088776e483b1752dba117a5474a146b5
+_md5_=2e268d2d23a276c9770b2576cefcdfc3
