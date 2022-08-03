@@ -50,18 +50,20 @@ net-vpn/openvpn 2.4.9: Robust and highly flexible tunneling application compatib
 sys-apps/corectrl 1.0.7 9999: Core control application.
 sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115 1.7.8: Flash OS images to SD cards & USB drives, safely and easily.
+sys-devel/just 1.3.0: Just a command runner (with syntax inspired by 'make')
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/cachyos-sources 5.19.0: CachyOS are improved kernels that improve performance and other aspects.
 sys-kernel/debian-sources 5.18.5: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
-sys-kernel/xanmod-sources 5.15.51 5.15.54 5.18.8 5.18.11: XanMod kernel sources, including the Gentoo patchset
+sys-kernel/xanmod-sources 5.15.58 5.18.15: XanMod lts kernel built with Gentoo patches and cjktty
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
 sys-process/btop 1.1.3: A monitor of resources
 sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
 sys-process/nvtop 2.0.1-r1: NVIDIA GPUs htop like monitoring tool
+virtual/linux-sources 3-r99: Virtual for Linux kernel sources
 virtual/rubygems 15-r99: Virtual ebuild for rubygems
 www-client/yandex-browser-beta 22.3.1.899_p1: The web browser from Yandex
 www-plugins/yandex-browser-ffmpeg-codecs-bin 100.0.4896.127: Multi-threaded ffmpeg codecs needed for the HTML5 <audio> and <video> tags

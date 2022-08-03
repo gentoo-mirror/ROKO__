@@ -61,8 +61,9 @@ net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
 sys-kernel/cachyos-sources:high-hz - CONFIG_HZ=1666 patch - EXPERIMENTAL!
-sys-kernel/xanmod-sources:cacule - Enable the CacULE CPU scheduler as a config option - EXPERIMENTAL and DEPRECATED!
-sys-kernel/xanmod-sources:experimental - Include "experimental" genpatches
-sys-kernel/xanmod-sources:tasktype - Enable the Task Type CPU scheduler, successor to CacULE, as a config option - EXPERIMENTAL!
+sys-kernel/xanmod-sources:clang - Use clang compiler instead of GCC
+sys-kernel/xanmod-sources:debug - Pseudo flag
+sys-kernel/xanmod-sources:initramfs - Build initramfs along with the kernel.
+virtual/linux-sources:firmware - Install linux kernel firmware
 www-client/yandex-browser-beta:ffmpeg-codecs - Use www-plugins/yandex-browser-ffmpeg-codecs for multi-threaded ffmpeg codecs for the HTML5 <audio> and <video> tags
 x11-terms/console:nautilus - Build gnome-base/nautilus extension
