@@ -74,4 +74,4 @@ x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-misc/yd-tools 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
 x11-terms/console 42.0_beta: A terminal emulator for GNOME
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
-x11-themes/pop-gtk-theme 5.1.2: System76 Pop GTK+ Theme, based in adapta-gtk-theme
+x11-themes/pop-gtk-theme 5.1.2 5.4.5: System76 Pop GTK+ Theme, based in adapta-gtk-theme
