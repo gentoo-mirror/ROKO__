@@ -5,12 +5,11 @@ DESCRIPTION=CachyOS are improved kernels that improve performance and other aspe
 EAPI=8
 HOMEPAGE=https://github.com/CachyOS/linux-cachyos
 INHERIT=kernel-2
-IUSE=bore high-hz prjc tt symlink build
-KEYWORDS=~amd64
+IUSE=bore cacule high-hz prjc tt symlink build
 RDEPEND=virtual/linux-sources !build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-devel/flex sys-devel/make >=sys-libs/ncurses-5.2 virtual/libelf virtual/pkgconfig )
-REQUIRED_USE=bore? ( !prjc !tt ) prjc? ( !bore !tt ) tt? ( high-hz !bore !prjc )
+REQUIRED_USE=bore? ( !cacule !prjc !tt ) cacule? ( !bore !prjc !tt ) prjc? ( !bore !cacule !tt ) tt? ( high-hz !bore !cacule !prjc )
 RESTRICT=binchecks strip
-SLOT=5.19-unstable
-SRC_URI=https://www.kernel.org/pub/linux/kernel/v5.x/patch-5.19.4.xz https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.19.tar.xz
+SLOT=5.19-testing
+SRC_URI=https://www.kernel.org/pub/linux/kernel/v5.x/patch-5.19.7.xz https://www.kernel.org/pub/linux/kernel/v5.x/linux-5.19.tar.xz
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	kernel-2	aa8997cf13a12b867c4c8c57383b8582
-_md5_=5da8cf4b59d27536630d002893fa3012
+_md5_=9f04f91e79b3008c9a0556a8cb8fa029
