@@ -1,4 +1,5 @@
 acct-group/gamemode 0: System group: gamemode
+app-admin/ananicy-cpp 1.0.0_rc6-r1: Ananicy rewritten in C++ for much lower CPU and memory usage
 app-admin/zenmonitor3 2.0.0: Zen monitor is monitoring software for AMD Zen-based CPUs
 app-backup/grub-btrfs 4.10.2 4.11: Improves Grub by adding btrfs snapshots to the Grub menu.
 app-backup/mkstage4 0.1-r99: A fork of Bash Utility for Creating Stage 4 Tarballs with pbzip2 support
@@ -26,6 +27,7 @@ app-shells/zsh-autosuggestions 0.5.0 0.6.4: Fish-like fast/unobtrusive autosugge
 app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
 app-shells/zsh-powerlevel10k 1.14.3: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
 app-text/tldr 2.0.0-r1: Python command line client for tldr pages
+dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::format
 dev-db/mariadb 10.5.4: An enhanced, drop-in replacement for MySQL
 dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
@@ -54,7 +56,7 @@ sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115 1.7.8: Flash OS images to SD cards 
 sys-devel/just 1.3.0: Just a command runner (with syntax inspired by 'make')
 sys-fs/duf 0.8.1: Disk Usage/Free Utility
 sys-fs/xfsdump 9999: xfs dump/restore utilities
-sys-kernel/cachyos-sources 5.19.0 5.19.7 5.19.7-r99 6.0_rc4: CachyOS are improved kernels that improve performance and other aspects.
+sys-kernel/cachyos-sources 5.19.0 5.19.4 5.19.4-r99 6.0_rc4: CachyOS are improved kernels that improve performance and other aspects.
 sys-kernel/debian-sources 5.18.5: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
