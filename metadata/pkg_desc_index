@@ -37,6 +37,7 @@ dev-util/arch-install-scripts 20: Arch Linux install tools (pacstrap, genfstab, 
 dev-util/dwarves 1.17-r2: pahole (Poke-a-Hole) and other DWARF2 utilities
 games-util/gamemode 9999-r1: Optimise Linux system performance on demand
 games-util/mangohud 0.6.7.1: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. AMDGPU testing branch
+gnome-base/gnome-control-center 42.3-r99: GNOME's main interface to configure various aspects of the desktop
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-libs/libpng 1.6.36: Portable Network Graphics library
@@ -74,6 +75,6 @@ www-plugins/yandex-browser-ffmpeg-codecs-bin 100.0.4896.127: Multi-threaded ffmp
 x11-libs/bamf 0.5.5: BAMF Application Matching Framework
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-misc/yd-tools 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
-x11-terms/console 42.0_beta: A terminal emulator for GNOME
+x11-terms/console 42.0_beta 42.2: A terminal emulator for GNOME
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2 5.4.5: System76 Pop GTK+ Theme, based in adapta-gtk-theme

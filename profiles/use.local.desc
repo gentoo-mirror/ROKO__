@@ -27,6 +27,8 @@ dev-qt/qtwebkit:multimedia - Enable HTML5 audio/video support via dev-qt/qtmulti
 dev-qt/qtwebkit:orientation - Enable device orientation detection via dev-qt/qtsensors
 dev-qt/qtwebkit:printsupport - Enable printing via dev-qt/qtprintsupport
 dev-qt/qtwebkit:qml - Build QML/QtQuick bindings
+gnome-base/gnome-control-center:gnome-online-accounts - Enable configuration panel for net-libs/gnome-online-accounts accounts
+gnome-base/gnome-control-center:ibus - Enable support for enhanced input methods through app-i18n/ibus
 media-plugins/nvidia-vaapi-driver:av1 - Enable experimental AV1 support
 media-sound/jamesdsp:pipewire - Build with PipeWire support.
 media-sound/jamesdsp:pulseaudio - Build with PulseAudio support.
@@ -52,7 +54,11 @@ net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
 net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
-sys-kernel/cachyos-sources:high-hz - CONFIG_HZ=1666 patch - EXPERIMENTAL!
+sys-kernel/cachyos-sources:bore - BORE (Burst-Oriented Response Enhancer) CPU Scheduler by firelzrd (BORE)
+sys-kernel/cachyos-sources:high-hz - CONFIG_HZ=833/1666 patch - EXPERIMENTAL!
+sys-kernel/cachyos-sources:latency - latency priority for CFS
+sys-kernel/cachyos-sources:prjc - Project C patch set
+sys-kernel/cachyos-sources:tt - Task Type Scheduler by Hamad Marri (TT)
 sys-kernel/xanmod-sources:clang - Use clang compiler instead of GCC
 sys-kernel/xanmod-sources:debug - Pseudo flag
 sys-kernel/xanmod-sources:initramfs - Build initramfs along with the kernel.
