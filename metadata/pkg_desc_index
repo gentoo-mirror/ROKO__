@@ -11,7 +11,7 @@ app-crypt/certbot-apache 1.25.0-r1: Apache plugin for certbot (Let's Encrypt Cli
 app-crypt/certbot-nginx 1.25.0-r1: Nginx plugin for certbot (Let's Encrypt Client)
 app-editors/atom-bin 1.60.0: A hackable text editor for the 21st Century
 app-emulation/bottles 20220314_p3: Easily manage WINE prefixes in a new way
-app-emulation/proton-ge-custom-bin 7.18: A fancy custom distribution of Valves Proton with various patches
+app-emulation/proton-ge-custom-bin 7.35: A fancy custom distribution of Valves Proton with various patches
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
@@ -60,7 +60,7 @@ sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115 1.7.8: Flash OS images to SD cards 
 sys-devel/just 1.3.0: Just a command runner (with syntax inspired by 'make')
 sys-fs/duf 0.8.1: Disk Usage/Free Utility
 sys-fs/xfsdump 9999: xfs dump/restore utilities
-sys-kernel/cachyos-sources 5.19.9 5.19.10 5.19.10-r99 6.0_rc5: CachyOS are improved kernels that improve performance and other aspects.
+sys-kernel/cachyos-sources 5.19.10 5.19.12 6.0_rc7: CachyOS are improved kernels that improve performance and other aspects.
 sys-kernel/debian-sources 5.18.5: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
