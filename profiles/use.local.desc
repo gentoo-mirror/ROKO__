@@ -63,8 +63,10 @@ net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
 sys-kernel/cachyos-sources:bore - BORE (Burst-Oriented Response Enhancer) CPU Scheduler by firelzrd (BORE)
+sys-kernel/cachyos-sources:cacule - Predecessor of Task Type Scheduler
 sys-kernel/cachyos-sources:high-hz - CONFIG_HZ=833/1666 patch - EXPERIMENTAL!
 sys-kernel/cachyos-sources:latency - latency priority for CFS
+sys-kernel/cachyos-sources:nest - OS Scheduling with Nest: Keeping Tasks Close Together on Warm Cores
 sys-kernel/cachyos-sources:prjc - Project C patch set
 sys-kernel/cachyos-sources:tt - Task Type Scheduler by Hamad Marri (TT)
 sys-kernel/xanmod-sources:clang - Use clang compiler instead of GCC
