@@ -74,4 +74,3 @@ sys-kernel/xanmod-sources:debug - Pseudo flag
 sys-kernel/xanmod-sources:initramfs - Build initramfs along with the kernel.
 virtual/linux-sources:firmware - Install linux kernel firmware
 www-client/yandex-browser-beta:ffmpeg-codecs - Use www-plugins/yandex-browser-ffmpeg-codecs for multi-threaded ffmpeg codecs for the HTML5 <audio> and <video> tags
-x11-terms/console:nautilus - Build gnome-base/nautilus extension

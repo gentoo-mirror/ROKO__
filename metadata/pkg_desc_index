@@ -78,6 +78,6 @@ www-plugins/yandex-browser-ffmpeg-codecs-bin 100.0.4896.127: Multi-threaded ffmp
 x11-libs/bamf 0.5.5: BAMF Application Matching Framework
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-misc/yd-tools 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
-x11-terms/console 42.0_beta 42.2: A terminal emulator for GNOME
+x11-terms/tabby 1.0.184: Tabby (formerly Terminus) is a highly configurable terminal emulator
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2 5.4.5: System76 Pop GTK+ Theme, based in adapta-gtk-theme
