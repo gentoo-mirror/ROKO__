@@ -28,7 +28,6 @@ app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a 
 app-shells/zsh-powerlevel10k 1.14.3: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
 app-text/tldr 2.0.0-r1: Python command line client for tldr pages
 dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::format
-dev-db/mariadb 10.5.4: An enhanced, drop-in replacement for MySQL
 dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
 dev-python/spotipy 2.4.4: A thin Python-based library for the Spotify Web API
