@@ -121,6 +121,7 @@ net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
 net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
+sys-kernel/cachyos-sources:bcachefs - The COW filesystem for Linux that won't eat your data
 sys-kernel/cachyos-sources:bore - BORE (Burst-Oriented Response Enhancer) CPU Scheduler by firelzrd (BORE)
 sys-kernel/cachyos-sources:cacule - Predecessor of Task Type Scheduler
 sys-kernel/cachyos-sources:high-hz - CONFIG_HZ=833/1666 patch - EXPERIMENTAL!
