@@ -1,4 +1,3 @@
-BDEPEND=!build? ( sys-apps/sed )
 DEFINED_PHASES=compile install postinst postrm preinst prepare setup test unpack
 DEPEND=virtual/linux-sources
 DESCRIPTION=CachyOS are improved kernels that improve performance and other aspects.
@@ -13,5 +12,5 @@ REQUIRED_USE=bore? ( !cacule latency nest !prjc !tt ) cacule? ( !bore !latency !
 RESTRICT=binchecks strip
 SLOT=stable
 SRC_URI=https://www.kernel.org/pub/linux/kernel/v6.x/patch-6.0.10.xz https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.0.tar.xz
-_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	37a4612ce5522df5a100359a8dbc8491	multilib	5ca4e49abed8e3a2f7b56920eadee157	kernel-2	222472d400d477278b203edbf50c3b98
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	37a4612ce5522df5a100359a8dbc8491	multilib	5ca4e49abed8e3a2f7b56920eadee157	kernel-2	251644d091f08784e34abea7495fc883
 _md5_=ceae591c6da8e33c3384901118ca20ef
