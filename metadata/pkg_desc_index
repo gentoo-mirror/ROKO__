@@ -54,7 +54,7 @@ media-sound/tidal-hifi 4.3.1: Tidal on Electron with widevine(hifi) support
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 net-im/caprine 2.57.0: Elegant Facebook Messenger desktop app
 net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
-net-im/skypeforlinux 8.89.0.403 8.90.76.300 8.90.76.401 8.91.76.402: Instant messaging client, with support for audio and video
+net-im/skypeforlinux 8.92.76.301: Instant messaging client, with support for audio and video
 net-im/viber 16.1.0.37: Free text and calls
 net-irc/srain 1.5.0: Modern, beautiful IRC client written in GTK+ 3
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
