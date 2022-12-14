@@ -4,22 +4,6 @@
 
 app-backup/mkstage4:pbzip2 - Enable parallel bzip2 support
 app-crypt/buttercup-desktop-bin:xtest - Enable support for x11-libs/libXtst
-app-misc/powerline:awesome - Install awesome (window manager) support files
-app-misc/powerline:bash - Install bash support files
-app-misc/powerline:busybox - Install BusyBox ash support files
-app-misc/powerline:dash - Install dash support files
-app-misc/powerline:extra - Install optional dependencies enabling additional segments
-app-misc/powerline:fish - Install fish support files
-app-misc/powerline:fonts - Install fonts pre-patched with Powerline symbols (not recommended)
-app-misc/powerline:i3bar - Install i3bar support files
-app-misc/powerline:lemonbar - Install lemonbar support files
-app-misc/powerline:man - Build and install man pages
-app-misc/powerline:mksh - Install mksh support files
-app-misc/powerline:qtile - Install qtile support files
-app-misc/powerline:rc - Install rc shell support files
-app-misc/powerline:tmux - Install tmux support files
-app-misc/powerline:vim - Install vim support files
-app-misc/powerline:zsh - Install zsh support files
 dev-qt/qtwebkit:geolocation - Enable physical position determination via dev-qt/qtpositioning
 dev-qt/qtwebkit:gstreamer - Enable HTML5 audio/video support via media-libs/gstreamer using SLOT 1.0
 dev-qt/qtwebkit:hyphen - Enable hyphenation support via dev-libs/hyphen
