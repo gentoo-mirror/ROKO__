@@ -16,7 +16,6 @@ app-emulation/proton-ge-custom-bin 7.35: A fancy custom distribution of Valves P
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
-app-misc/powerline 2.7: Python-based statusline/prompt utility
 app-office/freeoffice 980 2021.1042: A complete, free Microsoft Office-compatible alternative office suite
 app-portage/emlop 0.5.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
@@ -31,7 +30,6 @@ app-text/tldr 2.0.0-r1: Python command line client for tldr pages
 dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::format
 dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
-dev-python/spotipy 2.4.4: A thin Python-based library for the Spotify Web API
 dev-qt/qtwebkit 5.212.0_pre20200309-r2: WebKit rendering library for the Qt5 framework (deprecated)
 dev-util/arch-install-scripts 20: Arch Linux install tools (pacstrap, genfstab, arch-chroot)
 dev-util/dwarves 1.17-r2: pahole (Poke-a-Hole) and other DWARF2 utilities
