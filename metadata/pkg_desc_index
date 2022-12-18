@@ -12,7 +12,7 @@ app-crypt/certbot-nginx 1.25.0-r1: Nginx plugin for certbot (Let's Encrypt Clien
 app-editors/atom-bin 1.60.0 1.61.0: A hackable text editor for the 21st Century
 app-editors/pulsar-bin 1.63.0: A Community-led Hyper-Hackable Text Editor
 app-emulation/bottles 20220314_p3: Easily manage WINE prefixes in a new way
-app-emulation/proton-ge-custom-bin 7.35: A fancy custom distribution of Valves Proton with various patches
+app-emulation/proton-ge-custom-bin 7.35 7.42: A fancy custom distribution of Valves Proton with various patches
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
@@ -54,6 +54,7 @@ media-sound/tidal-hifi 4.3.1: Tidal on Electron with widevine(hifi) support
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 net-im/caprine 2.57.0: Elegant Facebook Messenger desktop app
 net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
+net-im/kotatogram-desktop-bin 1.4.9: Experimental Telegram Desktop fork
 net-im/skypeforlinux 8.92.76.301: Instant messaging client, with support for audio and video
 net-im/viber 18.2.0.2: Free text and calls
 net-irc/srain 1.5.0: Modern, beautiful IRC client written in GTK+ 3
