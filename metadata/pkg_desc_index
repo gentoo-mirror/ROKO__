@@ -69,10 +69,8 @@ sys-fs/duf 0.8.1: Disk Usage/Free Utility
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/cachyos-sources 6.0.12 6.1.0 6.1.1: CachyOS are improved kernels that improve performance and other aspects.
 sys-kernel/cachyos-tunecfs2 1: CachyOS-Settings
-sys-kernel/debian-sources 5.18.5: Debian Sources (and optional binary kernel)
 sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
-sys-kernel/xanmod-sources 5.15.58 5.18.15 5.19.0: XanMod lts kernel built with Gentoo patches and cjktty
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
