@@ -1,9 +1,9 @@
 DEFINED_PHASES=install
-DEPEND=sys-kernel/cachyos-sources:mainline
+DEPEND=sys-kernel/cachyos-sources:stable
 DESCRIPTION=CachyOS-Settings
 EAPI=8
 HOMEPAGE=https://github.com/CachyOS/CachyOS-Settings
 KEYWORDS=amd64
-RDEPEND=sys-kernel/cachyos-sources:mainline
+RDEPEND=sys-kernel/cachyos-sources:stable
 SLOT=0
-_md5_=0e400151d1d62bdc869f5425007e9e86
+_md5_=862c5cd01627fbdf9ec723d2a1dbda96
