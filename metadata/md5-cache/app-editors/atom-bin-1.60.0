@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=!app-editors/atom || ( >=dev-lang/python-3.10.9:3.10 >=dev-lang/python-3.9.16:3.9 ) dev-vcs/git x11-libs/gtk+:3 virtual/libudev dev-libs/libgcrypt x11-libs/libnotify x11-libs/libXtst dev-libs/nss gnome-base/gvfs x11-misc/xdg-utils sys-libs/libcap x11-libs/libX11 x11-libs/libXScrnSaver media-libs/alsa-lib x11-libs/libxkbfile net-misc/curl
 SLOT=0
 SRC_URI=https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.deb -> atom-bin-1.60.0.deb
-_eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	a1a985ddd8795a8634b4b7f820b93143	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	xdg-utils	ac0e315a3688929e34ac75b139e7349a
+_eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	8d5c1c4ecef47fa1b4576a718c620d1d	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	xdg-utils	ac0e315a3688929e34ac75b139e7349a
 _md5_=5019387ec6d35d123a9812e059f3c5f0
