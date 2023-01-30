@@ -10,5 +10,5 @@ RDEPEND=dev-qt/qtcore:5 dev-qt/qtdbus:5 dev-qt/qtdeclarative:5 dev-qt/qtgui:5 de
 RESTRICT=bindist mirror
 SLOT=14
 SRC_URI=amd64? ( https://dl.tvcdn.de/download/linux/version_14x/teamviewer_14.1.3399_amd64.tar.xz ) x86? ( https://dl.tvcdn.de/download/linux/version_14x/teamviewer_14.1.3399_i386.tar.xz )
-_eclasses_=desktop	7eb20ad915a0a318176d51bc2508ff5c	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	xdg-utils	ac0e315a3688929e34ac75b139e7349a	gnome2-utils	2116cec8f46f4d1b0a88c5b1f1575dd3	systemd	5f4bb0758df2e483babf68cd517078ca
+_eclasses_=desktop	7eb20ad915a0a318176d51bc2508ff5c	toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	xdg-utils	ac0e315a3688929e34ac75b139e7349a	gnome2-utils	2116cec8f46f4d1b0a88c5b1f1575dd3	systemd	5f4bb0758df2e483babf68cd517078ca
 _md5_=0431e2ba6eeb1f5cb4dd14af3be49efb
