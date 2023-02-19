@@ -57,7 +57,7 @@ media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video C
 net-im/caprine 2.57.0: Elegant Facebook Messenger desktop app
 net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
 net-im/kotatogram-desktop-bin 1.4.9: Experimental Telegram Desktop fork
-net-im/skypeforlinux 8.93.76.403: Instant messaging client, with support for audio and video
+net-im/skypeforlinux 8.94.76.421: Instant messaging client, with support for audio and video
 net-im/viber 16.1.0.37: Free text and calls
 net-irc/srain 1.5.0: Modern, beautiful IRC client written in GTK+ 3
 net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
