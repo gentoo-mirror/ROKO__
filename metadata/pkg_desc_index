@@ -1,11 +1,9 @@
-acct-group/gamemode 0: System group: gamemode
 app-admin/ananicy-cpp 1.0.0_rc6-r1 1.0.1: Ananicy rewritten in C++ for much lower CPU and memory usage
 app-admin/ansible 7.1.0: Model-driven deployment, config management, and command execution framework
 app-admin/zenmonitor3 2.0.0: Zen monitor is monitoring software for AMD Zen-based CPUs
 app-backup/btrfs-assistant 1.7: A GUI management tool to make managing a Btrfs filesystem easier.
 app-backup/grub-btrfs 4.10.2 4.11: Improves Grub by adding btrfs snapshots to the Grub menu.
 app-backup/mkstage4 0.1-r99: A fork of Bash Utility for Creating Stage 4 Tarballs with pbzip2 support
-app-benchmarks/phoronix-test-suite 9.8.0: Phoronix's comprehensive, cross-platform testing and benchmark suite
 app-crypt/acme 1.25.0-r1: An implementation of the ACME protocol
 app-crypt/buttercup-desktop-bin 1.20.5: Cross-platform, free and open-source password manager based on NodeJS.
 app-crypt/certbot 1.25.0-r1: Let's encrypt client to automate deployment of X.509 certificates
@@ -18,16 +16,14 @@ app-emulation/proton-ge-custom-bin 7.42 7.49: A fancy custom distribution of Val
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
-app-office/freeoffice 980 2021.1042: A complete, free Microsoft Office-compatible alternative office suite
 app-portage/emlop 0.5.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
-app-shells/gitstatus 1.4.3: Git status for Bash and Zsh prompt
+app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
 app-shells/oh-my-zsh 99999999: A ready-to-use zsh configuration with plugins
-app-shells/powerlevel10k 1.13.0: A theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 app-shells/zsh 5.6.2: UNIX Shell similar to the Korn shell
 app-shells/zsh-autosuggestions 0.5.0 0.6.4: Fish-like fast/unobtrusive autosuggestions for zsh
 app-shells/zsh-history-substring-search 9999: A ZSH plugin to search history, a clean-room implementation of the Fish shell feature
-app-shells/zsh-powerlevel10k 1.14.3: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
+app-shells/zsh-theme-powerlevel10k 1.17.0: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
 app-text/tldr 2.0.0-r1: Python command line client for tldr pages
 dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::format
 dev-libs/inih 9999: Simple .INI file parser for C/C++
@@ -45,9 +41,6 @@ media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder 
 media-libs/amf-headers 1.4.28: The Advanced Media Framework (AMF) SDK
 media-libs/libpng 1.6.36: Portable Network Graphics library
 media-libs/librist 0.2.6: Reliable Internet Streaming Transport
-media-plugins/nvidia-vaapi-driver 0.0.6: A VA-API implemention using NVIDIA's NVDEC
-media-plugins/obs-linuxbrowser 0.6.1: Browser source plugin for obs-studio based on CEF.
-media-sound/NoiseTorch 0.12.2: Real-time microphone noise suppression on Linux.
 media-sound/helvum 0.3.4-r2: A GTK patchbay for pipewire
 media-sound/jamesdsp 9999 9999-r1: Open-source sound effects for PipeWire and PulseAudio
 media-sound/soundux 0.2.7: A cross-platform soundboard 🔊
@@ -55,12 +48,9 @@ media-sound/tidal-hifi 4.3.1: Tidal on Electron with widevine(hifi) support
 media-video/amdgpu-pro-amf 1.4.29.1518373: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 net-im/caprine 2.57.0: Elegant Facebook Messenger desktop app
-net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
-net-im/kotatogram-desktop-bin 1.4.9: Experimental Telegram Desktop fork
 net-im/skypeforlinux 8.94.76.421: Instant messaging client, with support for audio and video
 net-im/viber 16.1.0.37: Free text and calls
 net-irc/srain 1.5.0: Modern, beautiful IRC client written in GTK+ 3
-net-misc/teamviewer 14.1.3399: All-In-One Solution for Remote Access and Support over the Internet
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
 net-vpn/openvpn 2.4.9: Robust and highly flexible tunneling application compatible with many OSes
 sys-apps/corectrl 9999: Core control application.
@@ -70,13 +60,11 @@ sys-devel/just 1.3.0: Just a command runner (with syntax inspired by 'make')
 sys-fs/duf 0.8.1: Disk Usage/Free Utility
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/cachyos-sources 6.1.12 6.2.0: CachyOS are improved kernels that improve performance and other aspects.
-sys-kernel/dkms 2.6.1: Dynamic Kernel Module Support
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
 sys-process/btop 1.1.3: A monitor of resources
-sys-process/gotop 3.0.0: A terminal based graphical activity monitor inspired by gtop and vtop
 sys-process/nohang 9999: A sophisticated low memory handler for Linux
 sys-process/nvtop 2.0.1-r1: NVIDIA GPUs htop like monitoring tool
 virtual/linux-sources 3-r99: Virtual for Linux kernel sources

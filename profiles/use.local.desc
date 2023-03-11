@@ -69,7 +69,6 @@ media-fonts/nerd-fonts:tinos - Install Nerd-fonts-patched Tinos fonts
 media-fonts/nerd-fonts:ubuntu - Install Nerd-fonts-patched Ubuntu fonts
 media-fonts/nerd-fonts:ubuntumono - Install Nerd-fonts-patched Ubuntu Mono fonts
 media-fonts/nerd-fonts:victormono - Install Nerd-fonts-patched Victor Mono fonts
-media-plugins/nvidia-vaapi-driver:av1 - Enable experimental AV1 support
 media-sound/jamesdsp:pipewire - Build with PipeWire support.
 media-sound/jamesdsp:pulseaudio - Build with PulseAudio support.
 media-video/obs-studio:browser - Enable browser source support via (precompiled) CEF.
@@ -80,9 +79,6 @@ media-video/obs-studio:python - Build with scripting support for Python 3.
 media-video/obs-studio:speex - Build with Speex noise suppression filter support.
 media-video/obs-studio:ssl - Build with TLS/SSL support for RTMPS connections.
 media-video/obs-studio:vlc - Build with VLC media source support.
-net-im/kotatogram-desktop:enchant - Enable the app-text/aspell spell-checking backend
-net-im/kotatogram-desktop:hunspell - Enable the app-text/hunspell spell-checking backend
-net-im/kotatogram-desktop:screencast - Enable support for remote desktop and screen cast using media-video/pipewire
 net-misc/wget2:assert - Build with assert()s
 net-misc/wget2:compression_brotli - Brotli compression support
 net-misc/wget2:compression_bzip2 - bzip2 compression support
