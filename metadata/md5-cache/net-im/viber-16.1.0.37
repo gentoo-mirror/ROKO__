@@ -13,5 +13,5 @@ REQUIRED_USE=^^ ( apulse pulseaudio )
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://download.cdn.viber.com/cdn/desktop/Linux/viber.deb -> viber-16.1.0.37.deb
-_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	pax-utils	91d47e5d20627c717aa878b9167c62a8	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	pax-utils	91d47e5d20627c717aa878b9167c62a8	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	4a14c5c24f121e7da66e5aab4a168c6e
 _md5_=e0828e8b5f831088b3786a4b342e1088
