@@ -16,6 +16,7 @@ app-emulation/proton-ge-custom-bin 7.42 7.49: A fancy custom distribution of Val
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
+app-office/joplin-desktop-bin 2.7.15: Joplin is an open source note-taking app
 app-portage/emlop 0.5.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
@@ -34,7 +35,8 @@ games-util/mangohud 0.6.7.1 0.6.8: A Vulkan and OpenGL overlay for monitoring FP
 games-util/steam-client-meta 0-r20221017: Meta package for Valve's native Steam client
 gnome-base/gnome-control-center 42.3-r99: GNOME's main interface to configure various aspects of the desktop
 gnome-extra/gnome-tweaks 42.0_beta: Customize advanced GNOME options
-gui-libs/libdecor 0.1.0: A client-side decorations library for Wayland clients
+gui-apps/gradience 0.4.1: GNOME's main interface to configure various aspects of the desktop
+gui-libs/libdecor 0.1.0 9999: A client-side decorations library for Wayland client
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
 media-fonts/nerd-fonts 2.2.2: Nerd Fonts is a project that patches developer targeted fonts with glyphs
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
@@ -48,7 +50,7 @@ media-sound/tidal-hifi 4.3.1: Tidal on Electron with widevine(hifi) support
 media-video/amdgpu-pro-amf 1.4.29.1518373: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 net-im/caprine 2.57.0: Elegant Facebook Messenger desktop app
-net-im/skypeforlinux 8.94.76.421: Instant messaging client, with support for audio and video
+net-im/skypeforlinux 8.95.76.408: Instant messaging client, with support for audio and video
 net-im/viber 16.1.0.37: Free text and calls
 net-irc/srain 1.5.0: Modern, beautiful IRC client written in GTK+ 3
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader

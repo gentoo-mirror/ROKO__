@@ -1,0 +1,14 @@
+BDEPEND=dev-libs/wayland x11-libs/cairo >=dev-util/meson-0.62.2 >=dev-util/ninja-1.8.2 dev-util/meson-format-array >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install test unpack
+DEPEND=dbus? ( sys-apps/dbus )
+DESCRIPTION=A client-side decorations library for Wayland client
+EAPI=8
+HOMEPAGE=https://gitlab.freedesktop.org/libdecor/libdecor
+INHERIT=meson git-r3
+IUSE=dbus
+LICENSE=MIT
+PROPERTIES=live
+RDEPEND=dbus? ( sys-apps/dbus )
+SLOT=0
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	38c85b725d0467e51954ea921b6c104b	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	429bfd4e8d8e39db5385ba5744f30788	meson	cd2865332c8d99e1da0655523ff4a28f	git-r3	c57c50c922e121043788de0b40ada60a
+_md5_=32bf1a18bfbfb8749d89cd6acf214a83
