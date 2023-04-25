@@ -4,13 +4,13 @@ DESCRIPTION=CachyOS are improved kernels that improve performance and other aspe
 EAPI=8
 HOMEPAGE=https://github.com/CachyOS/linux-cachyos
 INHERIT=kernel-2
-IUSE=+bore +latency prjc tt symlink build
+IUSE=bore +eevdf high-hz latency prjc tt symlink build
 KEYWORDS=amd64
 LICENSE=GPL
 RDEPEND=virtual/linux-sources !build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-devel/flex sys-devel/make >=sys-libs/ncurses-5.2 virtual/libelf virtual/pkgconfig )
-REQUIRED_USE=bore? ( latency !prjc !tt ) prjc? ( !bore !latency !tt ) tt? ( !bore !latency !prjc )
+REQUIRED_USE=bore? ( !eevdf latency !prjc !tt ) eevdf? ( !bore !latency !prjc !tt ) prjc? ( !bore !eevdf !latency !tt ) tt? ( high-hz !bore !eevdf !latency !prjc )
 RESTRICT=binchecks strip
 SLOT=stable
-SRC_URI=https://www.kernel.org/pub/linux/kernel/v6.x/patch-6.2.5.xz https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.2.tar.xz
+SRC_URI=https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.3.tar.xz
 _eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	d1408425c7c4a7669b9b17735404b693	kernel-2	5ec69098eb726d07eec2cf05ce4fbdfe
-_md5_=f9fdbcc54a1020bbe0d8aea313868759
+_md5_=e99559f880ed42008a3c73f6b2bbcc2c
