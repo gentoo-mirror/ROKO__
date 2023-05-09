@@ -1,5 +1,4 @@
 app-admin/ananicy-cpp 1.0.0_rc6-r1 1.0.1: Ananicy rewritten in C++ for much lower CPU and memory usage
-app-admin/ansible 7.1.0: Model-driven deployment, config management, and command execution framework
 app-admin/zenmonitor3 2.0.0: Zen monitor is monitoring software for AMD Zen-based CPUs
 app-backup/btrfs-assistant 1.7: A GUI management tool to make managing a Btrfs filesystem easier.
 app-backup/grub-btrfs 4.10.2 4.11: Improves Grub by adding btrfs snapshots to the Grub menu.
@@ -32,7 +31,7 @@ dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::
 dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
 games-util/gamemode 9999-r1: Optimise Linux system performance on demand
-games-util/mangohud 0.6.7.1 0.6.8: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. AMDGPU testing branch
+games-util/mangohud 0.6.8: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. AMDGPU testing branch
 games-util/steam-client-meta 0-r20221017: Meta package for Valve's native Steam client
 gnome-base/gnome-control-center 42.3-r99: GNOME's main interface to configure various aspects of the desktop
 gnome-extra/gdm-settings 2.1: A settings app for GNOME's Login/Display Manager, GDM
@@ -77,6 +76,7 @@ www-plugins/yandex-browser-ffmpeg-codecs-bin 100.0.4896.127: Multi-threaded ffmp
 x11-libs/bamf 0.5.5: BAMF Application Matching Framework
 x11-libs/gtk+ 3.24.34-r99: Gimp ToolKit +
 x11-misc/plank 0.11.89: Elegant, simple, clean dock
+x11-misc/yd-tools 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
 x11-terms/guake 3.9.0: Drop-down terminal for GNOME
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
 x11-themes/pop-gtk-theme 5.1.2 5.4.5: System76 Pop GTK+ Theme, based in adapta-gtk-theme
