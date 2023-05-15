@@ -4,13 +4,6 @@
 
 app-backup/mkstage4:pbzip2 - Enable parallel bzip2 support
 app-crypt/buttercup-desktop-bin:xtest - Enable support for x11-libs/libXtst
-dev-qt/qtwebkit:geolocation - Enable physical position determination via dev-qt/qtpositioning
-dev-qt/qtwebkit:gstreamer - Enable HTML5 audio/video support via media-libs/gstreamer using SLOT 1.0
-dev-qt/qtwebkit:hyphen - Enable hyphenation support via dev-libs/hyphen
-dev-qt/qtwebkit:multimedia - Enable HTML5 audio/video support via dev-qt/qtmultimedia
-dev-qt/qtwebkit:orientation - Enable device orientation detection via dev-qt/qtsensors
-dev-qt/qtwebkit:printsupport - Enable printing via dev-qt/qtprintsupport
-dev-qt/qtwebkit:qml - Build QML/QtQuick bindings
 games-util/steam-client-meta:steamruntime - Use the official steam runtime libraries
 games-util/steam-client-meta:steamvr - Enable SteamVR virtual reality support
 games-util/steam-client-meta:trayicon - Enable system tray icon with libappindicator
