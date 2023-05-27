@@ -1,0 +1,16 @@
+DEFINED_PHASES=compile install postinst postrm preinst prepare setup test unpack
+DEPEND=virtual/linux-sources
+DESCRIPTION=CachyOS are improved kernels that improve performance and other aspects.
+EAPI=8
+HOMEPAGE=https://github.com/CachyOS/linux-cachyos
+INHERIT=kernel-2
+IUSE=+bore high-hz prjc tt symlink build
+KEYWORDS=amd64
+LICENSE=GPL
+RDEPEND=virtual/linux-sources !build? ( app-arch/cpio dev-lang/perl sys-devel/bc sys-devel/bison sys-devel/flex sys-devel/make >=sys-libs/ncurses-5.2 virtual/libelf virtual/pkgconfig )
+REQUIRED_USE=bore? ( !prjc !tt ) prjc? ( !bore !tt ) tt? ( high-hz !bore !prjc )
+RESTRICT=binchecks strip
+SLOT=stable
+SRC_URI=https://www.kernel.org/pub/linux/kernel/v6.x/patch-6.3.4.xz https://www.kernel.org/pub/linux/kernel/v6.x/linux-6.3.tar.xz
+_eclasses_=estack	055c42df72f76a4f45ec92b35e83cd56	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	14a8ae365191b518fad51caad7a08f3e	multilib	104e1332efb829e2f7cbf89307a474f1	kernel-2	5ec69098eb726d07eec2cf05ce4fbdfe
+_md5_=4e4626692b4f833567ad6ff64bb9a2c0
