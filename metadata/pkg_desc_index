@@ -76,7 +76,6 @@ virtual/linux-sources 3-r99: Virtual for Linux kernel sources
 www-client/yandex-browser-beta 22.3.1.899_p1: The web browser from Yandex
 www-plugins/yandex-browser-ffmpeg-codecs-bin 100.0.4896.127: Multi-threaded ffmpeg codecs needed for the HTML5 <audio> and <video> tags
 x11-libs/gtk+ 3.24.34-r99: Gimp ToolKit +
-x11-misc/plank 0.11.89: Elegant, simple, clean dock
 x11-misc/yd-tools 1.11.0-r1: A panel indicator (GUI) for YandexDisk CLI client
 x11-terms/guake 3.9.0: Drop-down terminal for GNOME
 x11-themes/bibata-xcursors 0.4.1: Material based cursor
