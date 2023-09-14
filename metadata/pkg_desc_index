@@ -11,7 +11,7 @@ app-crypt/certbot-nginx 1.25.0-r1: Nginx plugin for certbot (Let's Encrypt Clien
 app-editors/atom-bin 1.60.0 1.61.0: A hackable text editor for the 21st Century
 app-editors/pulsar-bin 1.100.0: A Community-led Hyper-Hackable Text Editor
 app-emulation/bottles 20220314_p3: Easily manage WINE prefixes in a new way
-app-emulation/proton-ge-custom-bin 8.14: A fancy custom distribution of Valves Proton with various patches
+app-emulation/proton-ge-custom-bin 8.13 8.14: A fancy custom distribution of Valves Proton with various patches
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
