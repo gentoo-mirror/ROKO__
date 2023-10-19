@@ -7,5 +7,5 @@ LICENSE=AGPL-3
 RDEPEND=sys-fs/fuse:0
 RESTRICT=strip
 SLOT=0
-SRC_URI=https://github.com/laurent22/joplin/releases/download/v2.11.5/Joplin-2.11.5.AppImage
+SRC_URI=https://github.com/laurent22/joplin/releases/download/v2.12.18/Joplin-2.12.18.AppImage
 _md5_=f5cf7458f4ad4f02372426c57bd58132
