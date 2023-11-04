@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=!app-editors/atom || ( dev-lang/python:3.10 ) dev-vcs/git x11-libs/gtk+:3 virtual/libudev dev-libs/libgcrypt x11-libs/libnotify x11-libs/libXtst dev-libs/nss gnome-base/gvfs x11-misc/xdg-utils sys-libs/libcap x11-libs/libX11 x11-libs/libXScrnSaver media-libs/alsa-lib x11-libs/libxkbfile net-misc/curl
 SLOT=0
 SRC_URI=https://github.com/pulsar-edit/pulsar/releases/download/v1.100.0-beta/Linux.pulsar_1.100.0-beta_amd64.deb -> pulsar-bin-1.100.0.deb
-_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	70ec42843fec87d20fd94c67e77cdbff	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	f6221c2f55e5e832be9919fe1711f33b	python-any-r1	f5169813d1619761b459800587005fd2	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	xdg-utils	baea6080dd821f5562d715887954c9d3
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	f6221c2f55e5e832be9919fe1711f33b	python-any-r1	f5169813d1619761b459800587005fd2	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	xdg-utils	baea6080dd821f5562d715887954c9d3
 _md5_=1df4061ebef8be1ca1a707e03b2a20af
