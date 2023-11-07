@@ -15,7 +15,9 @@ app-emulation/proton-ge-custom-bin 8.16: A fancy custom distribution of Valves P
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
+app-office/freeoffice 1064: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/joplin-bin 2.12.18: Note taking app, on Electron, can import notes from Evernote
+app-office/softmaker-office 2024.1200: SoftMaker Office - an office suite featuring a word processor (TextMaker), spreadsheets (PlanMaker) and slides software (Presentations)
 app-portage/emlop 0.5.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-portage/showem 1.0.6: View output of a parallel emerge from a separate terminal
