@@ -55,7 +55,7 @@ media-sound/tidal-hifi 4.3.1 5.6.0: Tidal on Electron with widevine(hifi) suppor
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 net-im/viber 18.2.0.2: Free text and calls
-net-irc/srain 1.5.0: Modern, beautiful IRC client written in GTK+ 3
+net-irc/srain 1.5.1: Modern, beautiful IRC client written in GTK+ 3
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
 net-vpn/openvpn 2.4.9: Robust and highly flexible tunneling application compatible with many OSes
 sys-apps/corectrl 9999: Core control application.
