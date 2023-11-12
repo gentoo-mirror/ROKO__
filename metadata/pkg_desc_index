@@ -33,6 +33,7 @@ dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::
 dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-libs/libei 1.0.901: Library for Emulated Input, primarily aimed at the Wayland stack
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
+dev-python/vkbasalt-cli 3.1.1: Command-line utility for vkBasalt
 games-util/gamemode 9999-r1: Optimise Linux system performance on demand
 games-util/mangohud 0.6.9.1: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. AMDGPU testing branch
 games-util/steam-client-meta 0-r20221017: Meta package for Valve's native Steam client
@@ -49,6 +50,7 @@ media-libs/amf-headers 1.4.29: The Advanced Media Framework (AMF) SDK
 media-libs/libpng 1.6.36: Portable Network Graphics library
 media-libs/librist 0.2.6: Reliable Internet Streaming Transport
 media-libs/mesa 23.2.0_rc2: OpenGL-like graphic library for Linux
+media-libs/vkBasalt 0.3.2.10: A vulkan post processing layer for linux
 media-sound/NoiseTorch 0.12.2: Real-time microphone noise suppression on Linux.
 media-sound/helvum 0.3.4-r2: A GTK patchbay for pipewire
 media-sound/jamesdsp 9999 9999-r1: Open-source sound effects for PipeWire and PulseAudio
