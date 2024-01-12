@@ -107,15 +107,6 @@ net-vpn/openvpn:mbedtls - Use mbed TLS as the backend crypto library
 net-vpn/openvpn:openssl - Use OpenSSL as the backend crypto library
 net-vpn/openvpn:pkcs11 - Enable PKCS#11 smartcard support
 net-vpn/openvpn:plugins - Enable the OpenVPN plugin system
-sys-kernel/cachyos-sources:amd - amd_pstate: Add guided autonomous mode support
-sys-kernel/cachyos-sources:bcachefs - The COW filesystem for Linux that won't eat your data
-sys-kernel/cachyos-sources:bore - BORE (Burst-Oriented Response Enhancer) CPU Scheduler by firelzrd (BORE)
-sys-kernel/cachyos-sources:cacule - Predecessor of Task Type Scheduler
-sys-kernel/cachyos-sources:high-hz - CONFIG_HZ=833/1666 patch - EXPERIMENTAL!
-sys-kernel/cachyos-sources:latency - latency priority for CFS
-sys-kernel/cachyos-sources:nest - OS Scheduling with Nest: Keeping Tasks Close Together on Warm Cores
-sys-kernel/cachyos-sources:prjc - Project C patch set
-sys-kernel/cachyos-sources:tt - Task Type Scheduler by Hamad Marri (TT)
 sys-kernel/xanmod-sources:project-c - (EXPERIMENTAL) Apply project-c scheduler patches
 virtual/linux-sources:firmware - Install linux kernel firmware
 www-client/yandex-browser-beta:ffmpeg-codecs - Use www-plugins/yandex-browser-ffmpeg-codecs for multi-threaded ffmpeg codecs for the HTML5 <audio> and <video> tags
