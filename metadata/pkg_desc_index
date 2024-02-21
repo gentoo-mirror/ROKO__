@@ -21,6 +21,7 @@ app-office/softmaker-office 2024.1200: SoftMaker Office - an office suite featur
 app-portage/emlop 0.5.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-portage/showem 1.0.6: View output of a parallel emerge from a separate terminal
+app-portage/upgrade-portage 9999: Simple way to upgrade Gentoo system
 app-portage/upkeep 1.4.1: Helper commands to automate updating with Portage.
 app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
 app-shells/oh-my-zsh 99999999: A ready-to-use zsh configuration with plugins
@@ -62,6 +63,7 @@ net-im/viber 21.0.0.1: Free text and calls
 net-irc/srain 1.5.1: Modern, beautiful IRC client written in GTK+ 3
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
 net-vpn/openvpn 2.4.9: Robust and highly flexible tunneling application compatible with many OSes
+scripts/shell-text 1.1-r1: Formatting text in echo commands
 sys-apps/corectrl 1.3.8 9999: Core control application.
 sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-boot/etcher 1.5.56 1.5.69 1.5.73 1.5.115 1.7.8: Flash OS images to SD cards & USB drives, safely and easily.
