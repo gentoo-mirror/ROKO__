@@ -15,6 +15,7 @@ app-emulation/proton-ge-custom-bin 8.16 8.27: A fancy custom distribution of Val
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
+app-misc/solaar 1.1.11: Linux Device Manager for Logitech Unifying Receivers and Paired Devices
 app-office/freeoffice 1064: A complete, free Microsoft Office-compatible alternative office suite.
 app-office/joplin-bin 2.12.18: Note taking app, on Electron, can import notes from Evernote
 app-office/softmaker-office 2024.1200: SoftMaker Office - an office suite featuring a word processor (TextMaker), spreadsheets (PlanMaker) and slides software (Presentations)
