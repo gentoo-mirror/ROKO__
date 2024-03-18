@@ -11,6 +11,6 @@ RDEPEND=app-arch/brotli:0 app-arch/snappy:0 app-arch/zstd:0 app-crypt/libb2 app-
 REQUIRED_USE=^^ ( apulse pulseaudio )
 RESTRICT=bindist mirror
 SLOT=0
-SRC_URI=https://download.cdn.viber.com/cdn/desktop/Linux/viber.deb -> viber-21.0.0.1.deb
+SRC_URI=https://download.cdn.viber.com/cdn/desktop/Linux/viber.deb -> viber-21.8.0.11.deb
 _eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	pax-utils	91d47e5d20627c717aa878b9167c62a8	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
 _md5_=d01e231abd0ad8e824d4f95b95fa38e0
