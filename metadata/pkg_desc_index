@@ -46,9 +46,10 @@ gui-apps/gradience 0.4.1: GNOME's main interface to configure various aspects of
 gui-libs/libdecor 0.1.0 9999: A client-side decorations library for Wayland client
 media-fonts/hasklig 1.2: Hasklig - a Haskell code font with monospaced ligatures
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
-media-fonts/nerd-fonts 2.2.2: Nerd Fonts is a project that patches developer targeted fonts with glyphs
+media-fonts/nerd-fonts 3.2.0: Nerd Fonts is a project that patches developer targeted fonts with glyphs
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-libs/amf-headers 1.4.29: The Advanced Media Framework (AMF) SDK
+media-libs/libcamera 0.2.0: A complex camera support library for Linux, Android, and ChromeOS
 media-libs/libpng 1.6.36: Portable Network Graphics library
 media-libs/librist 0.2.6: Reliable Internet Streaming Transport
 media-libs/mesa 23.2.0_rc2: OpenGL-like graphic library for Linux
