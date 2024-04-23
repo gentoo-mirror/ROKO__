@@ -61,6 +61,7 @@ media-sound/soundux 0.2.7: A cross-platform soundboard 🔊
 media-sound/tidal-hifi 4.3.1 5.7.1: Tidal on Electron with widevine(hifi) support
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/clapper 9999: A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
+media-video/haruna 0.12.2: Video player built with Qt/QML on top of libmpv
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 net-im/viber 21.8.0.11: Free text and calls
 net-irc/srain 1.5.1: Modern, beautiful IRC client written in GTK+ 3
