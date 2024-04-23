@@ -60,6 +60,7 @@ media-sound/jamesdsp 9999 9999-r1: Open-source sound effects for PipeWire and Pu
 media-sound/soundux 0.2.7: A cross-platform soundboard 🔊
 media-sound/tidal-hifi 4.3.1 5.7.1: Tidal on Electron with widevine(hifi) support
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
+media-video/clapper 9999: A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 net-im/viber 21.8.0.11: Free text and calls
 net-irc/srain 1.5.1: Modern, beautiful IRC client written in GTK+ 3
@@ -74,7 +75,7 @@ sys-fs/duf 0.8.1: Disk Usage/Free Utility
 sys-fs/xfsdump 9999: xfs dump/restore utilities
 sys-kernel/cachyos-sources 6.8.1: CachyOS provides enhanced kernels that offer improved performance and other benefits.
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
-sys-kernel/xanmod-sources 6.8.2: Full XanMod sources including the Gentoo patchset
+sys-kernel/xanmod-sources 6.8.5: Full XanMod sources including the Gentoo patchset
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
