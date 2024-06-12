@@ -71,7 +71,6 @@ sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-devel/just 1.3.0: Just a command runner (with syntax inspired by 'make')
 sys-fs/duf 0.8.1: Disk Usage/Free Utility
 sys-fs/xfsdump 9999: xfs dump/restore utilities
-sys-kernel/cachyos-sources 6.8.1: CachyOS provides enhanced kernels that offer improved performance and other benefits.
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
 sys-kernel/xanmod-sources 6.9.3: Full XanMod sources including the Gentoo patchset
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
