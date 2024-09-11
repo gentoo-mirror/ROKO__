@@ -32,6 +32,7 @@ app-shells/zsh-autosuggestions 0.5.0 0.6.4: Fish-like fast/unobtrusive autosugge
 app-shells/zsh-theme-powerlevel10k 1.17.0: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
 app-text/tldr 2.0.0-r1: Python command line client for tldr pages
 dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::format
+dev-libs/glib 2.80.4-r99: The GLib library of C routines
 dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-libs/libei 1.0.901: Library for Emulated Input, primarily aimed at the Wayland stack
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
@@ -50,7 +51,6 @@ media-fonts/nerd-fonts 3.2.0: Nerd Fonts is a project that patches developer tar
 media-fonts/wps-office-fonts 1.0: The wps-office-fonts package contains Founder Chinese fonts
 media-libs/amf-headers 1.4.29: The Advanced Media Framework (AMF) SDK
 media-libs/libcamera 0.2.0: A complex camera support library for Linux, Android, and ChromeOS
-media-libs/libpng 1.6.36: Portable Network Graphics library
 media-libs/librist 0.2.6: Reliable Internet Streaming Transport
 media-libs/mesa 23.2.0_rc2: OpenGL-like graphic library for Linux
 media-libs/vkBasalt 0.3.2.10: A vulkan post processing layer for linux
