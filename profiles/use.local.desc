@@ -68,19 +68,6 @@ media-fonts/nerd-fonts:tinos - Install Nerd-fonts-patched Tinos fonts
 media-fonts/nerd-fonts:ubuntu - Install Nerd-fonts-patched Ubuntu fonts
 media-fonts/nerd-fonts:ubuntumono - Install Nerd-fonts-patched Ubuntu Mono fonts
 media-fonts/nerd-fonts:victormono - Install Nerd-fonts-patched Victor Mono fonts
-media-libs/mesa:d3d9 - Enable Direct 3D9 API through Nine state tracker. Can be used together with patched wine.
-media-libs/mesa:gles1 - Enable GLESv1 support.
-media-libs/mesa:gles2 - Enable GLESv2 support.
-media-libs/mesa:llvm - Enable LLVM backend for Gallium3D.
-media-libs/mesa:lm-sensors - Enable Gallium HUD lm-sensors support.
-media-libs/mesa:opencl - Enable the Rusticl Gallium OpenCL state tracker.
-media-libs/mesa:osmesa - Build the Mesa library for off-screen rendering.
-media-libs/mesa:proprietary-codecs - Enable codecs for patent-encumbered audio and video formats.
-media-libs/mesa:vdpau - Enable the VDPAU acceleration interface for the Gallium3D Video Layer.
-media-libs/mesa:vulkan-overlay - Build vulkan-overlay-layer which displays Frames Per Second and other statistics
-media-libs/mesa:wayland - Enable support for dev-libs/wayland
-media-libs/mesa:xa - Enable the XA (X Acceleration) API for Gallium3D.
-media-libs/mesa:zink - Enable the Zink OpenGL-over-Vulkan Gallium driver
 media-sound/jamesdsp:pipewire - Build with PipeWire support.
 media-sound/jamesdsp:pulseaudio - Build with PulseAudio support.
 media-video/obs-studio:browser - Enable browser source support via (precompiled) CEF.
