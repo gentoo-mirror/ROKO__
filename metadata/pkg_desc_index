@@ -47,6 +47,7 @@ gnome-extra/gdm-settings 2.1: A settings app for GNOME's Login/Display Manager, 
 gnome-extra/gnome-tweaks 42.0_beta: Customize advanced GNOME options
 gui-apps/gradience 0.4.1: GNOME's main interface to configure various aspects of the desktop
 gui-libs/libdecor 0.1.0 9999: A client-side decorations library for Wayland client
+gui-wm/gamescope 3.14.18-r1: Efficient micro-compositor for running games (ChimeraOS)
 media-fonts/hasklig 1.2: Hasklig - a Haskell code font with monospaced ligatures
 media-fonts/meslo-nerd 9999: Customized version of Apple's Menlo font, patched by romkatv
 media-fonts/nerd-fonts 3.2.0: Nerd Fonts is a project that patches developer targeted fonts with glyphs
