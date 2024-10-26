@@ -25,7 +25,7 @@ app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-portage/showem 1.0.6: View output of a parallel emerge from a separate terminal
 app-portage/upgrade-portage 9999: Simple way to upgrade Gentoo system
 app-portage/upkeep 1.4.1: Helper commands to automate updating with Portage.
-app-shells/gitstatus 1.5.4: Git status for Bash and Zsh prompt
+app-shells/gitstatus 1.5.4 1.5.5: Git status for Bash and Zsh prompt
 app-shells/oh-my-zsh 99999999: A ready-to-use zsh configuration with plugins
 app-shells/zsh 5.6.2: UNIX Shell similar to the Korn shell
 app-shells/zsh-autosuggestions 0.5.0 0.6.4: Fish-like fast/unobtrusive autosuggestions for zsh
@@ -41,7 +41,7 @@ games-util/gamemode 9999-r1: Optimise Linux system performance on demand
 games-util/mangohud 0.6.9.1: A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. AMDGPU testing branch
 games-util/steam-client-meta 0-r20221017: Meta package for Valve's native Steam client
 gnome-base/gnome-control-center 42.3-r99: GNOME's main interface to configure various aspects of the desktop
-gnome-extra/gdm-settings 2.1: A settings app for GNOME's Login/Display Manager, GDM
+gnome-extra/gdm-settings 2.1 4.4: A settings app for GNOME's Login/Display Manager, GDM
 gnome-extra/gnome-tweaks 42.0_beta: Customize advanced GNOME options
 gui-apps/gradience 0.4.1: GNOME's main interface to configure various aspects of the desktop
 gui-libs/libdecor 0.1.0 9999: A client-side decorations library for Wayland client
