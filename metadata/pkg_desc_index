@@ -29,7 +29,7 @@ app-shells/gitstatus 1.5.4 1.5.5: Git status for Bash and Zsh prompt
 app-shells/oh-my-zsh 99999999: A ready-to-use zsh configuration with plugins
 app-shells/zsh 5.6.2: UNIX Shell similar to the Korn shell
 app-shells/zsh-autosuggestions 0.5.0 0.6.4: Fish-like fast/unobtrusive autosuggestions for zsh
-app-shells/zsh-theme-powerlevel10k 1.17.0: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
+app-shells/zsh-theme-powerlevel10k 1.20.0: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
 app-text/tldr 2.0.0-r1: Python command line client for tldr pages
 dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::format
 dev-libs/glib 2.80.4-r99: The GLib library of C routines
@@ -59,6 +59,7 @@ media-sound/jamesdsp 9999 9999-r1: Open-source sound effects for PipeWire and Pu
 media-sound/librespot 0.4.2: An open source client library for Spotify, with support for Spotify Connect
 media-sound/soundux 0.2.7: A cross-platform soundboard 🔊
 media-sound/tidal-hifi 4.3.1 5.7.1: Tidal on Electron with widevine(hifi) support
+media-tv/plex-media-server 1.41.1.9057: Free media library that is intended for use with a plex client
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/clapper 9999: A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 media-video/haruna 0.12.2: Video player built with Qt/QML on top of libmpv
