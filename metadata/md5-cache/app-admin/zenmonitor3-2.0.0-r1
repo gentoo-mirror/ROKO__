@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile install prepare setup
+DEPEND=!sys-apps/zenmonitor sys-kernel/zenpower3
+DESCRIPTION=Monitoring software for AMD Zen-based CPUs with Zen 3 support
+EAPI=8
+HOMEPAGE=https://git.exozy.me/a/zenmonitor3
+INHERIT=linux-info
+IUSE=cli
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=!sys-apps/zenmonitor sys-kernel/zenpower3
+SLOT=0
+SRC_URI=https://git.exozy.me/a/zenmonitor3/archive/v2.0.0.tar.gz -> zenmonitor3-2.0.0.tar.gz
+_eclasses_=toolchain-funcs	d3d42b22a610ce81c267b644bcec9b87	multilib	b2a329026f2e404e9e371097dda47f96	linux-info	ea4122ba1d8791a12b78e53f9510a2e3
+_md5_=8d15b3532ecb059593aef06048a4697c

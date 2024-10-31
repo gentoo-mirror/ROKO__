@@ -2,7 +2,7 @@ app-admin/ananicy-cpp 1.0.0_rc6-r1 1.0.1: Ananicy rewritten in C++ for much lowe
 app-admin/ansible 7.7.0-r99 8.7.0-r99: Model-driven deployment, config management, and command execution framework
 app-admin/ansible-core 2.14.13-r99 2.15.8-r99: Model-driven deployment, config management, and command execution framework
 app-admin/winbox 4.0_beta6: Standalone client for Mikrotik routers
-app-admin/zenmonitor3 2.0.0: Zen monitor is monitoring software for AMD Zen-based CPUs
+app-admin/zenmonitor3 2.0.0 2.0.0-r1: Monitoring software for AMD Zen-based CPUs with Zen 3 support
 app-backup/btrfs-assistant 1.7: A GUI management tool to make managing a Btrfs filesystem easier.
 app-backup/grub-btrfs 4.10.2 4.11: Improves Grub by adding btrfs snapshots to the Grub menu.
 app-crypt/acme 1.25.0-r1: An implementation of the ACME protocol
@@ -64,6 +64,7 @@ media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Fr
 media-video/clapper 9999: A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 media-video/haruna 0.12.2: Video player built with Qt/QML on top of libmpv
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
+media-video/v4l2loopback 0.13.2: v4l2 loopback device whose output is its own input
 net-im/skypeforlinux 8.129.0.202_p365: Skype extracted from snap package without using snap crap.
 net-im/viber 21.8.0.11: Free text and calls
 net-irc/srain 1.5.1: Modern, beautiful IRC client written in GTK+ 3
@@ -78,7 +79,7 @@ sys-kernel/liquorix-sources 6.11.2_p1: The Liquorix Kernel Sources v6.x
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
 sys-kernel/xanmod-sources 6.6.54 6.9.9 6.10.12 6.11.3: Full XanMod sources including the Gentoo patchset
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
-sys-kernel/zenpower3 0.2.0: Linux kernel driver for reading sensors of AMD Zen family CPUs
+sys-kernel/zenpower3 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
 sys-process/btop 1.1.3: A monitor of resources
 sys-process/nohang 9999: A sophisticated low memory handler for Linux
