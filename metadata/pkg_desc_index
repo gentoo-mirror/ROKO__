@@ -37,6 +37,7 @@ dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::
 dev-libs/glib 2.80.4-r99: The GLib library of C routines
 dev-libs/inih 9999: Simple .INI file parser for C/C++
 dev-libs/libei 1.0.901: Library for Emulated Input, primarily aimed at the Wayland stack
+dev-libs/libopenrazer 9999: Qt wrapper around the D-Bus API from OpenRazer
 dev-php/fpdf 1.81: FPDF is a PHP class which allows to generate PDF files with pure PHP
 dev-python/sendgrid 6.9.7 6.11.0: Twilio SendGrid library for Python
 dev-python/vkbasalt-cli 3.1.1: Command-line utility for vkBasalt
@@ -46,6 +47,7 @@ games-util/steam-client-meta 0-r20221017: Meta package for Valve's native Steam 
 gnome-base/gnome-control-center 42.3-r99: GNOME's main interface to configure various aspects of the desktop
 gnome-extra/gdm-settings 2.1 4.4: A settings app for GNOME's Login/Display Manager, GDM
 gnome-extra/gnome-tweaks 42.0_beta: Customize advanced GNOME options
+gui-apps/RazerGenie 9999: Razer devices configurator
 gui-apps/gradience 0.4.1: GNOME's main interface to configure various aspects of the desktop
 gui-libs/libdecor 0.1.0 9999: A client-side decorations library for Wayland client
 gui-wm/gamescope 3.14.18-r1: Efficient micro-compositor for running games (ChimeraOS)
