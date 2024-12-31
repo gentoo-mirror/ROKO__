@@ -11,7 +11,7 @@ app-crypt/certbot 1.25.0-r1: Let's encrypt client to automate deployment of X.50
 app-crypt/certbot-apache 1.25.0-r1: Apache plugin for certbot (Let's Encrypt Client)
 app-crypt/certbot-nginx 1.25.0-r1: Nginx plugin for certbot (Let's Encrypt Client)
 app-emulation/bottles 20220314_p3: Easily manage WINE prefixes in a new way
-app-emulation/proton-ge-custom-bin 8.27 9.1 9.5 9.15: A fancy custom distribution of Valves Proton with various patches
+app-emulation/proton-ge-custom-bin 8.27 9.1 9.5 9.15 9.22: A fancy custom distribution of Valves Proton with various patches
 app-emulation/proton-ge-custom-meta 1: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-emulation/qemu 9.1.2: QEMU + Kernel-based Virtual Machine userland tools
 app-emulation/quickemu 4.9.6: Create and run optimised Windows, macOS and Linux desktop virtual machines
