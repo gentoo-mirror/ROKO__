@@ -68,6 +68,7 @@ media-video/clapper 9999: A GNOME media player built using GJS with GTK4 toolkit
 media-video/haruna 0.12.2: Video player built with Qt/QML on top of libmpv
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 media-video/v4l2loopback 0.13.2: v4l2 loopback device whose output is its own input
+net-im/caprine 2.60.3: Elegant Facebook Messenger desktop app
 net-im/skypeforlinux 8.129.0.202_p365: Skype extracted from snap package without using snap crap.
 net-im/viber 21.8.0.11: Free text and calls
 net-irc/srain 1.5.1: Modern, beautiful IRC client written in GTK+ 3
