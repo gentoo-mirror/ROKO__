@@ -79,9 +79,10 @@ sys-apps/corefreq 2.0.0: CPU monitoring software designed for the 64-bits Proces
 sys-apps/evhz 9999: Mouse refresh rate under evdev
 sys-devel/just 1.3.0: Just a command runner (with syntax inspired by 'make')
 sys-fs/duf 0.8.1: Disk Usage/Free Utility
-sys-kernel/liquorix-sources 6.11.2_p1: The Liquorix Kernel Sources v6.x
+sys-kernel/clear-sources 6.12.9_p1535: Clear Linux sources including Gentoo patchset for the 6.12 kernel tree
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
 sys-kernel/tkg-sources 6.12.10: Full linux-tkg sources including the Gentoo patchset for the 6.12 kernel tree
+sys-kernel/xanmod-sources 6.13.0 6.13.1: Full XanMod sources including the Gentoo patchset
 sys-kernel/zenpower3 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
 sys-process/btop 1.1.3: A monitor of resources
