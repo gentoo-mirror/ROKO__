@@ -1,6 +1,7 @@
 app-admin/ananicy-cpp 1.0.0_rc6-r1 1.0.1: Ananicy rewritten in C++ for much lower CPU and memory usage
 app-admin/ansible 7.7.0-r99 8.7.0-r99: Model-driven deployment, config management, and command execution framework
 app-admin/ansible-core 2.14.13-r99 2.15.8-r99: Model-driven deployment, config management, and command execution framework
+app-admin/hardinfo2 2.2.7: System Information and Benchmark for Linux Systems
 app-admin/winbox 4.0_beta6: Standalone client for Mikrotik routers
 app-backup/btrfs-assistant 1.7: A GUI management tool to make managing a Btrfs filesystem easier.
 app-backup/grub-btrfs 4.10.2 4.11: Improves Grub by adding btrfs snapshots to the Grub menu.
