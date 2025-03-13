@@ -20,9 +20,9 @@ app-misc/cpufetch 1.01: Simplistic yet fancy CPU architecture fetching tool
 app-misc/input-remapper 2.0.1: An easy to use tool to change the behaviour of your input devices.
 app-misc/nixnote 2.1.6: Nixnote - A clone of Evernote for Linux
 app-misc/solaar 1.1.11: Linux Device Manager for Logitech Unifying Receivers and Paired Devices
-app-office/freeoffice 1064: A complete, free Microsoft Office-compatible alternative office suite.
+app-office/freeoffice 1224: A complete, free Microsoft Office-compatible alternative office suite
 app-office/joplin-bin 2.12.18: Note taking app, on Electron, can import notes from Evernote
-app-office/softmaker-office 2024.1200: SoftMaker Office - an office suite featuring a word processor (TextMaker), spreadsheets (PlanMaker) and slides software (Presentations)
+app-office/softmaker-office 2024.1224: SoftMaker Office - an office suite featuring a word processor (TextMaker), spreadsheets (PlanMaker) and slides software (Presentations)
 app-portage/emlop 0.5.0: A fast, accurate, ergonomic emerge.log parser
 app-portage/showbuild 0.9 0.9.1: Script to follow log of running portage builds
 app-portage/showem 1.0.6: View output of a parallel emerge from a separate terminal
@@ -73,7 +73,7 @@ media-video/clapper 9999: A GNOME media player built using GJS with GTK4 toolkit
 media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 media-video/v4l2loopback 0.13.2: v4l2 loopback device whose output is its own input
 net-im/caprine 2.60.3: Elegant Facebook Messenger desktop app
-net-im/skypeforlinux 8.129.0.202_p365: Skype extracted from snap package without using snap crap.
+net-im/skypeforlinux 8.138.0.203_p386: Instant messaging client, with support for audio and video
 net-im/viber 21.8.0.11: Free text and calls
 net-irc/srain 1.5.1: Modern, beautiful IRC client written in GTK+ 3
 net-misc/wget2 1.99.2: GNU Wget2 is a file and recursive website downloader
@@ -85,7 +85,7 @@ sys-devel/just 1.3.0: Just a command runner (with syntax inspired by 'make')
 sys-fs/duf 0.8.1: Disk Usage/Free Utility
 sys-kernel/clear-sources 6.12.9_p1535: Clear Linux sources including Gentoo patchset for the 6.12 kernel tree
 sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, for localmodconfig
-sys-kernel/tkg-sources 6.12.10 6.13.3: Full linux-tkg sources including the Gentoo patchset for the 6.13 kernel tree
+sys-kernel/tkg-sources 6.12.10 6.13.3 6.13.6: Full linux-tkg sources including the Gentoo patchset for the 6.13 kernel tree
 sys-kernel/xanmod-sources 6.12.13 6.13.2: Full XanMod sources including the Gentoo patchset
 sys-kernel/zenpower3 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
 sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
