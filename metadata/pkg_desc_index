@@ -6,12 +6,7 @@ app-admin/hardinfo2 2.2.7: System Information and Benchmark for Linux Systems
 app-admin/winbox 4.0_beta6: Standalone client for Mikrotik routers
 app-backup/btrfs-assistant 1.7: A GUI management tool to make managing a Btrfs filesystem easier.
 app-backup/grub-btrfs 4.10.2 4.11: Improves Grub by adding btrfs snapshots to the Grub menu.
-app-crypt/acme 1.25.0-r1: An implementation of the ACME protocol
 app-crypt/buttercup-desktop-bin 1.20.5: Cross-platform, free and open-source password manager based on NodeJS.
-app-crypt/certbot 1.25.0-r1: Let's encrypt client to automate deployment of X.509 certificates
-app-crypt/certbot-apache 1.25.0-r1: Apache plugin for certbot (Let's Encrypt Client)
-app-crypt/certbot-nginx 1.25.0-r1: Nginx plugin for certbot (Let's Encrypt Client)
-app-emulation/bottles 20220314_p3: Easily manage WINE prefixes in a new way
 app-emulation/proton-ge-custom-bin 8.27 9.1 9.5 9.15 9.22 9.25: A fancy custom distribution of Valves Proton with various patches
 app-emulation/proton-ge-custom-meta 1 2: Meta package for proton-ge-custom-bin, make it easier to pull in dependencies
 app-emulation/qemu 9.1.2: QEMU + Kernel-based Virtual Machine userland tools
@@ -33,7 +28,6 @@ app-shells/oh-my-zsh 99999999: A ready-to-use zsh configuration with plugins
 app-shells/zsh 5.6.2: UNIX Shell similar to the Korn shell
 app-shells/zsh-autosuggestions 0.5.0 0.6.4: Fish-like fast/unobtrusive autosuggestions for zsh
 app-shells/zsh-theme-powerlevel10k 1.20.0: Theme for Zsh that emphasizes speed, flexibility and out-of-the-box experience
-app-text/tldr 2.0.0-r1: Python command line client for tldr pages
 dev-cpp/std-format 0_pre20220112-r1: A simple polyfill allowing you to use std::format
 dev-libs/glib 2.80.4-r99: The GLib library of C routines
 dev-libs/inih 9999: Simple .INI file parser for C/C++
@@ -70,7 +64,6 @@ media-sound/tidal-hifi 4.3.1 5.7.1: Tidal on Electron with widevine(hifi) suppor
 media-tv/plex-media-server 1.41.1.9057: Free media library that is intended for use with a plex client
 media-video/amdgpu-pro-amf 1.4.29.1538781: AMD's closed source Advanced Media Framework (AMF) driver
 media-video/clapper 9999: A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
-media-video/obs-studio 28.0.1: Software for Recording and Streaming Live Video Content
 media-video/v4l2loopback 0.13.2: v4l2 loopback device whose output is its own input
 net-im/caprine 2.60.3: Elegant Facebook Messenger desktop app
 net-im/skypeforlinux 8.138.0.203_p386: Instant messaging client, with support for audio and video
@@ -88,7 +81,6 @@ sys-kernel/modprobed-db 2.46: This utility tracks modules loaded by the kernel, 
 sys-kernel/tkg-sources 6.12.10 6.13.3 6.13.6: Full linux-tkg sources including the Gentoo patchset for the 6.13 kernel tree
 sys-kernel/xanmod-sources 6.12.13 6.13.2: Full XanMod sources including the Gentoo patchset
 sys-kernel/zenpower3 0.2.0 9999: Linux kernel driver for reading sensors of AMD Zen family CPUs
-sys-process/bpytop 1.0.67: Resource monitor that shows usage and stats
 sys-process/btop 1.1.3: A monitor of resources
 sys-process/nohang 9999: A sophisticated low memory handler for Linux
 sys-process/nvtop 2.0.1-r1: NVIDIA GPUs htop like monitoring tool
