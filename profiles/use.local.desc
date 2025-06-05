@@ -5,7 +5,6 @@
 app-admin/hardinfo2:benchmark - sysbench for benchmarking
 app-admin/hardinfo2:fwupd - fwupd
 app-admin/hardinfo2:gtk3 - gtk+ user interface
-app-crypt/buttercup-desktop-bin:xtest - Enable support for x11-libs/libXtst
 dev-libs/glib:dbus - Enable dependencies required by glib libraries using dbus service to manage settings saving
 dev-libs/glib:elf - Enable support for listing and extracting from ELF resource files with gresource tool
 dev-libs/glib:introspection - Enable generating introspection data (requires dev-libs/gobject-introspection )
