@@ -11,5 +11,5 @@ RDEPEND=dev-libs/expat dev-libs/glib:2 dev-libs/nspr dev-libs/nss >=dev-libs/ope
 RESTRICT=bindist mirror strip
 SLOT=0
 SRC_URI=amd64? ( https://repo.yandex.ru/yandex-browser/deb/pool/main/y/yandex-browser-beta/yandex-browser-beta_22.3.1.899-1_amd64.deb -> yandex-browser-beta-22.3.1.899_p1.deb )
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	linux-info	497f53bf03541c9ee8d103e895ba7b3d	chromium-2	3bebf8c71f3acd4070d63b098c45a7f1	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	wrapper	11a2a3bd712784986679b60a0cab34a0	pax-utils	5555f2e75744739fe100ee62c22d28fe
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	linux-info	efd923656513c879204fec6638eadee5	chromium-2	3bebf8c71f3acd4070d63b098c45a7f1	unpacker	79f7c61dc45eb850319a8c576ebc7b8d	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	wrapper	11a2a3bd712784986679b60a0cab34a0	pax-utils	5555f2e75744739fe100ee62c22d28fe
 _md5_=75be734635b16aac210ee487eca2752c
