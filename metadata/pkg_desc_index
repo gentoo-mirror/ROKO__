@@ -1,7 +1,4 @@
 app-admin/ananicy-cpp 1.0.0_rc6-r1 1.0.1: Ananicy rewritten in C++ for much lower CPU and memory usage
-app-admin/ansible 7.7.0-r99 8.7.0-r99 9.4.0-r99: Model-driven deployment, config management, and command execution framework
-app-admin/ansible-core 2.14.13-r99 2.15.8-r99 2.16.6-r99: Model-driven deployment, config management, and command execution framework
-app-admin/ansible-lint 24.9.2-r99: Checks ansible playbooks for practices and behaviour that can be improved
 app-admin/hardinfo2 2.2.7: System Information and Benchmark for Linux Systems
 app-admin/winbox 4.0_beta6: Standalone client for Mikrotik routers
 app-backup/btrfs-assistant 1.7: A GUI management tool to make managing a Btrfs filesystem easier.
@@ -69,6 +66,7 @@ net-vpn/openvpn 2.4.9: Robust and highly flexible tunneling application compatib
 scripts/shell-text 1.1-r1: Formatting text in echo commands
 sys-apps/corefreq 2.0.0 2.0.1: CPU monitoring software designed for the 64-bits Processors, like top
 sys-apps/evhz 9999: Mouse refresh rate under evdev
+sys-apps/fwupd 2.0.6: Aims to make updating firmware on Linux automatic, safe and reliable
 sys-devel/just 1.3.0: Just a command runner (with syntax inspired by 'make')
 sys-fs/duf 0.8.1: Disk Usage/Free Utility
 sys-kernel/clear-sources 6.12.9_p1535: Clear Linux sources including Gentoo patchset for the 6.12 kernel tree
